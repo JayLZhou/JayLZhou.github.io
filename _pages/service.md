@@ -17,7 +17,7 @@ author_profile: true
 
 
 * Transactions on Knowledge Discovery from Data (TKDD)
-
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 ## External Reviewer
 
