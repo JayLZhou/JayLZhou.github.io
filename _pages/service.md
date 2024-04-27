@@ -17,7 +17,10 @@ author_profile: true
 
 
 * Transactions on Knowledge Discovery from Data (TKDD)
-* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (Q1, IF:10.4)
+* IEEE Transactions on Fuzzy Systems (Q1, IF:11.9)
+* Information Fusion (Q1, IF:18.6)
+* Information Sciences (Q1, IF:8.1)
 
 ## External Reviewer
 
