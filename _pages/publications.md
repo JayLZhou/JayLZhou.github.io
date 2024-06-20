@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **2024**
-- **<font color="#ea6eaf">[VLDB2024]</font>** Efficient Maximal Motif-Clique Enumeration over Large Heterogeneous Information Networks.
+- **<font color="#ea6eaf">[VLDB2024]</font>** Efficient Maximal Motif-Clique Enumeration over Large Heterogeneous Information Networks    
 _**Yingli Zhou**_, Yixiang Fang, Chenhao Ma, Tianci Hou, Xin Huang
 
 - **<font color="#ea6eaf">[VLDB2024]</font>** Efficient Parallel D-core Decomposition at Scale   
