@@ -25,12 +25,12 @@ My  research interests mainly focus on large-scale data management and data mini
 #  News
 - *2024.06* 💥💥 One Paper " Efficient Maximal Motif-Clique Enumeration over Large Heterogeneous Information Networks" is accepted by VLDB 2024!
 - *2024.06* 💥💥 Our paper about the systemly benchmarck and analysis of densest subgraph discovery is available on arXiv! [[arXiv]](https://arxiv.org/abs/2112.08799)!
- 💥💥 One Paper "Efficient Parallel D-core Decomposition at Scale" is accepted by VLDB 2024!
+- *2024.04* 💥💥 One Paper "Efficient Parallel D-core Decomposition at Scale" is accepted by VLDB 2024!
 - *2024.02* 💥💥 One Paper "A Counting-based Approach for Efficient 𝑘-Clique Densest Subgraph Discovery" is accepted by SIGMOD 2024!
 - *2023.05* 💥💥 One Paper "Influential Community Search over Large Heterogeneous Information Networks" is accepted by VLDB 2023!
 
 # Selected Publications 
-- **<font color="#ea6eaf">[VLDB2024]</font>** Efficient Maximal Motif-Clique Enumeration over Large Heterogeneous Information Networks.
+- **<font color="#ea6eaf">[VLDB2024]</font>** Efficient Maximal Motif-Clique Enumeration over Large Heterogeneous Information Networks   
 _**Yingli Zhou**_, Yixiang Fang, Chenhao Ma, Tianci Hou, Xin Huang
 
 - **<font color="#ea6eaf">[VLDB2024]</font>** Efficient Parallel D-core Decomposition at Scale   
