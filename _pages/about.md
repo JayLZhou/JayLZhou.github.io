@@ -14,9 +14,9 @@ I am always open for possible collaborations, and visiting opportunities, please
 # Interests
 My  research interests mainly focus on large-scale data management and data mining, particularly graph data management and Large Language Models (LLMs) for data management. Specifically, my research interest lies in the span of the following topics:
 
-- Graph data management: community search, cohesive subgraph search,  motif counting, knowledge graph construction
-- Graph mining: densest subgraph discovery, clique algorithm, temporal graph learning
-- LLM for data management: design tools or systems that utilize LLM for data analysis tasks
+- Design simple yet effective algorithms for graph mining, utilizing linear programming and spectral methods, focusing on graph clustering and higher-order graph mining. 
+- Inspired by the success of LLMs in the fields of Natural Language Processing (NLP) and Computer Vision (CV), Yingli aims to develop pre-trained models for databases, including graph databases, to enhance the generalization capabilities of intelligent database models.
+- Develope tools or systems that utilize LLM for data analysis tasks, such as data2insight.
 
 
 
