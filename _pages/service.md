@@ -10,6 +10,7 @@ author_profile: true
 
 
 * ACM International Conference on Information & Knowledge Management (CIKM): 2024
+* ACM International Conference on Management of Data (SIGMOD): 2024 (Availability and Reproducibility Committee)
 
 
 ## Journal Reviewer
