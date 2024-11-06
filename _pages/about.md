@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: About Me
+title: Yingli ZHOU
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
