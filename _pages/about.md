@@ -17,7 +17,7 @@ My  research interests mainly focus on large-scale data management and data mini
 **<font color=" #c3a0f0">For this topic: I am focusing on developing a in-depth study about where are we for GraphRAG !!!!!</font>**
 - Design simple yet effective algorithms for graph mining, utilizing linear programming and spectral methods, focusing on graph clustering and densest subgraph discovery. 
 - Inspired by the success of LLMs in the fields of Natural Language Processing (NLP) and Computer Vision (CV), Yingli aims to develop pre-trained models for databases, including graph databases, to enhance the generalization capabilities of intelligent database models. **<font color="#f0c3a0">For this topic: I am focusing on designing a pre-trained model for realistic scenario latency prediction!!!</font>**
-- Develope tools or systems that utilize LLM for data analysis tasks, such as data2insight. **<font color="#a6d8d1">For this topic: I am focusing on designing an in-depth study about whether LLMs can serve as scientists!</font>**
+- Develope tools or systems that utilize LLM for data analysis tasks, such as data2insight. 
 
 Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work 🌟, but I often feel confused about (1) how to select a good topic; (2) which topic is more impactful; and (3) how to design a new idea.
 
