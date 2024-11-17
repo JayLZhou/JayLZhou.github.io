@@ -30,6 +30,8 @@ Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work �
 
 
 #  News
+- *2024.06* 💥💥 One Paper "PRICE: A Pretrained Model for Cross-Database
+Cardinality Estimation" is accepted by VLDB 2025!
 - *2024.06* 💥💥 One Paper " Efficient Maximal Motif-Clique Enumeration over Large Heterogeneous Information Networks" is accepted by VLDB 2024!
 - *2024.06* 💥💥 Our paper about the systemly benchmarck and analysis of densest subgraph discovery is available on arXiv! [[arXiv]](https://arxiv.org/pdf/2406.04738)!
 - *2024.04* 💥💥 One Paper "Efficient Parallel D-core Decomposition at Scale" is accepted by VLDB 2024!
