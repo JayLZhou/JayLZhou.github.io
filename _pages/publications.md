@@ -7,6 +7,9 @@ author_profile: true
 
 **2024**
 - **<font color="#ea6eaf">[VLDB2025]</font>** PRICE: A Pretrained Model for Cross-Database Cardinality Estimation   
+_**Yingli Zhou**, Qingshuo Guo, Yi Yang, Yixiang Fang, Chenhao Ma,  Laks V.S. Lakshmanan
+
+- **<font color="#ea6eaf">[VLDB2025]</font>** PRICE: A Pretrained Model for Cross-Database Cardinality Estimation   
 _Tianjing Zeng_,  Junwei Lan, Jiahong Ma, Wenqing Wei, Rong Zhu, **Yingli Zhou**,  Pengfei Li, Bolin, Ding, Defu Lian, Zhewei Wei, Jingren Zhou
 
 - **<font color="#ea6eaf">[VLDB2024]</font>** Efficient Maximal Motif-Clique Enumeration over Large Heterogeneous Information Networks    

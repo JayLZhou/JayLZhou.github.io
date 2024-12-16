@@ -30,6 +30,8 @@ Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work �
 
 
 #  News
+- *2024.12* 💥💥 One Paper "In-depth Analysis of Densest Subgraph Discovery
+in a Unified Framework" is accepted by VLDB 2025!
 - *2024.11* 💥💥 One Paper "PRICE: A Pretrained Model for Cross-Database
 Cardinality Estimation" is accepted by VLDB 2025!
 - *2024.06* 💥💥 One Paper " Efficient Maximal Motif-Clique Enumeration over Large Heterogeneous Information Networks" is accepted by VLDB 2024!
