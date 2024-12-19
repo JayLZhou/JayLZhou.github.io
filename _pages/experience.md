@@ -26,7 +26,7 @@ author_profile: true
 
 ## Honors and Awards
 
-
+- **¥20,000** - Guotai Junan Scholarship for Excellence and Better China, 2024
 - Best teaching assistant, CUHK-Shenzhen, 2023
 - Alibaba OceanBase Competition Second Place Award, 2021
 - Outstanding Graduates of Harbin Institute of Technology, 2020
