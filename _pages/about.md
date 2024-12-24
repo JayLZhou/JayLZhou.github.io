@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. Candidate student in the School of Data Science at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://sds.cuhk.edu.cn/endex.html), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/), and have a closely connection with Prof. [Chenhao Ma](https://chenhao-ma.github.io/). I got my Master degree from Harbin Institute of Technology Shenzhen in June 2022, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. 
+I'm a Ph.D. Candidate student in the School of Data Science at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://sds.cuhk.edu.cn/endex.html), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/). I got my Master degree from Harbin Institute of Technology Shenzhen in June 2022, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. 
 
 I am always open for possible collaborations, and visiting opportunities, please do not hesitate to [contact me](yinglizhou@link.cuhk.edu.cn) if you are interested!
 # Interests
 My  research interests mainly focus on large-scale data management and data mining, particularly graph data management and Large Language Models (LLMs) for data management. Specifically, my research interest lies in the span of the following topics:
-- Build efficient and lightweight 🚀 graph-based retrieval-augmented generation (RAG) methods and systems to enhance the factual accuracy, adaptability, interpretability, and trustworthiness of next-generation language models.
-- Design simple yet effective algorithms for graph mining, utilizing linear programming and spectral methods, focusing on graph clustering and densest subgraph discovery. 
+- Build **<font color="#a0c3f0">efficient and lightweight 🚀 graph-based retrieval-augmented generation (RAG) methods and systems </font>** to enhance the factual accuracy, adaptability, interpretability, and trustworthiness of next-generation language models.
+- Design simple yet effective algorithms 💫 for graph mining, utilizing linear programming and spectral methods, focusing on  densest subgraph discovery and graph clustering. 
 - Inspired by the success of LLMs in the fields of Natural Language Processing (NLP) and Computer Vision (CV), Yingli aims to develop pre-trained models for databases, including graph databases, to enhance the generalization capabilities of intelligent database models. **<font color="#f0c3a0">For this topic: I am focusing on designing a pre-trained model for realistic scenario latency prediction!!!</font>**
-- Develope tools or systems that utilize LLM for data analysis tasks, such as data2insight. 
+- Develope tools or systems that utilize LLM for data analysis tasks, such as data2insight and data cleaning. 
 
-Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work 🌟, but I often feel confused about (1) how to select a good topic; (2) which topic is more impactful; and (3) how to design a new idea.
+Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work 🌟. 
 
 
 

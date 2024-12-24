@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yingli Zhou"
   avatar           : "me.jpg"
-  bio              : "The Second year Ph.D. student @CUHK-Shenzhen, advised by Prof. Yixiang Fang."
+  bio              : "The Ph.D. Candidate @CUHK-Shenzhen, advised by Prof. Yixiang Fang."
   location         : "Shenzhen, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "https://scholar.google.com/citations?user=K-2YxegAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=Klkl1AkAAAAJ&hl=en&authuser=1"
   email            : "zhouyingli.hit@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
