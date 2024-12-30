@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Conference Program Committee Members
-
+* IJCAI: 2025
 * The Web Conference (WWW) & WWW Companion: 2025
 * ACM International Conference on Information & Knowledge Management (CIKM): 2024
 * ACM International Conference on Management of Data (SIGMOD): 2024 (Availability and Reproducibility Committee)
