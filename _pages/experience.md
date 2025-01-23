@@ -21,7 +21,7 @@ author_profile: true
 
 * **Database system developer Intern** - *PingCAP, TIDB Group*
   * Optimizing hotspot small tables
-  * Working with: [Tiancai Mao](https://github.com/tiancaiamao)
+  * Working with: [Kangli Mao](https://github.com/tiancaiamao)
 
 
 ## Honors and Awards
