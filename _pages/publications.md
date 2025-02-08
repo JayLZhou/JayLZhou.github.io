@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **2024**
-- **<font color="#ea6eaf">[VLDB2025]</font>** Efficient Historical Butterfly Counting in Large Temporal Bipartite Networks via Graph Structure-aware Index
+- **<font color="#ea6eaf">[VLDB2025]</font>** Efficient Historical Butterfly Counting in Large Temporal Bipartite Networks via Graph Structure-aware Index  
 _Qiuyang Mang_, Jingbang Chen, Hangrui Zhou, Yu Gao, **Yingli Zhou**, Qingyu Shi, Richard Peng, Yixiang Fang, Chenhao Ma
 
 - **<font color="#ea6eaf">[VLDB2025]</font>** In-depth Analysis of Densest Subgraph Discovery
