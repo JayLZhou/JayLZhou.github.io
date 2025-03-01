@@ -4,14 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**2025**
 
-**2024**
 - **<font color="#ea6eaf">[VLDB2025]</font>** Efficient Historical Butterfly Counting in Large Temporal Bipartite Networks via Graph Structure-aware Index  
 _Qiuyang Mang_, Jingbang Chen, Hangrui Zhou, Yu Gao, **Yingli Zhou**, Qingyu Shi, Richard Peng, Yixiang Fang, Chenhao Ma
 
 - **<font color="#ea6eaf">[VLDB2025]</font>** In-depth Analysis of Densest Subgraph Discovery
 in a Unified Framework  
 _**Yingli Zhou**_, Qingshuo Guo, Yi Yang, Yixiang Fang, Chenhao Ma,  Laks V.S. Lakshmanan
+
+**2024**
 
 - **<font color="#ea6eaf">[VLDB2025]</font>** PRICE: A Pretrained Model for Cross-Database Cardinality Estimation   
 _Tianjing Zeng_,  Junwei Lan, Jiahong Ma, Wenqing Wei, Rong Zhu, **Yingli Zhou**,  Pengfei Li, Bolin, Ding, Defu Lian, Zhewei Wei, Jingren Zhou
