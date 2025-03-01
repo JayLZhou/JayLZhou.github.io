@@ -27,7 +27,7 @@ author_profile: true
 ## Other Services
 * Volunteer at the VLDB 2024, Guangzhou, China.
 
-## Invided Talks
+## Invited Talks
 * Graph-based RAG: In-depth analysis via a unified framework, **ByteDance**, 2025,02.
 
 * Explore the graph-based RAG technique for software development, **Huawei Cloud**, 2024,12.
