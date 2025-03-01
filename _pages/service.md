@@ -30,4 +30,4 @@ author_profile: true
 ## Invided Talks
 * Graph-based RAG: In-depth analysis via a unified framework, **ByteDance**, 2025,02.
 
-* Explore the graph-based RAG technique for software development, **Huawei,Cloud**, 2024,12.
+* Explore the graph-based RAG technique for software development, **Huawei Cloud**, 2024,12.
