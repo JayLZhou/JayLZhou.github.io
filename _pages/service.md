@@ -20,7 +20,7 @@ author_profile: true
 * IEEE Transactions on Fuzzy Systems (**Q1**, **IF:11.9**)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (**Q1**, **IF:10.4**)
 * Information Sciences (**Q1**, **IF:8.1**)
-* Transactions on Knowledge Discovery from Data (TKDD) (**Q1, IF:3.6**)
+* ACM Transactions on Knowledge Discovery from Data (TKDD) (**Q1, IF:3.6**)
 
 
 
