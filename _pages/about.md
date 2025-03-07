@@ -21,6 +21,9 @@ Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work �
 
 
 
+## Graph-based RAG Projects
+- <a href="https://github.com/JayLZhou/GraphRAG"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=Github%20Stars&style=social"> </a>: [DIGIMON](https://github.com/JayLZhou/GraphRAGCipherChat)    
+
 
 
 
@@ -28,6 +31,7 @@ Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work �
 
 
 #  News
+- *2025.03* 💥💥 Our paper about the systemly benchmarck and analysis of graph-based RAG is available on arXiv! [[arXiv]](https://www.arxiv.org/abs/2503.04338)!
 - *2025.01* 💥💥 One Paper "Efficient Historical Butterfly Counting in Large Temporal Bipartite Networks via Graph Structure-aware Index" is accepted by VLDB 2025!
 - *2024.12* 💥💥 One Paper "In-depth Analysis of Densest Subgraph Discovery
 in a Unified Framework" is accepted by VLDB 2025!
