@@ -22,7 +22,7 @@ Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work �
 
 
 ## Graph-based RAG Projects
-- <a href="https://github.com/JayLZhou/GraphRAG"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=Github%20Stars&style=social"> </a>: [DIGIMON](https://github.com/JayLZhou/)    
+- <a href="https://github.com/JayLZhou/GraphRAG"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=Github%20Stars&style=social"> </a>: [DIGIMON](https://github.com/JayLZhou/GraphRAG)    
 
 
 
