@@ -15,7 +15,7 @@ I am always open for possible collaborations, and visiting opportunities, please
 My  research interests mainly focus on large-scale data management and data mining, particularly graph data management and Large Language Models (LLMs) for data management. Specifically, my research spans the following topics: 
 - Build **<font color="#a0c3f0">efficient and lightweight 🚀 graph-based retrieval-augmented generation (RAG) methods and systems </font>** to enhance the factual accuracy, adaptability, interpretability, and trustworthiness of next-generation language models.
 - Design simple yet effective algorithms 💫 for graph mining, utilizing linear programming and spectral methods, focusing on  densest subgraph discovery and graph clustering. 
-- Develop tools 🔧 or systems 🔨 that leverage LLMs for data analysis tasks, such as Data2Insight and data cleaning.
+- Develop tools 🔧 or systems 🔨 that leverage LLMs for data analysis tasks, such as Data2Insight, Data Cleaning, and LLM-empowered Data Processing System.
 
 Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work 🌟. 
 
