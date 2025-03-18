@@ -6,21 +6,23 @@ author_profile: true
 ---
 
 
-## Conference Program Committee Members
+## Conference PC Members (or Reviewers):
 * International Joint Conference on Artificial Intelligence (IJCAI): 2025
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2025
 * The Web Conference (WWW) & WWW Companion: 2025
-* ACM International Conference on Information & Knowledge Management (CIKM): 2024
+* ACM International Conference on Information & Knowledge Management (CIKM): 2024, 2025
 * ACM International Conference on Management of Data (SIGMOD): 2024 (Availability and Reproducibility Committee)
 
 
 ## Journal Reviewer
 
-* Information Fusion (**Q1**, **IF:18.6**)
-* IEEE Transactions on Fuzzy Systems (**Q1**, **IF:11.9**)
-* IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (**Q1**, **IF:10.4**)
-* Information Sciences (**Q1**, **IF:8.1**)
-* ACM Transactions on Knowledge Discovery from Data (TKDD) (**Q1, IF:3.6**)
+* Information Fusion 
+* Information Sciences 
+* IEEE Transactions on Fuzzy Systems
+* International Journal of Data Science and Analytics
+* ACM Transactions on Knowledge Discovery from Data (TKDD) 
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 
+
 
 
 
