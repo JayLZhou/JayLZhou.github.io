@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **2025**
-- **<font color="#ea6eaf">[SIGIR2025(Short)]</font>** UTCS: Effective Unsupervised Temporal Community Search with Pre-training of Temporal Dynamics and Subgraph Knowledge
+- **<font color="#ea6eaf">[SIGIR2025(Short)]</font>** UTCS: Effective Unsupervised Temporal Community Search with Pre-training of Temporal Dynamics and Subgraph Knowledge  
 Yue Zhang, Yankai Chen,  **Yingli Zhou**, Yucan Guo, Xiaolin Han, Chenhao Ma.
 
 - **<font color="#ea6eaf">[VLDB2025]</font>** Efficient Historical Butterfly Counting in Large Temporal Bipartite Networks via Graph Structure-aware Index  
