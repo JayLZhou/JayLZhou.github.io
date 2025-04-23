@@ -13,9 +13,9 @@ I'm a Ph.D. Candidate in the School of Data Science at [The Chinese University o
 I am always open for possible collaborations, and visiting opportunities, please do not hesitate to [contact me](yinglizhou@link.cuhk.edu.cn) if you are interested!
 # Interests
 My  research interests mainly focus on large-scale data management and data mining, particularly graph data management and Large Language Models (LLMs) for data management. Specifically, my research spans the following topics: 
-- Build **<font color="#a0c3f0">efficient and lightweight 🚀 graph-based retrieval-augmented generation (RAG) methods and systems </font>** to enhance the factual accuracy, adaptability, interpretability, and trustworthiness of next-generation language models.
-- Design simple yet effective algorithms 💫 for graph mining, utilizing linear programming and spectral methods, focusing on  densest subgraph discovery and graph clustering. 
-- Develop tools 🔧 or systems 🔨 that leverage LLMs for data analysis tasks, such as Data2Insight, Data Cleaning, and LLM-empowered Data Processing System.
+- Graph+LLM: graph-based retrieval-augmented generation (RAG) methods and systems, graph-based agent memory.
+- Graph data management/mining: densest subgraph discovery, community search, clique listing/counting.
+- AI4DB: latency prediction, cardinality estimation.
 
 Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work 🌟. 
 In addition, I am passionate about open-source communities and familiar with database kernels (such as TiDB).

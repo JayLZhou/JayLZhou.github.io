@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## Conference PC Members (or Reviewers):
+* European Conference on Artificial Intelligence (ECAI): 2025
 * International Joint Conference on Artificial Intelligence (IJCAI): 2025
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2025
 * The Web Conference (WWW) & WWW Companion: 2025
