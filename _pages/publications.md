@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 **2025**
+- **<font color="#ea6eaf">[VLDB2025]</font>** Efficient 𝑘-Clique Densest Subgraph Discovery: Towards Bridging Practice and Theory
+_**Yingli Zhou**_, Qingshuo Guo, Yixiang Fang
+
 - **<font color="#ea6eaf">[SIGIR2025(Short)]</font>** UTCS: Effective Unsupervised Temporal Community Search with Pre-training of Temporal Dynamics and Subgraph Knowledge  
 Yue Zhang, Yankai Chen,  **Yingli Zhou**, Yucan Guo, Xiaolin Han, Chenhao Ma.
 

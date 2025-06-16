@@ -29,6 +29,7 @@ author_profile: true
 - **¥20,000** - Guotai Junan Scholarship for Excellence and Better China, 2024
 - Best teaching assistant, CUHK-Shenzhen, 2023
 - Alibaba OceanBase Competition Second Place Award, 2021
+- Tencent Rhino-bird Open-source Training Program ([Tars](https://github.com/TarsCloud/Tars)), 2021
 - Outstanding Graduates of Harbin Institute of Technology, 2020
 - Outstanding Undergraduate Thesis of Harbin Institute of Technology, 2020
 - HIT People Scholarship Award, 2019

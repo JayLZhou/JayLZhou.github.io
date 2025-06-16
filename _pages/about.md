@@ -33,6 +33,7 @@ In addition, I am passionate about open-source communities and familiar with dat
 
 
 #  News
+- *2025.06* 💥💥 One Paper "Efficient 𝑘-Clique Densest Subgraph Discovery: Towards Bridging Practice and Theory" is accepted by VLDB 2025!
 - *2025.03* 💥💥 Our paper about the systemly benchmarck and analysis of graph-based RAG is available on arXiv! [[arXiv]](https://www.arxiv.org/abs/2503.04338)!
 - *2025.01* 💥💥 One Paper "Efficient Historical Butterfly Counting in Large Temporal Bipartite Networks via Graph Structure-aware Index" is accepted by VLDB 2025!
 - *2024.12* 💥💥 One Paper "In-depth Analysis of Densest Subgraph Discovery
@@ -41,5 +42,4 @@ in a Unified Framework" is accepted by VLDB 2025!
 Cardinality Estimation" is accepted by VLDB 2025!
 - *2024.06* 💥💥 One Paper "Efficient Maximal Motif-Clique Enumeration over Large Heterogeneous Information Networks" is accepted by VLDB 2024!
 - *2024.06* 💥💥 Our paper about the systemly benchmarck and analysis of densest subgraph discovery is available on arXiv! [[arXiv]](https://arxiv.org/pdf/2406.04738)!
-- *2024.04* 💥💥 One Paper "Efficient Parallel D-core Decomposition at Scale" is accepted by VLDB 2024!
 

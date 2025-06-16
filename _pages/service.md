@@ -20,6 +20,7 @@ author_profile: true
 * Information Fusion 
 * Information Sciences 
 * IEEE Transactions on Fuzzy Systems
+* Social Network Analysis and Mining
 * International Journal of Data Science and Analytics
 * ACM Transactions on Knowledge Discovery from Data (TKDD) 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 
@@ -31,6 +32,8 @@ author_profile: true
 * Volunteer at the VLDB 2024, Guangzhou, China.
 
 ## Invited Talks
+* Graph-based RAG: In-depth analysis via a unified framework, **Institute of Computing Technology, Chinese Academy of Sciences**, 2025,05.
+
 * Graph-based RAG: In-depth analysis via a unified framework, **ByteDance**, 2025,02.
 
 * Explore the graph-based RAG technique for software development, **Huawei Cloud**, 2024,12.
