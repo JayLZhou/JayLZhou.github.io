@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Conference PC Members (or Reviewers):
-* Eurosys Shadow PC: 2026
+* European Conference on Computer Systems (Eurosys): 2026 (Shadow PC)
 * European Conference on Artificial Intelligence (ECAI): 2025
 * International Joint Conference on Artificial Intelligence (IJCAI): 2025
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2025
