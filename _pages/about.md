@@ -13,7 +13,7 @@ I'm a Ph.D. Candidate in the School of Data Science at [The Chinese University o
 I am always open for possible collaborations, and visiting opportunities, please do not hesitate to [contact me](yinglizhou@link.cuhk.edu.cn) if you are interested!
 # Interests
 My  research interests mainly focus on large-scale data management and data mining, particularly graph data management and Large Language Models (LLMs) for data management. Specifically, my research spans the following topics: 
-- Data+LLM: efficient RAG systems and methods, effective tool use, and optimized plan execution in multi-agent systems.
+- Data $\times$ LLM: efficient RAG systems and methods, memory management for LLM, and intelligent agent.
 - Graph data management/mining: densest subgraph discovery, community search, clique listing/counting.
 - AI4DB: latency prediction, cardinality estimation.
 
