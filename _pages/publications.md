@@ -4,7 +4,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**2026**
+- **<font color="#ea6eaf">[VLDB2026]</font>** In-depth Analysis of Graph-based RAG in a Unified Framework    
+_**Yingli Zhou**_,Yaodong Sun, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang 
+
 **2025**
+- **<font color="#ea6eaf">[VLDB2025-LLM+Graph]</font>** Towards the Next Generation of Agent Systems: From RAG to Agentic AI    
+_**Yingli Zhou**_, Shu Wang
+
+- **<font color="#ea6eaf">[VLDB2025-LLM+Graph]</font>** Scalable Graph-based Retrieval-Augmented Generation via Locality-Sensitive Hashing    
+Fangyuan Zhang, Zhengjun Huang, _**Yingli Zhou^${*}$**_, Qingtian Guo, Wensheng Luo, Xiaofang Zhou
+
+- **<font color="#ea6eaf">[VLDB2025(Industry)]</font>** Streaming View: An Efficient Data Processing Engine for Modern Real-time Data Warehouse of Alibaba Cloud    
+Fangyuan Zhang, Mengqi Wu, Chunlei Xu, Yunong Bao, Jiyu Qiao, _**Yingli Zhou**_, HuaFan, Caihua Yin, Wenchao Zhou, Feifei Li
+
 - **<font color="#ea6eaf">[VLDB2025]</font>** Efficient 𝑘-Clique Densest Subgraph Discovery: Towards Bridging Practice and Theory    
 _**Yingli Zhou**_, Qingshuo Guo, Yixiang Fang
 
