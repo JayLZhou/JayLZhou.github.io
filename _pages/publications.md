@@ -6,10 +6,10 @@ author_profile: true
 ---
 **2026**
 - **<font color="#ea6eaf">[SIGMOD2026]</font>** Efficient and Scalable Directed Densest Subgraph Discovery    
-_**Yingli Zhou**_,Luocheng Liang, Yixiang Fang 
+_**Yingli Zhou**_, Luocheng Liang, Yixiang Fang 
 
 - **<font color="#ea6eaf">[VLDB2026]</font>** In-depth Analysis of Graph-based RAG in a Unified Framework **<font color="#6ec3eaff">(High-Star Project)</font>**    
-_**Yingli Zhou**_,Yaodong Sun, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang 
+_**Yingli Zhou**_, Yaodong Sun, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang 
 
 **2025**
 - **<font color="#ea6eaf">[VLDB2025-LLM+Graph]</font>** Towards the Next Generation of Agent Systems: From RAG to Agentic AI    
