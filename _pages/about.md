@@ -10,6 +10,9 @@ redirect_from:
 
 I'm a Ph.D. Candidate in the School of Data Science at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://sds.cuhk.edu.cn/endex.html), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/), and working closely with Prof. [Chenhao Ma](https://chenhao-ma.github.io/) and [Wensheng Luo](https://gearlessl.github.io/wensheng/). I got my Master degree from Harbin Institute of Technology Shenzhen in June 2022, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. 
 
+
+**<font color="#228b22"> I am currently on the job market. Faculty members and industry researchers who are interested are welcome to reach out to me.</font>**
+
 I am always open for possible collaborations, and visiting opportunities, please do not hesitate to [contact me](yinglizhou@link.cuhk.edu.cn) if you are interested!
 # Interests
 My  research interests mainly focus on large-scale data management and data mining, particularly graph data management and Large Language Models (LLMs) for data management. Specifically, my research spans the following topics: 
@@ -33,12 +36,12 @@ In addition, I am passionate about open-source communities and familiar with dat
 
 
 #  News
+- *2025.09* 💥💥 One paper is accepted by VLDB 2026! 😊
 - *2025.08* 💥💥 One paper is accepted by SIGMOD 2026! One paper is accepted by VLDB 2026! 
 - *2025.06* 💥💥 Two papers are accepted by VLDB LLM + Graph Workshop 2025! Our new work about the graph-based RAG on dynamic corpus is available on arXiv! [[arXiv]](https://arxiv.org/abs/2506.20963)!
 - *2025.06* 💥💥 One Paper "Efficient 𝑘-Clique Densest Subgraph Discovery: Towards Bridging Practice and Theory" is accepted by VLDB 2025!
 - *2025.03* 💥💥 Our paper about the systemly benchmarck and analysis of graph-based RAG is available on arXiv! [[arXiv]](https://www.arxiv.org/abs/2503.04338)!
 - *2025.01* 💥💥 One Paper "Efficient Historical Butterfly Counting in Large Temporal Bipartite Networks via Graph Structure-aware Index" is accepted by VLDB 2025!
-- *2024.12* 💥💥 One Paper "In-depth Analysis of Densest Subgraph Discovery
-in a Unified Framework" is accepted by VLDB 2025!
+
 
 
