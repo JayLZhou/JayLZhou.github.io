@@ -12,6 +12,8 @@ I'm a Ph.D. Candidate in the School of Data Science at [The Chinese University o
 
 
 **<font color="#b22222"> I am currently on the job market. Faculty members and industry researchers who are interested are welcome to reach out to me.</font>**
+- 💬Wechat: JayL981001
+- 📧Email: yinglizhou@link.cuhk.edu.cn or zhouyingli.hit@gmail.com
 
 I am always open for possible collaborations, and visiting opportunities, please do not hesitate to [contact me](yinglizhou@link.cuhk.edu.cn) if you are interested!
 # Interests
