@@ -13,7 +13,7 @@ author_profile: true
 * European Conference on Artificial Intelligence (ECAI): 2025
 * International Joint Conference on Artificial Intelligence (IJCAI): 2025
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2025
-* The Web Conference (WWW) & WWW Companion: 2025
+* The Web Conference (WWW) & WWW Companion: 2025, 2026
 * ACM International Conference on Information & Knowledge Management (CIKM): 2024, 2025
 * ACM International Conference on Management of Data (SIGMOD): 2024, 2025 (Availability and Reproducibility Committee)
 
