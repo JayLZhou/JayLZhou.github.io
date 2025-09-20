@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 **2026**
-- **<font color="#ea6eaf">[VLDB2026]</font>**Effective Durable Community Search in Large Temporal Graph    
-_**Yingli Zhou**_, Yige Jiang, Yixiang Fang*, Wensheng Luo, Yongmin Hu, Yingqian Hu, Cheng Chen
+- **<font color="#ea6eaf">[VLDB2026]</font>** Effective Durable Community Search in Large Temporal Graph    
+_**Yingli Zhou**_, Yige Jiang, Yixiang Fang, Wensheng Luo, Yongmin Hu, Yingqian Hu, Cheng Chen
 
 - **<font color="#ea6eaf">[SIGMOD2026]</font>** Efficient and Scalable Directed Densest Subgraph Discovery    
 _**Yingli Zhou**_, Luocheng Liang, Yixiang Fang 
