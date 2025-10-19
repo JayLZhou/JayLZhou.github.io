@@ -11,7 +11,7 @@ redirect_from:
 I'm a Ph.D. Candidate in the School of Data Science at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://sds.cuhk.edu.cn/endex.html), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/), and working closely with Prof. [Chenhao Ma](https://chenhao-ma.github.io/) and [Wensheng Luo](https://gearlessl.github.io/wensheng/). I got my Master degree from Harbin Institute of Technology Shenzhen in June 2022, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. 
 
 
-**<font color="#b22222"> For someone who are interested in my research are welcome to reach out to me.</font>**
+**<font color="#2278b2ff"> I will visit the National University of Singapore (NUS) from October 2025 to January 2026 to work with Prof. Xiaokui Xiao.</font>**
 - 💬Wechat: JayL981001
 - 📧Email: yinglizhou@link.cuhk.edu.cn or zhouyingli.hit@gmail.com
 
