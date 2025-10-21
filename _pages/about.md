@@ -46,4 +46,11 @@ In addition, I am passionate about open-source communities and familiar with dat
 - *2025.01* 💥💥 One Paper "Efficient Historical Butterfly Counting in Large Temporal Bipartite Networks via Graph Structure-aware Index" is accepted by VLDB 2025!
 
 
+# 🌟 Personal Information
+- Idols: Jay Chou (Music), Steve Jobs, and Cristiano Ronaldo
 
+- Favorite Songs: 轨迹 (Chinese) and Something Just Like This (English)
+
+- Hobbies: I enjoy jogging in my free time — it helps me think and clear my mind.
+
+- Favorite Quote: 最平凡日子，最卑微梦想. (Even in ordinary life, we should cherish our small yet sincere dreams — they give meaning to every day.)
