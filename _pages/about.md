@@ -20,7 +20,7 @@ I am always open for possible collaborations, and visiting opportunities, please
 My  research interests mainly focus on large-scale data management and data mining, particularly graph data management and  cost-efficient Large Language Models (LLMs) approaches for data management. Specifically, my research spans the following topics: 
 - Data $\times$ LLM: cost-efficient systems and methods for LLM-based applications (e.g., RAG), graph-based agent memory, and intelligent agent (e.g., Data2Insight).
 - Graph data management/mining: densest subgraph discovery, community search, clique listing/counting.
-- AI4DB: latency prediction, cardinality estimation.
+- AI4DB: latency prediction, cardinality estimation, GED estimation, and graph query.
 
 Yingli is working hard 😭😭😭 to produce impactful 🔥 and novel work 🌟. 
 In addition, I am passionate about open-source communities and familiar with database kernels (such as TiDB).
