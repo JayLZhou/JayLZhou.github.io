@@ -27,7 +27,7 @@ author_profile: true
 ## Honors and Awards
 
 - **¥20,000** - Guotai Junan Scholarship for Excellence and Better China, 2024
-- ByteDance Scholarship Nominee, 2024
+- ByteDance Scholarship Nominee (40 people in Asia), 2024
 - Best teaching assistant, CUHK-Shenzhen, 2023,2024
 - Alibaba OceanBase Competition Second Place Award, 2021
 - Tencent Rhino-bird Open-source Training Program ([Tars](https://github.com/TarsCloud/Tars)), 2021
