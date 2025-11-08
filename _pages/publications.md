@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 **2026**
+
+- **<font color="#ea6eaf">[AAAI2026-Oral]</font>** ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation    
+Shu Wang,  Yixiang Fang, _**Yingli Zhou**_, Xilin Liu, Yuchi Ma
+
+
 - **<font color="#ea6eaf">[VLDB2026]</font>** Effective Durable Community Search in Large Temporal Graph    
 _**Yingli Zhou**_, Yige Jiang, Yixiang Fang, Wensheng Luo, Yongmin Hu, Yingqian Hu, Cheng Chen
 
