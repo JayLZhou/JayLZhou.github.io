@@ -9,6 +9,7 @@ author_profile: true
 ## Conference PC Members (or Reviewers):
 * European Conference on Computer Systems (Eurosys): 2026 (Shadow PC)
 * Association for the Advancement of Artificial Intelligence (AAAI): 2026 
+* Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD): 2026
 * Australasian Database Conference (ADC): 2025
 * European Conference on Artificial Intelligence (ECAI): 2025
 * International Joint Conference on Artificial Intelligence (IJCAI): 2025
