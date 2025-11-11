@@ -28,6 +28,8 @@ author_profile: true
 * International Journal of Data Science and Analytics
 * ACM Transactions on Knowledge Discovery from Data (TKDD) 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 
+* ACM Transactions on Software Engineering and Methodology (TOSEM)
+
 
 
 
