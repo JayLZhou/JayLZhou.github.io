@@ -53,4 +53,3 @@ In addition, I am passionate about open-source communities and familiar with dat
 
 - Hobbies: I enjoy jogging in my free time — it helps me think and clear my mind.
 
-- Favorite Quote: 最平凡日子，最卑微梦想. (Even in ordinary life, we should cherish our small yet sincere dreams — they give meaning to every day.)
