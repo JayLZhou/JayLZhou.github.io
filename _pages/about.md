@@ -53,3 +53,4 @@ In addition, I am passionate about open-source communities and familiar with dat
 
 - Hobbies: I enjoy jogging in my free time — it helps me think and clear my mind.
 
+I will support my girlfriend unconditionally forever: https://yujiachen99.github.io/
