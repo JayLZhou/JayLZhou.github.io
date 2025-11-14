@@ -52,5 +52,4 @@ In addition, I am passionate about open-source communities and familiar with dat
 - Favorite Songs: 轨迹 (Chinese) and Something Just Like This (English)
 
 - Hobbies: I enjoy jogging in my free time — it helps me think and clear my mind.
-
-I will support my girlfriend unconditionally forever: https://yujiachen99.github.io/
+- My endlessly supportive [girlfriend](https://yujiachen99.github.io/) 
