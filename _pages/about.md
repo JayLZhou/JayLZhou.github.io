@@ -11,8 +11,8 @@ redirect_from:
 I'm a Ph.D. Candidate in the School of Data Science at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://sds.cuhk.edu.cn/endex.html), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/). Currently, i am a  visiting scholar in NUS, mentored by [Prof.Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/index.html). I am working closely with Prof. [Chenhao Ma](https://chenhao-ma.github.io/) and [Wensheng Luo](https://gearlessl.github.io/wensheng/). I got my Master degree from Harbin Institute of Technology Shenzhen in June 2022, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. 
 
 
- If all goes smoothly, I expect to March in January 2026 and begin my postdoctoral position in France, mentored by [Prof.Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) shortly thereafter.
- 
+ If all goes smoothly, I expect to graduate in March 2026 and begin my postdoctoral position in France, mentored by [Prof.Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) shortly thereafter.
+
 - 💬Wechat: JayL981001
 - 📧Email: yinglizhou@link.cuhk.edu.cn or zhouyingli.hit@gmail.com
 
