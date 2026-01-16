@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 **2026**
-- **<font color="#ea6eaf">[VLDB-2026]</font>** A Semantics-aware Approachfor Graph Edit Distance Estimationover Knowledge Graphs
+- **<font color="#ea6eaf">[VLDB-2026]</font>** A Semantics-aware Approachfor Graph Edit Distance Estimationover Knowledge Graphs    
 _**Yingli Zhou**_,  HuiZhong Wang, Chenhao Ma, Yixiang Fang
 
 - **<font color="#ea6eaf">[ICSE-2026-Inch]</font>** LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search    
 Yujia Chen,  _**Yingli Zhou**_, Fangyuan Zhang, Cuiyun Gao
 
 - **<font color="#ea6eaf">[VLDB-2026]</font>** Scalable Approximate Biclique Counting over Large Bipartite Graphs    
-Jingbang Chen$^{*}$,Weinuo Li, _**Yingli Zhou**_,Hangrui Zhou,Qiuyang Mang,Can Wang,Yixiang Fang,Chenhao Ma
+Jingbang Chen$^{*}$, Weinuo Li$^{*}$, _**Yingli Zhou$^{*}$**_, Hangrui Zhou, Qiuyang Mang, Can Wang, Yixiang Fang, Chenhao Ma
 
 - **<font color="#ea6eaf">[AAAI2026-Oral]</font>** ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation    
 Shu Wang,  Yixiang Fang, _**Yingli Zhou**_, Xilin Liu, Yuchi Ma
