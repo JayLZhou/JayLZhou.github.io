@@ -19,7 +19,7 @@ Shu Wang,  Yixiang Fang, _**Yingli Zhou**_, Xilin Liu, Yuchi Ma
 
 
 - **<font color="#ea6eaf">[VLDB2026]</font>** Effective Durable Community Search in Large Temporal Graph    
-_**Yingli Zhou**_, Yige Jiang, Yixiang Fang, Wensheng Luo, Yongmin Hu, Yingqian Hu, Cheng Chen
+_**Yingli Zhou<sup>#</sup>**_, Yige Jiang<sup>#</sup>, Yixiang Fang, Wensheng Luo, Yongmin Hu, Yingqian Hu, Cheng Chen
 
 - **<font color="#ea6eaf">[SIGMOD2026]</font>** Efficient and Scalable Directed Densest Subgraph Discovery    
 _**Yingli Zhou**_, Luocheng Liang, Yixiang Fang 
@@ -40,7 +40,7 @@ Fangyuan Zhang, Zhengjun Huang, _**Yingli Zhou^${*}$**_, Qingtian Guo, Wensheng 
 Fangyuan Zhang, Mengqi Wu, Chunlei Xu, Yunong Bao, Jiyu Qiao, _**Yingli Zhou**_, HuaFan, Caihua Yin, Wenchao Zhou, Feifei Li
 
 - **<font color="#ea6eaf">[VLDB2025]</font>** Efficient 𝑘-Clique Densest Subgraph Discovery: Towards Bridging Practice and Theory    
-_**Yingli Zhou**_, Qingshuo Guo, Yixiang Fang
+_**Yingli Zhou<sup>#</sup>**_, Qingshuo Guo<sup>#</sup>, Yixiang Fang
 
 - **<font color="#ea6eaf">[SIGIR2025(Short)]</font>** UTCS: Effective Unsupervised Temporal Community Search with Pre-training of Temporal Dynamics and Subgraph Knowledge  
 Yue Zhang, Yankai Chen,  **Yingli Zhou**, Yucan Guo, Xiaolin Han, Chenhao Ma.
