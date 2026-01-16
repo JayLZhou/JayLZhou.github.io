@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 **2026**
+- **<font color="#ea6eaf">[VLDB-2026]</font>** A Semantics-aware Approachfor Graph Edit Distance Estimationover Knowledge Graphs
+_**Yingli Zhou**_,  HuiZhong Wang, Chenhao Ma, Yixiang Fang
+
+- **<font color="#ea6eaf">[ICSE-2026-Inch]</font>** LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search    
+Yujia Chen,  _**Yingli Zhou**_, Fangyuan Zhang, Cuiyun Gao
+
+- **<font color="#ea6eaf">[VLDB-2026]</font>** Scalable Approximate Biclique Counting over Large Bipartite Graphs    
+Jingbang Chen$^{*}$,Weinuo Li, _**Yingli Zhou**_,Hangrui Zhou,Qiuyang Mang,Can Wang,Yixiang Fang,Chenhao Ma
 
 - **<font color="#ea6eaf">[AAAI2026-Oral]</font>** ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation    
 Shu Wang,  Yixiang Fang, _**Yingli Zhou**_, Xilin Liu, Yuchi Ma
@@ -16,10 +24,12 @@ _**Yingli Zhou**_, Yige Jiang, Yixiang Fang, Wensheng Luo, Yongmin Hu, Yingqian 
 - **<font color="#ea6eaf">[SIGMOD2026]</font>** Efficient and Scalable Directed Densest Subgraph Discovery    
 _**Yingli Zhou**_, Luocheng Liang, Yixiang Fang 
 
-- **<font color="#ea6eaf">[VLDB2026]</font>** In-depth Analysis of Graph-based RAG in a Unified Framework **<font color="#6ec3eaff">(High-Star Project)</font>**    
-_**Yingli Zhou**_, Yaodong Su, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang 
+
 
 **2025**
+- **<font color="#ea6eaf">[VLDB2025]</font>** In-depth Analysis of Graph-based RAG in a Unified Framework **<font color="#6ec3eaff">(High-Star Project)</font>**    
+_**Yingli Zhou**_, Yaodong Su, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang 
+
 - **<font color="#ea6eaf">[VLDB2025-LLM+Graph]</font>** Towards the Next Generation of Agent Systems: From RAG to Agentic AI    
 _**Yingli Zhou**_, Shu Wang
 
