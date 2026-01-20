@@ -25,7 +25,7 @@ author_profile: true
 
 
 ## Honors and Awards
-- BYD Scholarship (1 people in the School), 2024
+- BYD Scholarship (1 people in the School), 2025
 - Guotai Junan Scholarship for Excellence and Better China (4 people in the University), 2024
 - ByteDance Scholarship Nominee (40 people in World), 2024
 - Best teaching assistant, CUHK-Shenzhen, 2023,2024
