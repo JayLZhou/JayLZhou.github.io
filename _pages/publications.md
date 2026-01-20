@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **2026**
-- **<font color="#ea6eaf">[VLDB2026]</font>** A Semantics-aware Approachfor Graph Edit Distance Estimationover Knowledge Graphs    
+- **<font color="#ea6eaf">[VLDB2026]</font>** A Semantics-aware Approach for Graph Edit Distance Estimation over Knowledge Graphs    
 _**Yingli Zhou**_,  HuiZhong Wang, Chenhao Ma, Yixiang Fang
 
 - **<font color="#ea6eaf">[ICSE2026-Inch]</font>** LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search    
