@@ -29,6 +29,9 @@ author_profile: true
 * ACM Transactions on Knowledge Discovery from Data (TKDD) 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 
 * ACM Transactions on Software Engineering and Methodology (TOSEM)
+* IEEE Transactions on Knowledge Discovery from Data (TKDE)
+
+
 
 
 
