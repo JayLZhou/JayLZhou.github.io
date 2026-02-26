@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 **2026**
+- **<font color="#ea6eaf">[SIGMOD2026]</font>** HAMMER: An Automatic RAG Tuning System via Hierarchical Memory-Guided Monte Carlo Tree Search    
+_**Yingli Zhou**_,  Zixuan Wang, Yixiang Fang
+
+- **<font color="#ea6eaf">[SIGMOD2026]</font>** Efficient Anchored Densest Subgraph Discovery: Improved Time Complexity and Practical Performance    
+_**Yingli Zhou**_,  Youran Sun, Yixiang Fang
+
 - **<font color="#ea6eaf">[VLDB2026]</font>** A Semantics-aware Approach for Graph Edit Distance Estimation over Knowledge Graphs    
 _**Yingli Zhou**_,  HuiZhong Wang, Chenhao Ma, Yixiang Fang
 
