@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **2026**
-- **<font color="#ea6eaf">[VLDBJ2026]</font>** “Lamba: A Pretrained Model for Latency
+- **<font color="#ea6eaf">[VLDBJ2026]</font>** Lamba: A Pretrained Model for Latency
 Prediction over Distributed Databases    
 _**Yingli Zhou<sup>#</sup>**_, Tianjing Zeng<sup>#</sup>, Rong Zhu, Yingze Li, Junwei Lan, Zhewei Wei, Yixiang Fang, Bolin Ding, and Jingren Zhou
 
