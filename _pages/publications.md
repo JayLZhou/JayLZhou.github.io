@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 **2026**
+- **<font color="#ea6eaf">[VLDBJ2026]</font>** “Lamba: A Pretrained Model for Latency
+Prediction over Distributed Databases    
+_**Yingli Zhou<sup>#</sup>**_, Tianjing Zeng<sup>#</sup>, Rong Zhu, Yingze Li, Junwei Lan, Zhewei Wei, Yixiang Fang, Bolin Ding, and Jingren Zhou
+
 - **<font color="#ea6eaf">[SIGMOD2026]</font>** HAMMER: An Automatic RAG Tuning System via Hierarchical Memory-Guided Monte Carlo Tree Search    
 _**Yingli Zhou**_,  Zixuan Wang, Yixiang Fang
 
