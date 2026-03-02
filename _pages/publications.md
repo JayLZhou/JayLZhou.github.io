@@ -8,12 +8,12 @@ author_profile: true
 ## 🧠 Graph-based LLM Systems
 
 <div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
-  <em style="color: #555; font-size: 0.95em;">Exploring the intersection of large language models and structural graph data, with a focus on Retrieval-Augmented Generation (RAG), dynamic memory mechanisms, and the design of next-generation Agentic AI architectures.</em>
+  <em style="color: #555; font-size: 0.95em;">Develop cost-efficient, high-performance graph-based LLM systems spanning Retrieval-Augmented Generation (RAG), structured agent memory, and large-scale social simulation.</em>
 </div>
 
-1. _**Yingli Zhou**_, Zixuan Wang, Yixiang Fang. HAMMER: An Automatic RAG Tuning System via Hierarchical Memory-Guided Monte Carlo Tree Search. Proceedings of the ACM on Management of Data (**<font color="#ea6eaf">SIGMOD</font>**), vol(issue): pages, 2026.
-2. Shu Wang, Yixiang Fang, _**Yingli Zhou**_, Xilin Liu, Yuchi Ma. ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation. AAAI Conference on Artificial Intelligence (**<font color="#ea6eaf">AAAI Oral</font>**), vol(issue): pages, 2026.
-3. _**Yingli Zhou**_, Yaodong Su, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang. In-depth Analysis of Graph-based RAG in a Unified Framework. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**), vol(issue): pages, 2025. **<font color="#6ec3eaff">(High-Star Project)</font>**
+1. _**Yingli Zhou**_, Zixuan Wang, Yixiang Fang. HAMMER: An Automatic RAG Tuning System via Hierarchical Memory-Guided Monte Carlo Tree Search. Proceedings of the ACM on Management of Data (**<font color="#ea6eaf">SIGMOD</font>**), 2026.
+2. Shu Wang, Yixiang Fang, _**Yingli Zhou**_, Xilin Liu, Yuchi Ma. ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation. AAAI Conference on Artificial Intelligence (**<font color="#ea6eaf">AAAI Oral</font>**), 2026.
+3. _**Yingli Zhou**_, Yaodong Su, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang. In-depth Analysis of Graph-based RAG in a Unified Framework. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**), 18(13): 5623 - 5637. **<font color="#6ec3eaff">(High-Star Project)</font>**
 4. _**Yingli Zhou**_, Shu Wang. Towards the Next Generation of Agent Systems: From RAG to Agentic AI. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**), vol(issue): pages, 2025.
 5. Fangyuan Zhang, Zhengjun Huang, _**Yingli Zhou^${*}$**_, Qingtian Guo, Wensheng Luo, Xiaofang Zhou. Scalable Graph-based Retrieval-Augmented Generation via Locality-Sensitive Hashing. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**), vol(issue): pages, 2025.
 
