@@ -61,4 +61,4 @@ author_profile: true
   <em style="color: #555; font-size: 0.95em;">Bridging theoretical research with industrial practice by building scalable, real-time data processing engines and robust database architectures for modern data warehouses.</em>
 </div>
 
-1. Fangyuan Zhang, Mengqi Wu, Chunlei Xu, Yunong Bao, Jiyu Qiao, _**Yingli Zhou**_, HuaFan, Caihua Yin, Wenchao Zhou, Feifei Li. Streaming View: An Efficient Data Processing Engine for Modern Real-time Data Warehouse of Alibaba Cloud. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**), 2025.
+1. Fangyuan Zhang, Mengqi Wu, Chunlei Xu, Yunong Bao, Jiyu Qiao, _**Yingli Zhou**_, Hua Fan, Caihua Yin, Wenchao Zhou, Feifei Li. Streaming View: An Efficient Data Processing Engine for Modern Real-time Data Warehouse of Alibaba Cloud. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**), 2025.
