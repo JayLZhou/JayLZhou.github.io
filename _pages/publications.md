@@ -8,7 +8,7 @@ author_profile: true
 ## 🧠 Graph-based LLM Systems
 
 <div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
-  <em style="color: #555; font-size: 0.95em;">Develop cost-efficient, high-performance graph-based LLM systems spanning Retrieval-Augmented Generation (RAG), structured agent memory, and large-scale social simulation.</em>
+  <em style="color: #555; font-size: 0.95em;">Designing cost-efficient, high-performance graph-based LLM systems spanning Retrieval-Augmented Generation (RAG), structured agent memory, and large-scale social simulation.</em>
 </div>
 
 1. _**Yingli Zhou**_, Zixuan Wang, Yixiang Fang. HAMMER: An Automatic RAG Tuning System via Hierarchical Memory-Guided Monte Carlo Tree Search. Proceedings of the ACM on Management of Data (**<font color="#ea6eaf">SIGMOD</font>**), 2026.
@@ -27,14 +27,14 @@ author_profile: true
 
 1. _**Yingli Zhou<sup>#</sup>**_, Tianjing Zeng<sup>#</sup>, Rong Zhu, Yingze Li, Junwei Lan, Zhewei Wei, Yixiang Fang, Bolin Ding, and Jingren Zhou. Lamba: A Pretrained Model for Latency Prediction over Distributed Databases. The VLDB Journal (**<font color="#ea6eaf">VLDBJ</font>**), 2026.
 2. Yujia Chen, _**Yingli Zhou**_, Fangyuan Zhang, Cuiyun Gao. LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search. International Conference on Software Engineering (**<font color="#ea6eaf">ICSE</font>**),Industry Challenge Track, 2026.
-3. _Tianjing Zeng_, Junwei Lan, Jiahong Ma, Wenqing Wei, Rong Zhu, **Yingli Zhou**, Pengfei Li, Bolin Ding, Defu Lian, Zhewei Wei, Jingren Zhou. PRICE: A Pretrained Model for Cross-Database Cardinality Estimation. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**),18(3):  637 - 650, 2025.
+3. _Tianjing Zeng_, Junwei Lan, Jiahong Ma, Wenqing Wei, Rong Zhu, **Yingli Zhou**, Pengfei Li, Bolin Ding, Defu Lian, Zhewei Wei, Jingren Zhou. PRICE: A Pretrained Model for Cross-Database Cardinality Estimation. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**),18(3): 637 - 650, 2025.
 
 ---
 
 ## 🕸️ Graph Mining & Algorithms
 
 <div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
-  <em style="color: #555; font-size: 0.95em;">Developing highly efficient and scalable algorithms for complex structural data, with deep expertise in densest subgraph discovery, community search, and structural estimations across dynamic, heterogeneous, and bipartite networks.</em>
+  <em style="color: #555; font-size: 0.95em;">Developing highly efficient and scalable algorithms for graph mining and graph data management, including densest subgraph discovery, community search, and clique counting/listing.</em>
 </div>
 
 1. _**Yingli Zhou**_, Youran Sun, Yixiang Fang. Efficient Anchored Densest Subgraph Discovery: Improved Time Complexity and Practical Performance. Proceedings of the ACM on Management of Data (**<font color="#ea6eaf">SIGMOD</font>**), vol(issue): pages, 2026.
@@ -61,4 +61,4 @@ author_profile: true
   <em style="color: #555; font-size: 0.95em;">Bridging theoretical research with industrial practice by building scalable, real-time data processing engines and robust database architectures for modern data warehouses.</em>
 </div>
 
-1. Fangyuan Zhang, Mengqi Wu, Chunlei Xu, Yunong Bao, Jiyu Qiao, _**Yingli Zhou**_, HuaFan, Caihua Yin, Wenchao Zhou, Feifei Li. Streaming View: An Efficient Data Processing Engine for Modern Real-time Data Warehouse of Alibaba Cloud. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB Industry</font>**), vol(issue): pages, 2025.
+1. Fangyuan Zhang, Mengqi Wu, Chunlei Xu, Yunong Bao, Jiyu Qiao, _**Yingli Zhou**_, HuaFan, Caihua Yin, Wenchao Zhou, Feifei Li. Streaming View: An Efficient Data Processing Engine for Modern Real-time Data Warehouse of Alibaba Cloud. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**), 2025.
