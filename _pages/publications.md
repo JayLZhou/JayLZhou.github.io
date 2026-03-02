@@ -5,8 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Graph-based LLM Systems
-*Exploring the intersection of large language models and structural graph data, with a focus on Retrieval-Augmented Generation (RAG), dynamic memory mechanisms, and the design of next-generation Agentic AI architectures.*
+## 🧠 Graph-based LLM Systems
+
+<div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
+  <em style="color: #555; font-size: 0.95em;">Exploring the intersection of large language models and structural graph data, with a focus on Retrieval-Augmented Generation (RAG), dynamic memory mechanisms, and the design of next-generation Agentic AI architectures.</em>
+</div>
 
 - **<font color="#ea6eaf">[SIGMOD2026]</font>** HAMMER: An Automatic RAG Tuning System via Hierarchical Memory-Guided Monte Carlo Tree Search    
 _**Yingli Zhou**_, Zixuan Wang, Yixiang Fang
@@ -24,8 +27,11 @@ Fangyuan Zhang, Zhengjun Huang, _**Yingli Zhou^${*}$**_, Qingtian Guo, Wensheng 
 
 ---
 
-## Large (Language) Models for Data
-*Advancing database system optimizations and data management through the application of pre-trained models and LLMs, covering pivotal tasks such as cardinality estimation, latency prediction, and automated testing.*
+## 🗄️ Large (Language) Models for Data
+
+<div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
+  <em style="color: #555; font-size: 0.95em;">Advancing database system optimizations and data management through the application of pre-trained models and LLMs, covering pivotal tasks such as cardinality estimation, latency prediction, and automated testing.</em>
+</div>
 
 - **<font color="#ea6eaf">[VLDBJ2026]</font>** Lamba: A Pretrained Model for Latency Prediction over Distributed Databases    
 _**Yingli Zhou<sup>#</sup>**_, Tianjing Zeng<sup>#</sup>, Rong Zhu, Yingze Li, Junwei Lan, Zhewei Wei, Yixiang Fang, Bolin Ding, and Jingren Zhou
@@ -38,8 +44,11 @@ _Tianjing Zeng_, Junwei Lan, Jiahong Ma, Wenqing Wei, Rong Zhu, **Yingli Zhou**,
 
 ---
 
-## Graph Mining & Algorithms
-*Developing highly efficient and scalable algorithms for complex structural data, with deep expertise in densest subgraph discovery, community search, and structural estimations across dynamic, heterogeneous, and bipartite networks.*
+## 🕸️ Graph Mining & Algorithms
+
+<div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
+  <em style="color: #555; font-size: 0.95em;">Developing highly efficient and scalable algorithms for complex structural data, with deep expertise in densest subgraph discovery, community search, and structural estimations across dynamic, heterogeneous, and bipartite networks.</em>
+</div>
 
 - **<font color="#ea6eaf">[SIGMOD2026]</font>** Efficient Anchored Densest Subgraph Discovery: Improved Time Complexity and Practical Performance    
 _**Yingli Zhou**_, Youran Sun, Yixiang Fang
@@ -88,8 +97,11 @@ _**Yingli Zhou**_, Yixiang Fang, Wensheng Luo, Yunming Ye \| [[pdf]](https://www
 
 ---
 
-## Database Systems & Industry Applications
-*Bridging theoretical research with industrial practice by building scalable, real-time data processing engines and robust database architectures for modern data warehouses.*
+## ⚙️ Database Systems & Industry Applications
+
+<div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
+  <em style="color: #555; font-size: 0.95em;">Bridging theoretical research with industrial practice by building scalable, real-time data processing engines and robust database architectures for modern data warehouses.</em>
+</div>
 
 - **<font color="#ea6eaf">[VLDB2025(Industry)]</font>** Streaming View: An Efficient Data Processing Engine for Modern Real-time Data Warehouse of Alibaba Cloud    
 Fangyuan Zhang, Mengqi Wu, Chunlei Xu, Yunong Bao, Jiyu Qiao, _**Yingli Zhou**_, HuaFan, Caihua Yin, Wenchao Zhou, Feifei Li
