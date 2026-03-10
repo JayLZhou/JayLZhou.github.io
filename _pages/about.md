@@ -26,7 +26,7 @@ I am open to collaborations, invited talks, and visiting opportunities. Please r
 
 ### 🔨 Large (Language) Models for Data
 
-- LLM-powered and pretrained methods for data systems, including latency prediction, cardinality estimation, and automated DBMS testing.
+- LLM-powered and pretrained methods for data systems, including dataset search, latency prediction, cardinality estimation, and automated DBMS testing.
 
 ### ⚡️ Graph Mining & Algorithms
 

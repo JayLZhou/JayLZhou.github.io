@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 <div style="background: linear-gradient(135deg, #f7fbff 0%, #f4f8f3 100%); border: 1px solid #d9e7df; border-radius: 14px; padding: 20px 22px; margin-bottom: 28px;">
-  <p style="margin: 0 0 10px 0; font-size: 1.05em;"><strong>Overview.</strong> My research focuses on data management, graph mining, and large language models, with an emphasis on building efficient, reliable, and scalable systems for real-world data-intensive applications.</p>
+  <p style="margin: 0 0 10px 0; font-size: 1.05em;"><strong>Overview.</strong> My research focuses on data management, graph mining, and large language models, with an emphasis on building efficient, reliable, and scalable algorithms and systems for real-world data-intensive applications.</p>
   <p style="margin: 0;">The topics below are aligned with my <a href="/publications/">publications</a> and current projects.</p>
 </div>
 
 ## Research Interests: Overview
 
 - Graph-based LLM systems: retrieval-augmented generation, graph memory, and agentic systems.
-- AI for data systems: latency prediction, cardinality estimation, automated testing, and learned components for DBMS.
+- AI for data systems: dataset search, latency prediction, cardinality estimation, automated testing, and learned components for DBMS.
 - Graph data management and mining: densest subgraph discovery, community search, temporal graphs, and graph pattern mining.
 - Industrial data systems: scalable database kernels and real-time data processing infrastructures.
 
@@ -47,7 +47,7 @@ author_profile: true
   </div>
   <div style="flex: 2 1 420px; min-width: 280px;">
     <h3 style="margin-top: 0;">Topic 2: AI for Data Systems</h3>
-    <p>I build learning-enhanced methods for database systems, especially for tasks where traditional heuristics are expensive or brittle. My work spans latency prediction, cardinality estimation, and test-case generation for DBMS with LLMs.</p>
+    <p>I build learning-enhanced methods for database systems, especially for tasks where traditional heuristics are expensive or brittle. My work spans dataset search, latency prediction, cardinality estimation, and test-case generation for DBMS with LLMs.</p>
     <ul>
       <li>Pretrained models for latency prediction over distributed databases: VLDB Journal 2026.</li>
       <li>Cross-database cardinality estimation with pretrained models: VLDB 2025.</li>
@@ -90,6 +90,6 @@ author_profile: true
 
 - For a complete list, please see [Publications](/publications/).
 - Graph-based LLM Systems: SIGMOD 2026, AAAI 2026, ICDE 2026, VLDB 2025.
-- AI for Data Systems: VLDB Journal 2026, ICSE 2026, VLDB 2025.
+- AI for Data Systems: dataset search, VLDB Journal 2026, ICSE 2026, VLDB 2025.
 - Graph Mining and Algorithms: SIGMOD 2024-2026, VLDB 2023-2026, KDD 2026, SIGIR 2025.
 - Database Systems and Industry Applications: VLDB 2025.

@@ -23,7 +23,7 @@ author_profile: true
 ## 🔨 Large (Language) Models for Data
 
 <div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
-  <em style="color: #555; font-size: 0.95em;">Advancing database system optimizations and data management through the application of pre-trained models and LLMs, covering pivotal tasks such as cardinality estimation, latency prediction, and automated testing.</em>
+  <em style="color: #555; font-size: 0.95em;">Advancing database system optimizations and data management through the application of pre-trained models and LLMs, covering pivotal tasks such as dataset search, cardinality estimation, latency prediction, and automated testing.</em>
 </div>
 
 1. _**Yingli Zhou<sup>#</sup>**_, Tianjing Zeng<sup>#</sup>, Rong Zhu, Yingze Li, Junwei Lan, Zhewei Wei, Yixiang Fang, Bolin Ding, and Jingren Zhou. Lamba: A Pretrained Model for Latency Prediction over Distributed Databases. The VLDB Journal (**<font color="#ea6eaf">VLDBJ</font>**), 2026.
