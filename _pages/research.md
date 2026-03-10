@@ -30,10 +30,16 @@ author_profile: true
       <li>Graph-based RAG benchmarking and unified analysis: VLDB 2025.</li>
       <li>Automatic RAG tuning and optimization: SIGMOD 2026.</li>
       <li>Hierarchical and attributed graph-based RAG methods: ICDE 2026, AAAI 2026.</li>
-      <li>Open-source systems: <a href="https://github.com/JayLZhou/GraphRAG">GraphRAG / DIGIMON</a>, <a href="https://github.com/EverM0re/EraRAG-Official">EraRAG</a>.</li>
     </ul>
   </div>
 </div>
+
+### Selected Open-Source Projects
+
+#### Graph-based RAG Systems
+
+- [DIGIMON / GraphRAG](https://github.com/JayLZhou/GraphRAG): a graph-based RAG system for structured retrieval and reasoning. <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20Repo%20stars&style=social"></a>
+- [EraRAG](https://github.com/EverM0re/EraRAG-Official): a unified benchmark and analysis framework for graph-based RAG. <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20Repo%20stars&style=social"></a>
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 26px;">
   <div style="flex: 1 1 260px; min-width: 260px;">
