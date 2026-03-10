@@ -49,8 +49,7 @@ author_profile: false
     <h3 style="margin: 0 0 10px 0; color: #9a5a12; font-size: 1.45em; line-height: 1.25;"> Large (Language) Models for Data</h3>
     <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I build LLM-powered and pretrained methods for data systems, covering dataset search, latency prediction, cardinality estimation, and DBMS testing.</p>
     <ul style="margin: 0; padding-left: 1.15em; color: #3f4650; line-height: 1.7;">
-      <li>Pretrained models for latency prediction over distributed databases: VLDB Journal 2026.</li>
-      <li>Cross-database cardinality estimation with pretrained models: VLDB 2025.</li>
+      <li>Pretrained models for database optimization: VLDB 2025, VLDB Journal 2026.</li>
       <li>LLM-based test-case generation for DBMS: ICSE 2026.</li>
     </ul>
   </div>
@@ -67,11 +66,11 @@ author_profile: false
   <div style="flex: 1 1 420px; min-width: 320px; background: rgba(255,255,255,0.82); border: 1px solid rgba(175,214,190,0.9); border-radius: 14px; padding: 18px 22px;">
     <div style="display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; background: #dff1e6; color: #2f7a5b; font-size: 0.82em; font-weight: 700; letter-spacing: 0.02em;">Topic 3</div>
     <h3 style="margin: 0 0 10px 0; color: #2f7a5b; font-size: 1.45em; line-height: 1.25;">Graph Mining and Graph Algorithms</h3>
-    <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I design scalable graph mining algorithms for densest subgraph discovery, community search, clique counting, temporal graphs, and graph similarity tasks.</p>
+    <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I design scalable graph mining algorithms for densest subgraph discovery, community search, clique counting/listing, and graph similarity tasks.</p>
     <ul style="margin: 0; padding-left: 1.15em; color: #3f4650; line-height: 1.7;">
-      <li>Densest subgraph discovery on undirected and directed graphs: SIGMOD 2024, VLDB 2025, SIGMOD 2026.</li>
-      <li>Community search over heterogeneous and temporal graphs: VLDB 2023, VLDB 2026, SIGMOD 2026.</li>
-      <li>Graph edit distance estimation, motif-clique enumeration, and biclique counting: VLDB 2024-2026.</li>
+      <li>Densest subgraph discovery: SIGMOD 2024, 2 * VLDB 2025, 2 * SIGMOD 2026.</li>
+      <li>Community search: VLDB 2023, VLDB 2026, SIGMOD 2026.</li>
+      <li>Clique counting/listing: VLDB 2024, VLDB 2025, VLDB 2026.</li>
     </ul>
   </div>
 </div>
