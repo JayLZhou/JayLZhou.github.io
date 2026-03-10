@@ -1,0 +1,18 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#FCFAF7"/>
+  <rect x="88" y="78" width="1024" height="564" rx="28" fill="#FFFFFF" stroke="#E6DDD2" stroke-width="4"/>
+  <circle cx="266" cy="218" r="66" fill="#CFE9D8"/>
+  <circle cx="416" cy="338" r="52" fill="#BFDDF7"/>
+  <circle cx="604" cy="186" r="48" fill="#F8D8D0"/>
+  <circle cx="736" cy="324" r="74" fill="#FBE8B5"/>
+  <circle cx="930" cy="220" r="60" fill="#DDD1F8"/>
+  <circle cx="866" cy="458" r="46" fill="#C8ECE6"/>
+  <path d="M266 218L416 338" stroke="#7B8C85" stroke-width="10" stroke-linecap="round"/>
+  <path d="M266 218L604 186" stroke="#7B8C85" stroke-width="10" stroke-linecap="round"/>
+  <path d="M416 338L604 186" stroke="#7B8C85" stroke-width="10" stroke-linecap="round"/>
+  <path d="M604 186L736 324" stroke="#7B8C85" stroke-width="10" stroke-linecap="round"/>
+  <path d="M736 324L930 220" stroke="#7B8C85" stroke-width="10" stroke-linecap="round"/>
+  <path d="M736 324L866 458" stroke="#7B8C85" stroke-width="10" stroke-linecap="round"/>
+  <rect x="166" y="496" width="868" height="74" rx="16" fill="#F8FBFF" stroke="#D8E3EC" stroke-width="4"/>
+  <text x="222" y="542" fill="#445A68" font-family="Arial, sans-serif" font-size="30" font-weight="700">Densest Subgraph  •  Community Search  •  Temporal Graph Mining</text>
+</svg>

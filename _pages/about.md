@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the School of Data Science at [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/). I am currently a visiting scholar at the [National University of Singapore](https://www.comp.nus.edu.sg/), hosted by Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/index.html). I also collaborate closely with Prof. [Chenhao Ma](https://chenhao-ma.github.io/) and Dr. [Wensheng Luo](https://gearlessl.github.io/wensheng/).
+I will join the University of Lyon 1, France, as a postdoctoral researcher affiliated with [CNRS LIRIS](https://liris.cnrs.fr/), where I will work with Prof. [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). Before that, I will obtain my Ph.D. in late March 2026 from the School of Data Science at [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/).
 
-My research lies at the intersection of data management, graph mining, and large language models. I build efficient graph-based RAG systems, study learning-enhanced data systems, and design scalable graph algorithms for large real-world datasets.
+I received my M.Eng. from Harbin Institute of Technology, Shenzhen, in 2022 and my B.Eng. from Harbin Institute of Technology in 2020, both under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). I am currently also a visiting scholar at the [National University of Singapore](https://www.comp.nus.edu.sg/), hosted by Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/index.html).
 
-I received my M.Eng. from Harbin Institute of Technology, Shenzhen, in June 2022 under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN), and my B.Eng. from Harbin Institute of Technology in June 2020. I expect to graduate in March 2026 and will join the University of Lyon 1, France, as a postdoctoral researcher affiliated with [CNRS LIRIS](https://liris.cnrs.fr/), working with Prof. [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/).
+My research lies at the intersection of data management, graph mining, and large language models. I am broadly interested in graph-based RAG systems, LLM-powered data systems, and scalable graph mining algorithms.
+
+I also work closely with Dr. [Chenhao Ma](https://chenhao-ma.github.io/), who is an Assistant Professor at The Chinese University of Hong Kong, Shenzhen. Prior to that, he was a Postdoctoral Fellow at the University of Hong Kong. He received his Ph.D. from the Department of Computer Science at HKU in 2021, advised by Prof. Reynold Cheng, and was a visiting student at UNSW in 2019 working with Prof. Xuemin Lin. He has published more than 40 papers in databases and data mining, including one of the Best of SIGMOD 2020 and the ACM SIGMOD Research Highlight Award 2021.
 
 I am open to collaborations, invited talks, and visiting opportunities. Please reach out via [email](mailto:yinglizhou@link.cuhk.edu.cn).
 

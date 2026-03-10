@@ -1,0 +1,15 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#F8FBFF"/>
+  <rect x="88" y="78" width="1024" height="564" rx="28" fill="#FFFFFF" stroke="#D7E3F0" stroke-width="4"/>
+  <rect x="164" y="138" width="332" height="164" rx="22" fill="#EAF3FF" stroke="#A8C5E6" stroke-width="4"/>
+  <text x="206" y="198" fill="#2F567B" font-family="Arial, sans-serif" font-size="34" font-weight="700">Learned Models</text>
+  <text x="206" y="246" fill="#2F567B" font-family="Arial, sans-serif" font-size="22">Latency, cardinality, testing</text>
+  <rect x="688" y="138" width="332" height="164" rx="22" fill="#F3F8EA" stroke="#BDD59B" stroke-width="4"/>
+  <text x="746" y="198" fill="#4E6B23" font-family="Arial, sans-serif" font-size="34" font-weight="700">DBMS</text>
+  <text x="746" y="246" fill="#4E6B23" font-family="Arial, sans-serif" font-size="22">Optimizer, engine, workload</text>
+  <path d="M496 220H688" stroke="#7D97B3" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="594" cy="220" r="24" fill="#F8E2A8"/>
+  <rect x="182" y="392" width="836" height="138" rx="24" fill="#FFF8EF" stroke="#F0D09C" stroke-width="4"/>
+  <text x="236" y="452" fill="#86622A" font-family="Arial, sans-serif" font-size="31" font-weight="700">AI for Data Systems</text>
+  <text x="236" y="496" fill="#86622A" font-family="Arial, sans-serif" font-size="22">Reliable learned components for practical database workloads</text>
+</svg>
