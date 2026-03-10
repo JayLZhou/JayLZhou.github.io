@@ -5,34 +5,38 @@ permalink: /experience/
 author_profile: true
 ---
 
-
-
 ## Experience
 
+- **Visiting Scholar**, National University of Singapore
+  - 2025-present
+  - Hosted by Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/index.html)
+  - Working on graph data management and graph-based LLM systems
 
+- **Research Intern**, Alibaba Institute for Intelligent Computing, Data Analytics and Intelligence Lab
+  - 2025
+  - Worked on systems for building efficient LLM applications
+  - Collaborated with [Rong Zhu](https://redgitcard.github.io/redgitcard/) and [Bolin Ding](https://bolinding.github.io/index.html)
 
-* **Research Intern** - *Alibaba Institute for Intelligent Computing, Data Analytics and Intelligence Lab*
-  * Systems for building LLM applications
-  * Working with [Rong Zhu](https://redgitcard.github.io/redgitcard/) and [Bolin Ding](https://bolinding.github.io/index.html)
+- **Research Intern**, Huawei Cloud, PaaS Technology Innovation Lab
+  - 2024
+  - Studied code knowledge graphs for improving code LLM performance
+  - Collaborated with Xilin Liu and Yuchi Ma
 
-* **Research Intern** - *Huawei Cloud, PaaS Technology Innovation Lab*
-  * Improving the code-LLM's performance via code knowledge graph
-  * Working with: Xilin Liu and Yuchi Ma
-
-* **Database system developer Intern** - *PingCAP, TIDB Group*
-  * Optimizing hotspot small tables
-  * Working with: [Kangli Mao](https://github.com/tiancaiamao)
+- **Database System Developer Intern**, PingCAP, TiDB Group
+  - 2021
+  - Optimized hotspot small-table workloads in TiDB
+  - Collaborated with [Kangli Mao](https://github.com/tiancaiamao)
 
 
 ## Honors and Awards
-- BYD Scholarship (1 people in the School), 2025
-- Guotai Junan Scholarship for Excellence and Better China (4 people in the University), 2024
-- ByteDance Scholarship Nominee (40 people in World), 2024
-- Best teaching assistant, CUHK-Shenzhen, 2023,2024
-- Alibaba OceanBase Competition Second Place Award, 2021
+
+- BYD Scholarship (1 recipient in the school), 2025
+- Guotai Junan Scholarship for Excellence and Better China (4 recipients university-wide), 2024
+- ByteDance Scholarship Nominee (40 nominees worldwide), 2024
+- Best Teaching Assistant, CUHK-Shenzhen, 2023, 2024
+- Alibaba OceanBase Competition, Second Place, 2021
 - Tencent Rhino-bird Open-source Training Program ([Tars](https://github.com/TarsCloud/Tars)), 2021
-- Outstanding Graduates of Harbin Institute of Technology, 2020
-- Outstanding Undergraduate Thesis of Harbin Institute of Technology, 2020
-- HIT People Scholarship Award, 2019
-- Outstanding Student Leader Award at HIT, 2018
-- HIT People Scholarship Award, 2018
+- Outstanding Graduate, Harbin Institute of Technology, 2020
+- Outstanding Undergraduate Thesis, Harbin Institute of Technology, 2020
+- HIT People's Scholarship, 2018, 2019
+- Outstanding Student Leader Award, Harbin Institute of Technology, 2018
