@@ -15,8 +15,8 @@ author_profile: false
 ## Representative Research Topics
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: stretch; margin-bottom: 4px; background: linear-gradient(135deg, #eef6fb 0%, #f7fbfe 100%); border: 1px solid #c7ddeb; border-radius: 18px; padding: 18px;">
-  <div style="flex: 0 1 480px; min-width: 400px; display: flex;">
-    <div style="width: 100%; height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #b7d1e4; box-shadow: 0 10px 24px rgba(47, 111, 151, 0.10); padding: 12px; display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 0 1 470px; min-width: 400px; display: flex;">
+    <div style="width: 100%; height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #b7d1e4; box-shadow: 0 10px 24px rgba(47, 111, 151, 0.10); padding: 6px; display: flex; align-items: center; justify-content: center;">
       <img src="/images/graphllm.png" alt="Graph-based LLM systems" style="width: 100%; height: 100%; max-height: 100%; object-fit: contain; border-radius: 12px; background: #ffffff;">
     </div>
   </div>
