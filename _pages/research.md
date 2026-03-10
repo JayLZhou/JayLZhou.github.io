@@ -59,8 +59,8 @@ author_profile: false
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: stretch; margin-bottom: 8px; background: linear-gradient(135deg, #eef8f2 0%, #f7fbf8 100%); border: 1px solid #bddfc9; border-radius: 18px; padding: 18px;">
   <div style="flex: 0 1 460px; min-width: 360px; display: flex;">
     <div style="width: 100%; height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #afd6be; box-shadow: 0 10px 24px rgba(47, 122, 91, 0.10); padding: 2px 6px; display: flex; align-items: center; justify-content: center;">
-      <a href="/images/research-graph.svg" style="display: flex; width: 100%; height: 100%; align-items: center; justify-content: center;">
-        <img src="/images/research-graph.svg" alt="Graph mining and algorithms" style="width: 100%; height: 100%; max-height: 100%; object-fit: contain; border-radius: 12px; background: #ffffff;">
+      <a href="/images/research-graph.img" style="display: flex; width: 100%; height: 100%; align-items: center; justify-content: center;">
+        <img src="/images/research-graph.img" alt="Graph mining and algorithms" style="width: 100%; height: 100%; max-height: 100%; object-fit: contain; border-radius: 12px; background: #ffffff;">
       </a>
     </div>
   </div>
