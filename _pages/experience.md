@@ -8,22 +8,18 @@ author_profile: true
 ## Experience
 
 - **Visiting Scholar**, National University of Singapore
-  - 2025-present
   - Hosted by Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/index.html)
-  - Working on graph data management and graph-based LLM systems
+  - Working on graph-based RAG systems
 
-- **Research Intern**, Alibaba Institute for Intelligent Computing, Data Analytics and Intelligence Lab
-  - 2025
-  - Worked on systems for building efficient LLM applications
+- **Research Intern**, Alibaba Tongyi Lab
+  - Worked on systems for building pre-trained latency prediction models.
   - Collaborated with [Rong Zhu](https://redgitcard.github.io/redgitcard/) and [Bolin Ding](https://bolinding.github.io/index.html)
 
 - **Research Intern**, Huawei Cloud, PaaS Technology Innovation Lab
-  - 2024
   - Studied code knowledge graphs for improving code LLM performance
   - Collaborated with Xilin Liu and Yuchi Ma
 
 - **Database System Developer Intern**, PingCAP, TiDB Group
-  - 2021
   - Optimized hotspot small-table workloads in TiDB
   - Collaborated with [Kangli Mao](https://github.com/tiancaiamao)
 
