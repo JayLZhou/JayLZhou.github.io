@@ -20,17 +20,7 @@ I am open to collaborations, invited talks, and visiting opportunities. Please r
 
 ## Research Interests
 
-### 🧭 Graph-based LLM Systems
-
-- Cost-efficient graph-based RAG systems, graph memory, and agentic retrieval for knowledge-intensive tasks.
-
-### 🔨 Large (Language) Models for Data
-
-- LLM-powered and pretrained methods for data systems, including dataset search, latency prediction, cardinality estimation, and automated DBMS testing.
-
-### ⚡️ Graph Mining & Algorithms
-
-- Scalable algorithms for densest subgraph discovery, community search, clique counting/listing, temporal graph analytics, and graph edit distance estimation.
+My research interests mainly focus on data management, graph mining, and artificial intelligence over large-scale graph data, particularly graph-based LLM systems and scalable graph analytics, including graph-based RAG, graph memory, LLM-powered methods for data systems (e.g., dataset search, latency prediction), and graph mining algorithms with theoretical bounds, such as densest subgraph discovery, and so on.
 
 ## Recent News
 

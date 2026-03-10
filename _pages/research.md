@@ -12,10 +12,17 @@ author_profile: true
 
 ## Research Interests: Overview
 
-- Graph-based LLM systems: retrieval-augmented generation, graph memory, and agentic systems.
-- AI for data systems: dataset search, latency prediction, cardinality estimation, automated testing, and learned components for DBMS.
-- Graph data management and mining: densest subgraph discovery, community search, temporal graphs, and graph pattern mining.
-- Industrial data systems: scalable database kernels and real-time data processing infrastructures.
+### 🧭 Graph-based LLM Systems
+
+- Cost-efficient graph-based RAG systems, graph memory, and agentic retrieval for knowledge-intensive tasks.
+
+### 🔨 Large (Language) Models for Data
+
+- LLM-powered and pretrained methods for data systems, including dataset search, latency prediction, cardinality estimation, and automated DBMS testing.
+
+### ⚡️ Graph Mining & Algorithms
+
+- Scalable algorithms for densest subgraph discovery, community search, clique counting/listing, temporal graph analytics, and graph edit distance estimation.
 
 ## Representative Research Topics
 
