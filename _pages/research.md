@@ -6,11 +6,10 @@ author_profile: true
 ---
 
 <div style="background: linear-gradient(135deg, #f7fbff 0%, #f4f8f3 100%); border: 1px solid #d9e7df; border-radius: 14px; padding: 20px 22px; margin-bottom: 28px;">
-  <p style="margin: 0 0 10px 0; font-size: 1.05em;"><strong>Overview.</strong> My general research interests mainly focus on data management, graph mining, and large language models for big data, with an emphasis on building efficient, reliable, and scalable algorithms and systems for real-world data-intensive applications.</p>
-  <p style="margin: 0;">Currently, I am working on the following research topics, which are aligned with my <a href="/publications/">publications</a> and current projects.</p>
+  <p style="margin: 0 0 10px 0; font-size: 1.05em;"><strong>Overview.</strong> My research focuses on data management, graph mining, and large language models for big data. Currently, I am working on the following research topics, which are aligned with my <a href="/publications/">publications</a> and current projects.</p>
 </div>
 
-## Research Interests: Overview
+## Current Research Topics
 
 ### 🧭 Graph-based LLM Systems
 
