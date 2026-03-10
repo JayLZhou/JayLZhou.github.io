@@ -14,13 +14,13 @@ author_profile: false
 
 ## Representative Research Topics
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-bottom: 26px; background: linear-gradient(135deg, #eef6fb 0%, #f7fbfe 100%); border: 1px solid #c7ddeb; border-radius: 18px; padding: 18px;">
-  <div style="flex: 0 1 360px; min-width: 280px; display: flex;">
-    <div style="width: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #b7d1e4; box-shadow: 0 10px 24px rgba(47, 111, 151, 0.10); padding: 12px; display: flex; align-items: center; justify-content: center;">
-      <img src="/images/graphllm.png" alt="Graph-based LLM systems" style="width: 100%; height: auto; max-height: 320px; object-fit: contain; border-radius: 12px; background: #ffffff;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: stretch; margin-bottom: 26px; background: linear-gradient(135deg, #eef6fb 0%, #f7fbfe 100%); border: 1px solid #c7ddeb; border-radius: 18px; padding: 18px;">
+  <div style="flex: 0 1 420px; min-width: 320px; display: flex;">
+    <div style="width: 100%; height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #b7d1e4; box-shadow: 0 10px 24px rgba(47, 111, 151, 0.10); padding: 12px; display: flex; align-items: center; justify-content: center;">
+      <img src="/images/graphllm.png" alt="Graph-based LLM systems" style="width: 100%; height: 100%; max-height: 100%; object-fit: contain; border-radius: 12px; background: #ffffff;">
     </div>
   </div>
-  <div style="flex: 1 1 420px; min-width: 280px; background: rgba(255,255,255,0.82); border: 1px solid rgba(183,209,228,0.85); border-radius: 14px; padding: 18px 22px;">
+  <div style="flex: 1 1 420px; min-width: 320px; background: rgba(255,255,255,0.82); border: 1px solid rgba(183,209,228,0.85); border-radius: 14px; padding: 18px 22px;">
     <div style="display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; background: #dcecf7; color: #2f6f97; font-size: 0.82em; font-weight: 700; letter-spacing: 0.02em;">Topic 1</div>
     <h3 style="margin: 0 0 10px 0; color: #2f6f97; font-size: 1.45em; line-height: 1.25;">Graph-based LLM Systems</h3>
     <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I study graph-based retrieval, memory, and reasoning for large language model systems, with a focus on efficient RAG frameworks, indexing, and tuning.</p>
@@ -34,13 +34,13 @@ author_profile: false
 
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-bottom: 26px; background: linear-gradient(135deg, #fff7ec 0%, #fffaf3 100%); border: 1px solid #efd2a3; border-radius: 18px; padding: 18px;">
-  <div style="flex: 0 1 360px; min-width: 280px; display: flex;">
-    <div style="width: 100%; background: #ffffff; border-radius: 14px; border: 1px solid #e6c58f; box-shadow: 0 10px 24px rgba(154, 90, 18, 0.10); padding: 12px; display: flex; align-items: center; justify-content: center;">
-      <img src="/images/research-ai4db.svg" alt="AI for data systems" style="width: 100%; height: auto; max-height: 320px; object-fit: contain; border-radius: 12px; background: #ffffff;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: stretch; margin-bottom: 26px; background: linear-gradient(135deg, #fff7ec 0%, #fffaf3 100%); border: 1px solid #efd2a3; border-radius: 18px; padding: 18px;">
+  <div style="flex: 0 1 420px; min-width: 320px; display: flex;">
+    <div style="width: 100%; height: 100%; background: #ffffff; border-radius: 14px; border: 1px solid #e6c58f; box-shadow: 0 10px 24px rgba(154, 90, 18, 0.10); padding: 12px; display: flex; align-items: center; justify-content: center;">
+      <img src="/images/research-ai4db.svg" alt="AI for data systems" style="width: 100%; height: 100%; max-height: 100%; object-fit: contain; border-radius: 12px; background: #ffffff;">
     </div>
   </div>
-  <div style="flex: 1 1 420px; min-width: 280px; background: rgba(255,255,255,0.82); border: 1px solid rgba(230,197,143,0.9); border-radius: 14px; padding: 18px 22px;">
+  <div style="flex: 1 1 420px; min-width: 320px; background: rgba(255,255,255,0.82); border: 1px solid rgba(230,197,143,0.9); border-radius: 14px; padding: 18px 22px;">
     <div style="display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; background: #f8e7ca; color: #9a5a12; font-size: 0.82em; font-weight: 700; letter-spacing: 0.02em;">Topic 2</div>
     <h3 style="margin: 0 0 10px 0; color: #9a5a12; font-size: 1.45em; line-height: 1.25;">AI for Data Systems</h3>
     <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I build LLM-powered and pretrained methods for data systems, covering dataset search, latency prediction, cardinality estimation, and DBMS testing.</p>
@@ -52,13 +52,13 @@ author_profile: false
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-bottom: 26px; background: linear-gradient(135deg, #eef8f2 0%, #f7fbf8 100%); border: 1px solid #bddfc9; border-radius: 18px; padding: 18px;">
-  <div style="flex: 0 1 360px; min-width: 280px; display: flex;">
-    <div style="width: 100%; background: #ffffff; border-radius: 14px; border: 1px solid #afd6be; box-shadow: 0 10px 24px rgba(47, 122, 91, 0.10); padding: 12px; display: flex; align-items: center; justify-content: center;">
-      <img src="/images/research-graph.svg" alt="Graph mining and algorithms" style="width: 100%; height: auto; max-height: 320px; object-fit: contain; border-radius: 12px; background: #ffffff;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: stretch; margin-bottom: 26px; background: linear-gradient(135deg, #eef8f2 0%, #f7fbf8 100%); border: 1px solid #bddfc9; border-radius: 18px; padding: 18px;">
+  <div style="flex: 0 1 420px; min-width: 320px; display: flex;">
+    <div style="width: 100%; height: 100%; background: #ffffff; border-radius: 14px; border: 1px solid #afd6be; box-shadow: 0 10px 24px rgba(47, 122, 91, 0.10); padding: 12px; display: flex; align-items: center; justify-content: center;">
+      <img src="/images/research-graph.svg" alt="Graph mining and algorithms" style="width: 100%; height: 100%; max-height: 100%; object-fit: contain; border-radius: 12px; background: #ffffff;">
     </div>
   </div>
-  <div style="flex: 1 1 420px; min-width: 280px; background: rgba(255,255,255,0.82); border: 1px solid rgba(175,214,190,0.9); border-radius: 14px; padding: 18px 22px;">
+  <div style="flex: 1 1 420px; min-width: 320px; background: rgba(255,255,255,0.82); border: 1px solid rgba(175,214,190,0.9); border-radius: 14px; padding: 18px 22px;">
     <div style="display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; background: #dff1e6; color: #2f7a5b; font-size: 0.82em; font-weight: 700; letter-spacing: 0.02em;">Topic 3</div>
     <h3 style="margin: 0 0 10px 0; color: #2f7a5b; font-size: 1.45em; line-height: 1.25;">Graph Mining and Graph Algorithms</h3>
     <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I design scalable graph mining algorithms for densest subgraph discovery, community search, clique counting, temporal graphs, and graph similarity tasks.</p>
