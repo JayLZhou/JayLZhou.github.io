@@ -18,7 +18,7 @@ author_profile: false
   <div style="flex: 0 1 480px; min-width: 360px; display: flex; align-self: stretch;">
     <div style="width: 100%; min-height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #b7d1e4; box-shadow: 0 10px 24px rgba(47, 111, 151, 0.10); padding: 2px 6px; display: flex; align-items: stretch; justify-content: center;">
       <a href="/images/graphllm.png" style="display: flex; width: 100%; min-height: 100%; align-items: center; justify-content: center;">
-        <img src="/images/graphllm.png" alt="Graph-based LLM systems" style="width: 100%; height: 100%; object-fit: cover; object-position: center; border-radius: 12px; background: #ffffff;">
+        <img src="/images/graphllm.png" alt="Graph-based LLM systems" style="width: 95%; height: 95%; object-fit: cover; object-position: center; border-radius: 12px; background: #ffffff;">
       </a>
     </div>
   </div>
@@ -40,7 +40,7 @@ author_profile: false
   <div style="flex: 0 1 480px; min-width: 360px; display: flex; align-self: stretch;">
     <div style="width: 100%; min-height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #e6c58f; box-shadow: 0 10px 24px rgba(154, 90, 18, 0.10); padding: 2px 6px; display: flex; align-items: stretch; justify-content: center;">
       <a href="/images/research-ai4db.png" style="display: flex; width: 100%; min-height: 100%; align-items: center; justify-content: center;">
-        <img src="/images/research-ai4db.png" alt="AI for data systems" style="width: 100%; height: 100%; object-fit: cover; object-position: center; border-radius: 12px; background: #ffffff;">
+        <img src="/images/research-ai4db.png" alt="AI for data systems" style="width: 95%; height: 95%; object-fit: cover; object-position: center; border-radius: 12px; background: #ffffff;">
       </a>
     </div>
   </div>
@@ -60,7 +60,7 @@ author_profile: false
   <div style="flex: 0 1 480px; min-width: 360px; display: flex; align-self: stretch;">
     <div style="width: 100%; min-height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #afd6be; box-shadow: 0 10px 24px rgba(47, 122, 91, 0.10); padding: 2px 6px; display: flex; align-items: stretch; justify-content: center;">
       <a href="/images/research-graph.png" style="display: flex; width: 100%; min-height: 100%; align-items: center; justify-content: center;">
-        <img src="/images/research-graph.png" alt="Graph mining and algorithms" style="width: 100%; height: 100%; object-fit: cover; object-position: center; border-radius: 12px; background: #ffffff;">
+        <img src="/images/research-graph.png" alt="Graph mining and algorithms" style="width: 95%; height: 95%; object-fit: cover; object-position: center; border-radius: 12px; background: #ffffff;">
       </a>
     </div>
   </div>
