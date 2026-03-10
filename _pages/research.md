@@ -39,8 +39,8 @@ author_profile: false
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: stretch; margin-bottom: 26px; background: linear-gradient(135deg, #fff7ec 0%, #fffaf3 100%); border: 1px solid #efd2a3; border-radius: 18px; padding: 18px;">
   <div style="flex: 0 1 460px; min-width: 360px; display: flex;">
     <div style="width: 100%; height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #e6c58f; box-shadow: 0 10px 24px rgba(154, 90, 18, 0.10); padding: 2px 6px; display: flex; align-items: center; justify-content: center;">
-      <a href="/images/research-ai4db.svg" style="display: flex; width: 100%; height: 100%; align-items: center; justify-content: center;">
-        <img src="/images/research-ai4db.svg" alt="AI for data systems" style="width: 100%; height: 100%; max-height: 100%; object-fit: contain; border-radius: 12px; background: #ffffff;">
+      <a href="/images/research-ai4db.png" style="display: flex; width: 100%; height: 100%; align-items: center; justify-content: center;">
+        <img src="/images/research-ai4db.png" alt="AI for data systems" style="width: 100%; height: 100%; max-height: 100%; object-fit: contain; border-radius: 12px; background: #ffffff;">
       </a>
     </div>
   </div>
