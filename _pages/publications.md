@@ -7,14 +7,14 @@ author_profile: true
 
 ## 🧭 Graph-based LLM Systems
 
-<div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
+<div style="background-color: #eef6fb; border-left: 4px solid #2f6f97; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
   <em style="color: #555; font-size: 0.95em;">Designing cost-efficient, high-performance graph-based LLM systems spanning Retrieval-Augmented Generation (RAG), structured agent memory, and large-scale social simulation.</em>
 </div>
 
 1. _**Yingli Zhou**_, Zixuan Wang, Yixiang Fang. HAMMER: An Automatic RAG Tuning System via Hierarchical Memory-Guided Monte Carlo Tree Search. Proceedings of the ACM on Management of Data (**<font color="#ea6eaf">SIGMOD</font>**), 2026.
 2. Shu Wang, Yixiang Fang, _**Yingli Zhou**_, Xilin Liu, Yuchi Ma. ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation. AAAI Conference on Artificial Intelligence (**<font color="#ea6eaf">AAAI Oral</font>**), 2026.
 3. Yaodong Su, Yixiang Fang, _**Yingli Zhou**_, Chuanhui Yang. Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph-based Index. IEEE International Conference on Data Engineering (**<font color="#ea6eaf">ICDE</font>**), 2026.
-4. _**Yingli Zhou**_, Yaodong Su, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang. In-depth Analysis of Graph-based RAG in a Unified Framework. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**), 18(13): 5623 - 5637. **<font color="#6ec3eaff">(High-Star Project)</font>**
+4. _**Yingli Zhou**_, Yaodong Su, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang. In-depth Analysis of Graph-based RAG in a Unified Framework. Proceedings of the VLDB Endowment (**<font color="#2f6f97">VLDB</font>**), 18(13): 5623 - 5637. **<font color="#4f9ac7">(High-Star Project)</font>**
 5. _**Yingli Zhou**_, Shu Wang. Towards the Next Generation of Agent Systems: From RAG to Agentic AI. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**), Graph+LLM Workshop, 2025.
 6. Fangyuan Zhang, Zhengjun Huang, _**Yingli Zhou^${*}$**_, Qingtian Guo, Wensheng Luo, Xiaofang Zhou. Scalable Graph-based Retrieval-Augmented Generation via Locality-Sensitive Hashing. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**), Graph+LLM Workshop, 2025.
 
@@ -22,7 +22,7 @@ author_profile: true
 
 ## 🔨 Large (Language) Models for Data
 
-<div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
+<div style="background-color: #fff7ec; border-left: 4px solid #9a5a12; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
   <em style="color: #555; font-size: 0.95em;">Advancing database system optimizations and data management through the application of pre-trained models and LLMs, covering pivotal tasks such as dataset search, cardinality estimation, latency prediction, and automated testing.</em>
 </div>
 
@@ -34,7 +34,7 @@ author_profile: true
 
 ## ⚡️ Graph Mining & Algorithms
 
-<div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
+<div style="background-color: #eef8f2; border-left: 4px solid #2f7a5b; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
   <em style="color: #555; font-size: 0.95em;">Developing highly efficient and scalable algorithms for graph mining and graph data management, including densest subgraph discovery, community search, and clique counting/listing.</em>
 </div>
 
@@ -58,7 +58,7 @@ author_profile: true
 
 ## ⚙️ Database Systems & Industry Applications
 
-<div style="background-color: #fdfafb; border-left: 4px solid #ea6eaf; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
+<div style="background-color: #f4f5f7; border-left: 4px solid #6b7280; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
   <em style="color: #555; font-size: 0.95em;">Bridging theoretical research with industrial practice by building scalable, real-time data processing engines and robust database architectures for modern data warehouses.</em>
 </div>
 

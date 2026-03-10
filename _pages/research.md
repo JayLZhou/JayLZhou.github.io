@@ -7,19 +7,19 @@ author_profile: true
 
 <div style="background: linear-gradient(135deg, #f7fbff 0%, #f4f8f3 100%); border: 1px solid #d9e7df; border-radius: 14px; padding: 20px 22px; margin-bottom: 28px;">
   <p style="margin: 0 0 12px 0; font-size: 1.05em;"><strong>Overview.</strong> My research focuses on data management, graph mining, and large language models for big data. My current research topics, aligned with my <a href="/publications/">publications</a> and ongoing projects, include:</p>
-  <p style="margin: 0 0 8px 0;"><strong>🧭 Graph-based LLM Systems.</strong> Cost-efficient graph-based RAG systems, graph memory, and agentic retrieval for knowledge-intensive tasks.</p>
-  <p style="margin: 0 0 8px 0;"><strong>🔨 Large (Language) Models for Data.</strong> LLM-powered and pretrained methods for data systems, including dataset search, latency prediction, cardinality estimation, and automated DBMS testing.</p>
-  <p style="margin: 0;"><strong>⚡️ Graph Mining & Algorithms.</strong> Scalable algorithms for densest subgraph discovery, community search, clique counting/listing, temporal graph analytics, and graph edit distance estimation.</p>
+  <p style="margin: 0 0 8px 0; color: #2f6f97;"><strong>🧭 Graph-based LLM Systems.</strong> <span style="color: #2f2f2f;">Cost-efficient graph-based RAG systems, graph memory, and agentic retrieval for knowledge-intensive tasks.</span></p>
+  <p style="margin: 0 0 8px 0; color: #9a5a12;"><strong>🔨 Large (Language) Models for Data.</strong> <span style="color: #2f2f2f;">LLM-powered and pretrained methods for data systems, including dataset search, latency prediction, cardinality estimation, and automated DBMS testing.</span></p>
+  <p style="margin: 0; color: #2f7a5b;"><strong>⚡️ Graph Mining & Algorithms.</strong> <span style="color: #2f2f2f;">Scalable algorithms for densest subgraph discovery, community search, clique counting/listing, temporal graph analytics, and graph edit distance estimation.</span></p>
 </div>
 
 ## Representative Research Topics
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 26px;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 26px; background: #eef6fb; border: 1px solid #c7ddeb; border-radius: 16px; padding: 18px;">
   <div style="flex: 1 1 260px; min-width: 260px;">
-    <img src="/images/research-rag.svg" alt="Graph-based LLM systems" style="width: 100%; border-radius: 12px; border: 1px solid #d8e4ea; background: #ffffff;">
+    <img src="/images/research-rag.svg" alt="Graph-based LLM systems" style="width: 100%; border-radius: 12px; border: 1px solid #b7d1e4; background: #ffffff;">
   </div>
   <div style="flex: 2 1 420px; min-width: 280px;">
-    <h3 style="margin-top: 0;">Topic 1: Graph-based LLM Systems</h3>
+    <h3 style="margin-top: 0; color: #2f6f97;">Topic 1: Graph-based LLM Systems</h3>
     <p>I study how graph structures can improve retrieval, memory, and reasoning in large language model systems. A major line of my recent work is graph-based retrieval-augmented generation, where I investigate both system benchmarking and new indexing or tuning methods for accurate and cost-efficient retrieval.</p>
     <ul>
       <li>Graph-based RAG benchmarking and unified analysis: VLDB 2025.</li>
@@ -29,19 +29,14 @@ author_profile: true
   </div>
 </div>
 
-### Selected Open-Source Projects
 
-#### Graph-based RAG Systems
 
-- [DIGIMON / GraphRAG](https://github.com/JayLZhou/GraphRAG): a graph-based RAG system for structured retrieval and reasoning. <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20Repo%20stars&style=social"></a>
-- [EraRAG](https://github.com/EverM0re/EraRAG-Official): a unified benchmark and analysis framework for graph-based RAG. <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20Repo%20stars&style=social"></a>
-
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 26px;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 26px; background: #fff7ec; border: 1px solid #efd2a3; border-radius: 16px; padding: 18px;">
   <div style="flex: 1 1 260px; min-width: 260px;">
-    <img src="/images/research-ai4db.svg" alt="AI for data systems" style="width: 100%; border-radius: 12px; border: 1px solid #d8e4ea; background: #ffffff;">
+    <img src="/images/research-ai4db.svg" alt="AI for data systems" style="width: 100%; border-radius: 12px; border: 1px solid #e6c58f; background: #ffffff;">
   </div>
   <div style="flex: 2 1 420px; min-width: 280px;">
-    <h3 style="margin-top: 0;">Topic 2: AI for Data Systems</h3>
+    <h3 style="margin-top: 0; color: #9a5a12;">Topic 2: AI for Data Systems</h3>
     <p>I build learning-enhanced methods for database systems, especially for tasks where traditional heuristics are expensive or brittle. My work spans dataset search, latency prediction, cardinality estimation, and test-case generation for DBMS with LLMs.</p>
     <ul>
       <li>Pretrained models for latency prediction over distributed databases: VLDB Journal 2026.</li>
@@ -51,12 +46,12 @@ author_profile: true
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 26px;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 26px; background: #eef8f2; border: 1px solid #bddfc9; border-radius: 16px; padding: 18px;">
   <div style="flex: 1 1 260px; min-width: 260px;">
-    <img src="/images/research-graph.svg" alt="Graph mining and algorithms" style="width: 100%; border-radius: 12px; border: 1px solid #d8e4ea; background: #ffffff;">
+    <img src="/images/research-graph.svg" alt="Graph mining and algorithms" style="width: 100%; border-radius: 12px; border: 1px solid #afd6be; background: #ffffff;">
   </div>
   <div style="flex: 2 1 420px; min-width: 280px;">
-    <h3 style="margin-top: 0;">Topic 3: Graph Mining and Graph Algorithms</h3>
+    <h3 style="margin-top: 0; color: #2f7a5b;">Topic 3: Graph Mining and Graph Algorithms</h3>
     <p>I design scalable algorithms for graph data management and mining, with a particular focus on densest subgraph discovery, community search, clique counting, and temporal graph analytics. This line of work combines theoretical guarantees with practical performance on large graphs.</p>
     <ul>
       <li>Densest subgraph discovery on undirected and directed graphs: SIGMOD 2024, VLDB 2025, SIGMOD 2026.</li>
@@ -81,10 +76,9 @@ author_profile: true
   </div>
 </div>
 
-## Selected Publications by Topic
+## Selected Open-Source Projects
 
-- For a complete list, please see [Publications](/publications/).
-- Graph-based LLM Systems: SIGMOD 2026, AAAI 2026, ICDE 2026, VLDB 2025.
-- AI for Data Systems: dataset search, VLDB Journal 2026, ICSE 2026, VLDB 2025.
-- Graph Mining and Algorithms: SIGMOD 2024-2026, VLDB 2023-2026, KDD 2026, SIGIR 2025.
-- Database Systems and Industry Applications: VLDB 2025.
+### <span style="color: #2f6f97;">Graph-based RAG Systems</span>
+
+- [DIGIMON / GraphRAG](https://github.com/JayLZhou/GraphRAG): a graph-based RAG system for structured retrieval and reasoning. <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20Repo%20stars&style=social"></a>
+- [EraRAG](https://github.com/EverM0re/EraRAG-Official): a unified benchmark and analysis framework for graph-based RAG. <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20Repo%20stars&style=social"></a>
