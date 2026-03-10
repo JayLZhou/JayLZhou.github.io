@@ -2,7 +2,7 @@
 layout: archive
 title: "Experience & Awards"
 permalink: /experience/
-author_profile: true
+author_profile: false
 ---
 
 ## Experience

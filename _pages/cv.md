@@ -2,7 +2,7 @@
 layout: archive
 title: My Brief Curriculum Vitae
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---

@@ -1,7 +1,7 @@
 ---
 permalink: /markdown/
 title: "Projects"
-author_profile: true
+author_profile: false
 ---
 
 ## Coming Soon

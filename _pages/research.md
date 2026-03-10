@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 <div style="background: linear-gradient(135deg, #f7fbff 0%, #f4f8f3 100%); border: 1px solid #d9e7df; border-radius: 14px; padding: 20px 22px; margin-bottom: 28px;">
