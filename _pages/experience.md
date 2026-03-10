@@ -29,7 +29,7 @@ author_profile: true
 - BYD Scholarship (1 recipient in the school), 2025
 - Guotai Junan Scholarship for Excellence and Better China (4 recipients university-wide), 2024
 - ByteDance Scholarship Nominee (40 nominees worldwide), 2024
-- Best Teaching Assistant, CUHK-Shenzhen, 2023, 2024
+- Best Teaching Assistant, CUHK-Shenzhen, 2023, 2025
 - Alibaba OceanBase Competition, Second Place, 2021
 - Tencent Rhino-bird Open-source Training Program ([Tars](https://github.com/TarsCloud/Tars)), 2021
 - Outstanding Graduate, Harbin Institute of Technology, 2020

@@ -20,9 +20,17 @@ I am open to collaborations, invited talks, and visiting opportunities. Please r
 
 ## Research Interests
 
-- Data-centric LLM systems: cost-efficient RAG, graph-based agent memory, and reliable LLM systems for data applications.
-- Graph data management and mining: densest subgraph discovery, community search, clique counting/listing, and temporal graph analytics.
-- AI for data systems: latency prediction, cardinality estimation, graph edit distance estimation, and query intelligence.
+### 🧭 Graph-based LLM Systems
+
+- Cost-efficient graph-based RAG systems, graph memory, and agentic retrieval for knowledge-intensive tasks.
+
+### 🔨 Large (Language) Models for Data
+
+- LLM-powered and pretrained methods for data systems, including latency prediction, cardinality estimation, and automated DBMS testing.
+
+### ⚡️ Graph Mining & Algorithms
+
+- Scalable algorithms for densest subgraph discovery, community search, clique counting/listing, temporal graph analytics, and graph edit distance estimation.
 
 ## Recent News
 
