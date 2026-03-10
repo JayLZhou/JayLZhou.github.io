@@ -16,7 +16,7 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 26px; background: #eef6fb; border: 1px solid #c7ddeb; border-radius: 16px; padding: 18px;">
   <div style="flex: 1 1 260px; min-width: 260px;">
-    <img src="/images/research-rag.svg" alt="Graph-based LLM systems" style="width: 100%; border-radius: 12px; border: 1px solid #b7d1e4; background: #ffffff;">
+    <img src="/images/graphllm.png" alt="Graph-based LLM systems" style="width: 100%; border-radius: 12px; border: 1px solid #b7d1e4; background: #ffffff;">
   </div>
   <div style="flex: 2 1 420px; min-width: 280px;">
     <h3 style="margin-top: 0; color: #2f6f97;">Topic 1: Graph-based LLM Systems</h3>
