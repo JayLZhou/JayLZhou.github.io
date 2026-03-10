@@ -61,24 +61,11 @@ author_profile: true
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 18px;">
-  <div style="flex: 1 1 260px; min-width: 260px;">
-    <img src="/images/DDG.png" alt="Database systems and industry applications" style="width: 100%; border-radius: 12px; border: 1px solid #d8e4ea; background: #ffffff;">
-  </div>
-  <div style="flex: 2 1 420px; min-width: 280px;">
-    <h3 style="margin-top: 0;">Topic 4: Database Systems and Industry Applications</h3>
-    <p>I am also interested in bridging academic ideas with production-grade systems. My industrial experience includes database kernel optimization and modern data warehouse infrastructure, especially for high-throughput and real-time workloads.</p>
-    <ul>
-      <li>Streaming data processing engine for modern real-time data warehouses: VLDB 2025.</li>
-      <li>TiDB kernel optimization and hotspot workload improvement.</li>
-      <li>System design for practical LLM applications in industrial environments.</li>
-    </ul>
-  </div>
-</div>
+
 
 ## Selected Open-Source Projects
 
-### <span style="color: #2f6f97;">Graph-based RAG Systems</span>
+### <span style="color: #2f6f97;">🧭 Graph-based LLM Systems</span>
 
 - [DIGIMON / GraphRAG](https://github.com/JayLZhou/GraphRAG): a graph-based RAG system for structured retrieval and reasoning. <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20Repo%20stars&style=social"></a>
 - [EraRAG](https://github.com/EverM0re/EraRAG-Official): a unified benchmark and analysis framework for graph-based RAG. <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20Repo%20stars&style=social"></a>
