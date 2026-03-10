@@ -20,11 +20,11 @@ author_profile: true
   </div>
   <div style="flex: 2 1 420px; min-width: 280px;">
     <h3 style="margin-top: 0; color: #2f6f97;">Topic 1: Graph-based LLM Systems</h3>
-    <p>I study how graph structures can improve retrieval, memory, and reasoning in large language model systems. A major line of my recent work is graph-based retrieval-augmented generation, where I investigate both system benchmarking and new indexing or tuning methods for accurate and cost-efficient retrieval.</p>
+    <p>I study how graph structures can improve retrieval, memory, and reasoning in large language model systems. A major line of my recent work focuses on graph-based retrieval-augmented generation, where I investigate both prototype systems and new indexing or RAG tuning systems.</p>
     <ul>
-      <li>Graph-based RAG benchmarking and unified analysis: VLDB 2025.</li>
-      <li>Automatic RAG tuning and optimization: SIGMOD 2026.</li>
-      <li>Hierarchical and attributed graph-based RAG methods: ICDE 2026, AAAI 2026.</li>
+      <li>Graph-based RAG prototype systems: VLDB 2025.</li>
+      <li>Automatic RAG optimization systems: SIGMOD 2026.</li>
+      <li>Graph-based RAG methods: ICDE 2026, AAAI 2026.</li>
     </ul>
   </div>
 </div>
