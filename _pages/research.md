@@ -6,22 +6,11 @@ author_profile: true
 ---
 
 <div style="background: linear-gradient(135deg, #f7fbff 0%, #f4f8f3 100%); border: 1px solid #d9e7df; border-radius: 14px; padding: 20px 22px; margin-bottom: 28px;">
-  <p style="margin: 0 0 10px 0; font-size: 1.05em;"><strong>Overview.</strong> My research focuses on data management, graph mining, and large language models for big data. Currently, I am working on the following research topics, which are aligned with my <a href="/publications/">publications</a> and current projects.</p>
+  <p style="margin: 0 0 12px 0; font-size: 1.05em;"><strong>Overview.</strong> My research focuses on data management, graph mining, and large language models for big data. My current research topics, aligned with my <a href="/publications/">publications</a> and ongoing projects, include:</p>
+  <p style="margin: 0 0 8px 0;"><strong>🧭 Graph-based LLM Systems.</strong> Cost-efficient graph-based RAG systems, graph memory, and agentic retrieval for knowledge-intensive tasks.</p>
+  <p style="margin: 0 0 8px 0;"><strong>🔨 Large (Language) Models for Data.</strong> LLM-powered and pretrained methods for data systems, including dataset search, latency prediction, cardinality estimation, and automated DBMS testing.</p>
+  <p style="margin: 0;"><strong>⚡️ Graph Mining & Algorithms.</strong> Scalable algorithms for densest subgraph discovery, community search, clique counting/listing, temporal graph analytics, and graph edit distance estimation.</p>
 </div>
-
-## Current Research Topics
-
-### 🧭 Graph-based LLM Systems
-
-- Cost-efficient graph-based RAG systems, graph memory, and agentic retrieval for knowledge-intensive tasks.
-
-### 🔨 Large (Language) Models for Data
-
-- LLM-powered and pretrained methods for data systems, including dataset search, latency prediction, cardinality estimation, and automated DBMS testing.
-
-### ⚡️ Graph Mining & Algorithms
-
-- Scalable algorithms for densest subgraph discovery, community search, clique counting/listing, temporal graph analytics, and graph edit distance estimation.
 
 ## Representative Research Topics
 
