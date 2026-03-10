@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I will join Université Claude Bernard Lyon 1 (Lyon, France) as a postdoctoral researcher, supported by the ERC Advanced Grant GO-Y project, affiliated with [CNRS LIRIS](https://liris.cnrs.fr/), where I will work with Prof. [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/).
-Before that, I obtained my Ph.D. in late March 2026 from the School of Data Science at [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/).
+I will obtain my Ph.D. in late March 2026 from the School of Data Science at [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/).
+After that, i will join Université Claude Bernard Lyon 1 (Lyon, France) as a postdoctoral researcher, supported by the ERC Advanced Grant GO-Y project, affiliated with [CNRS LIRIS](https://liris.cnrs.fr/), where I will work with Prof. [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/).
+
 
 I received my M.Eng. and B.Eng. from Harbin Institute of Technology in 2022 and 2020 respectively, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). I was a visiting student at the [National University of Singapore](https://www.comp.nus.edu.sg/) in 2025, where I worked with Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/index.html).
 
