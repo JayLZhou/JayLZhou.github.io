@@ -16,7 +16,7 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: stretch; margin-bottom: 26px; background: linear-gradient(135deg, #eef6fb 0%, #f7fbfe 100%); border: 1px solid #c7ddeb; border-radius: 18px; padding: 18px;">
   <div style="flex: 0 1 340px; min-width: 260px; display: flex; align-items: center;">
-    <img src="/images/graphllm.png" alt="Graph-based LLM systems" style="width: 100%; border-radius: 14px; border: 1px solid #b7d1e4; background: #ffffff; box-shadow: 0 10px 24px rgba(47, 111, 151, 0.10);">
+    <img src="/images/graphllm.png" alt="Graph-based LLM systems" style="width: 100%; border-radius: 18px; border: 1px solid #b7d1e4; background: #ffffff; box-shadow: 0 10px 24px rgba(47, 111, 151, 0.10);">
   </div>
   <div style="flex: 1 1 420px; min-width: 280px; background: rgba(255,255,255,0.82); border: 1px solid rgba(183,209,228,0.85); border-radius: 14px; padding: 18px 22px;">
     <div style="display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; background: #dcecf7; color: #2f6f97; font-size: 0.82em; font-weight: 700; letter-spacing: 0.02em;">Topic 1</div>
