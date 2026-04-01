@@ -14,13 +14,13 @@ After that, i will join Université Claude Bernard Lyon 1 (Lyon, France) as a po
 
 I received my M.Eng. and B.Eng. from Harbin Institute of Technology in 2022 and 2020 respectively, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). I was a visiting student at the [National University of Singapore](https://www.comp.nus.edu.sg/) in 2025, where I worked with Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/index.html).
 
-My research lies at the intersection of data management, graph mining, and large language models. I am broadly interested in graph-based RAG systems, LLM-powered data systems, and scalable graph mining algorithms.
+My research lies at the intersection of data management, graph mining, large language models, and causal inference on graph data. I am broadly interested in graph-based RAG systems, LLM-powered data systems, causal property graph modeling, and scalable graph analytics.
 
 I am open to collaborations, invited talks, and visiting opportunities. Please reach out via [email](mailto:yinglizhou@link.cuhk.edu.cn).
 
 ## Research Interests
 
-My research interests mainly focus on data management, graph mining, and artificial intelligence over large-scale graph data, particularly graph-based LLM systems and scalable graph analytics, including graph-based RAG, graph memory, LLM-powered methods for data systems (e.g., dataset search, latency prediction), and graph mining algorithms with theoretical bounds, such as densest subgraph discovery, and so on.
+My research interests mainly focus on data management, graph mining, and artificial intelligence over large-scale graph data, particularly graph-based LLM systems, causal analysis over property graphs, and scalable graph analytics. Representative topics include graph-based RAG and graph memory, LLM-powered methods for data systems (e.g., dataset search and latency prediction), causal DAG construction over Causal Property Graphs (CPG), and efficient large-scale causal effect estimation for intervention analysis.
 
 ## Recent News
 

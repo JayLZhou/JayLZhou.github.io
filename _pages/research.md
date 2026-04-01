@@ -8,6 +8,7 @@ author_profile: false
 <div style="background: linear-gradient(135deg, #f7fbff 0%, #f4f8f3 100%); border: 1px solid #d9e7df; border-radius: 14px; padding: 20px 22px; margin-bottom: 28px;">
   <p style="margin: 0 0 12px 0; font-size: 1.05em;"><strong>Overview.</strong> My research focuses on data management, graph mining, and large language models for big data. My current research topics, aligned with my <a href="/publications/">publications</a> and ongoing projects, include:</p>
   <p style="margin: 0 0 8px 0; color: #2f6f97;"><strong>🧭 Graph-based LLM Systems.</strong> <span style="color: #2f2f2f;">Cost-efficient graph-based RAG systems, graph memory, and agentic retrieval for knowledge-intensive tasks.</span></p>
+  <p style="margin: 0 0 8px 0; color: #355f86;"><strong>🧠 Causal Property Graphs & Causal Analysis.</strong> <span style="color: #2f2f2f;">Causal Property Graph data models, CDAG construction, and scalable intervention analysis over large graph data.</span></p>
   <p style="margin: 0 0 8px 0; color: #9a5a12;"><strong>🔨 Large (Language) Models for Data.</strong> <span style="color: #2f2f2f;">LLM-powered and pretrained methods for data systems, including dataset search, latency prediction, cardinality estimation, and automated DBMS testing.</span></p>
   <p style="margin: 0; color: #2f7a5b;"><strong>⚡️ Graph Mining & Algorithms.</strong> <span style="color: #2f2f2f;">Scalable algorithms for densest subgraph discovery, community search, clique counting/listing, temporal graph analytics, and graph edit distance estimation.</span></p>
 </div>
@@ -71,6 +72,29 @@ author_profile: false
       <li>Densest subgraph discovery: SIGMOD 2024, 2 * VLDB 2025, 2 * SIGMOD 2026.</li>
       <li>Community search: VLDB 2023, VLDB 2026, SIGMOD 2026.</li>
       <li>Clique counting/listing: VLDB 2024, VLDB 2025, VLDB 2026.</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: stretch; margin-bottom: 8px; background: linear-gradient(135deg, #edf4fb 0%, #f7fafe 100%); border: 1px solid #c9d9ec; border-radius: 18px; padding: 12px;">
+  <div style="flex: 0 1 480px; min-width: 360px; display: flex; align-self: stretch;">
+    <div style="width: 100%; min-height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #b8cae1; box-shadow: 0 10px 24px rgba(53, 95, 134, 0.10); padding: 14px 18px; display: flex; align-items: center; justify-content: center;">
+      <div style="width: 100%; color: #355f86; line-height: 1.75;">
+        <h3 style="margin: 0 0 8px 0; color: #355f86; font-size: 1.30em;">Causal Property Graph Pipeline</h3>
+        <p style="margin: 0 0 8px 0; color: #3f4650; font-size: 0.96em;">Property Graph + Temporal/Domain Constraints + Statistical Causal Discovery</p>
+        <p style="margin: 0 0 8px 0; color: #3f4650; font-size: 0.96em;">→ CDAG Construction + Edge Confidence Calibration</p>
+        <p style="margin: 0; color: #3f4650; font-size: 0.96em;">→ Scalable Intervention Queries and Effect Estimation</p>
+      </div>
+    </div>
+  </div>
+  <div style="flex: 1 1 420px; min-width: 320px; background: rgba(255,255,255,0.82); border: 1px solid rgba(184,202,225,0.90); border-radius: 14px; padding: 18px 22px;">
+    <div style="display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; background: #dfeaf7; color: #355f86; font-size: 0.82em; font-weight: 700; letter-spacing: 0.02em;">Topic 4</div>
+    <h3 style="margin: 0 0 10px 0; color: #355f86; font-size: 1.45em; line-height: 1.25;">Causal Property Graphs and Scalable Causal Analysis</h3>
+    <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I study causal data management over property graphs by unifying graph structure priors and statistical learning for robust causal graph construction and fast inference.</p>
+    <ul style="margin: 0; padding-left: 1.15em; color: #3f4650; line-height: 1.7;">
+      <li>CDAG construction from temporal constraints, graph topology, and domain priors.</li>
+      <li>Hybrid structure learning with CI tests and score-based optimization.</li>
+      <li>Large-scale causal analysis via subgraph pruning, parallel discovery, and incremental updates.</li>
     </ul>
   </div>
 </div>

@@ -26,6 +26,7 @@ author_profile: false
 
 ## Honors and Awards
 
+- 🏆 Best Paper Award, ICSE 2026 Industry Challenge Track (CCF-­A), 2026
 - BYD Scholarship (1 recipient in the school), 2025
 - Guotai Junan Scholarship for Excellence and Better China (4 recipients university-wide), 2024
 - ByteDance Scholarship Nominee (40 nominees worldwide), 2024
