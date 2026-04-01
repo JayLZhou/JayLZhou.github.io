@@ -34,6 +34,3 @@ author_profile: false
 - Alibaba OceanBase Competition, Second Place, 2021
 - Tencent Rhino-bird Open-source Training Program ([Tars](https://github.com/TarsCloud/Tars)), 2021
 - Outstanding Graduate, Harbin Institute of Technology, 2020
-- Outstanding Undergraduate Thesis, Harbin Institute of Technology, 2020
-- HIT People's Scholarship, 2018, 2019
-- Outstanding Student Leader Award, Harbin Institute of Technology, 2018
