@@ -27,7 +27,7 @@ author_profile: false
 </div>
 
 1. _**Yingli Zhou<sup>#</sup>**_, Tianjing Zeng<sup>#</sup>, Rong Zhu, Yingze Li, Junwei Lan, Zhewei Wei, Yixiang Fang, Bolin Ding, and Jingren Zhou. Lamba: A Pretrained Model for Latency Prediction over Distributed Databases. The VLDB Journal (**<font color="#ea6eaf">VLDBJ</font>**), 2026.
-2. Yujia Chen, _**Yingli Zhou**_, Fangyuan Zhang, Cuiyun Gao. LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search. International Conference on Software Engineering (**<font color="#ea6eaf">ICSE</font>**), Industry Challenge Track, 2026.
+2. Yujia Chen, _**Yingli Zhou**_, Fangyuan Zhang, Cuiyun Gao. LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search. International Conference on Software Engineering (**<font color="#ea6eaf">ICSE</font>**), Industry Challenge Track, 2026 (<font color="red">Best Paper Award</font>).
 3. _Tianjing Zeng_, Junwei Lan, Jiahong Ma, Wenqing Wei, Rong Zhu, **Yingli Zhou**, Pengfei Li, Bolin Ding, Defu Lian, Zhewei Wei, Jingren Zhou. PRICE: A Pretrained Model for Cross-Database Cardinality Estimation. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**),18(3): 637 - 650, 2025.
 
 ---
