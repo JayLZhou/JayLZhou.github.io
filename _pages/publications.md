@@ -5,6 +5,31 @@ permalink: /publications/
 author_profile: false
 ---
 
+<style>
+  .best-paper-badge {
+    display: inline-block;
+    padding: 0.08em 0.5em;
+    border-radius: 999px;
+    font-weight: 700;
+    color: #b30000;
+    background: #ffe3e3;
+    border: 1px solid #ff9b9b;
+    box-shadow: 0 0 0 rgba(255, 77, 77, 0);
+    animation: best-paper-flash 1.2s ease-in-out infinite;
+  }
+
+  @keyframes best-paper-flash {
+    0%, 100% {
+      opacity: 1;
+      box-shadow: 0 0 0 rgba(255, 77, 77, 0);
+    }
+    50% {
+      opacity: 0.55;
+      box-shadow: 0 0 10px rgba(255, 77, 77, 0.7);
+    }
+  }
+</style>
+
 ## 🧭 Graph-based LLM Systems
 
 <div style="background-color: #eef6fb; border-left: 4px solid #2f6f97; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0; box-shadow: 1px 2px 6px rgba(0,0,0,0.05);">
@@ -27,7 +52,7 @@ author_profile: false
 </div>
 
 1. _**Yingli Zhou<sup>#</sup>**_, Tianjing Zeng<sup>#</sup>, Rong Zhu, Yingze Li, Junwei Lan, Zhewei Wei, Yixiang Fang, Bolin Ding, and Jingren Zhou. Lamba: A Pretrained Model for Latency Prediction over Distributed Databases. The VLDB Journal (**<font color="#ea6eaf">VLDBJ</font>**), 2026.
-2. Yujia Chen, _**Yingli Zhou**_, Fangyuan Zhang, Cuiyun Gao. LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search. International Conference on Software Engineering (**<font color="#ea6eaf">ICSE</font>**), Industry Challenge Track, 2026 (<font color="red">Best Paper Award</font>).
+2. Yujia Chen, _**Yingli Zhou**_, Fangyuan Zhang, Cuiyun Gao. LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search. International Conference on Software Engineering (**<font color="#ea6eaf">ICSE</font>**), Industry Challenge Track, 2026 (<span class="best-paper-badge">Best Paper Award</span>).
 3. _Tianjing Zeng_, Junwei Lan, Jiahong Ma, Wenqing Wei, Rong Zhu, **Yingli Zhou**, Pengfei Li, Bolin Ding, Defu Lian, Zhewei Wei, Jingren Zhou. PRICE: A Pretrained Model for Cross-Database Cardinality Estimation. Proceedings of the VLDB Endowment (**<font color="#ea6eaf">VLDB</font>**),18(3): 637 - 650, 2025.
 
 ---
