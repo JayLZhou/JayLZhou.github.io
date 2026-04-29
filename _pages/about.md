@@ -27,6 +27,12 @@ My research focuses on algorithms and systems for Big Data Management and Data S
 - **February 2026:** Two papers were accepted to SIGMOD 2026.
 - **January 2026:** One paper was accepted to VLDB 2026.
 - **September 2025:** One paper was accepted to VLDB 2026.
-- **August 2025:** One paper was accepted to SIGMOD 2026, and one paper was accepted to VLDB 2026.
-- **June 2025:** Our paper "Efficient k-Clique Densest Subgraph Discovery: Towards Bridging Practice and Theory" was accepted to VLDB 2025.
 - **March 2025:** Our paper on the systematic benchmark and analysis of graph-based RAG became available on arXiv. [[arXiv]](https://arxiv.org/abs/2503.04338)
+
+
+## Personal Information
+- I have been a big fan of Jay Chou for around 18 years, ever since I was a junior high school student. I also grew up listening to Avril Lavigne and Coldplay, and their music has been a big part of my life.
+
+- I love watching football. My favorite national teams are Portugal and France. As for clubs, I support Manchester City and used to support Real Madrid when Cristiano Ronaldo played there.
+
+- I enjoy running in my free time, and my current goal is to complete a marathon.
