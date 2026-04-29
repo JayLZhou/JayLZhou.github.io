@@ -20,7 +20,7 @@ I am open to collaborations, invited talks, and visiting opportunities. Please r
 
 ## Research Interests
 
-My research interests mainly focus on data management, graph mining, and artificial intelligence over large-scale graph data, particularly graph-based LLM systems, causal analysis over property graphs, and scalable graph analytics. Representative topics include graph-based RAG and graph memory, LLM-powered methods for data systems (e.g., dataset search and latency prediction), causal DAG construction over Causal Property Graphs (CPG), and efficient large-scale causal effect estimation for intervention analysis.
+My research focuses on algorithms and systems for Big Data Management and Data Science. Current interests include  Causality-aware Data+AI analytics algorithms and systems, covering topics such as causal provenance query, retrieval-augmented generation (RAG), LLM-based data analysis, graph analytics, and scalable data processing systems.
 
 ## Recent News
 
