@@ -31,6 +31,6 @@ My research focuses on algorithms and systems for Big Data Management and Data S
 
 
 ## Personal Information
-- I have been a big fan of Jay Chou for around 18 years, ever since I was a junior high school student. I also grew up listening to Avril Lavigne and Coldplay, and their music has been a big part of my life.
+- I have been a big fan of Jay Chou for around 18 years. I also grew up listening to Avril Lavigne and Coldplay, and their music has been a big part of my life.
 - I love watching football. My favorite national teams are Portugal and France. As for clubs, I support Manchester City and used to support Real Madrid when Cristiano Ronaldo played there.
 - I enjoy running in my free time, and my current goal is to complete a marathon.
