@@ -43,8 +43,7 @@ I am open to collaborations, invited talks, and visiting opportunities. Please r
 
   <div class="home-project-item">
     <strong><a href="https://github.com/EverM0re/EraRAG-Official">EraRAG</a>:</strong>
-    the first graph-based RAG system to handle evoing documents.
-    <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20stars&style=social"></a>
+    the first graph-based RAG system to handle evoing documents.<a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20stars&style=social"></a>
     <a href="https://arxiv.org/abs/2503.04338">[arXiv]</a>
   </div>
 
