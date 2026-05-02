@@ -1,269 +1,77 @@
 /* ==========================================================================
-   Homepage
+   Homepage project cards
    ========================================================================== */
 
-.home-profile {
-  color: #2f363d;
-
-  .home-kicker {
-    margin-bottom: 0.85rem;
-    color: #687076;
-    font-size: 0.92rem;
-    font-weight: 700;
-    text-transform: uppercase;
-  }
-
-  .home-logo-strip {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
-    gap: 0.65rem;
-    margin: 0 0 1.2rem;
-  }
-
-  .home-logo-card {
-    display: flex;
-    align-items: center;
-    gap: 0.7rem;
-    min-height: 74px;
-    padding: 0.6rem 0.7rem;
-    border: 1px solid #d8e3e8;
-    border-radius: 8px;
-    background: #ffffff;
-    box-shadow: 0 2px 8px rgba(38, 55, 70, 0.05);
-    text-decoration: none;
-  }
-
-  .home-logo-card:hover {
-    border-color: #b8d5e2;
-    background: #f8fcfd;
-    text-decoration: none;
-  }
-
-  .home-logo-img {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    flex: 0 0 78px;
-    height: 50px;
-    padding: 0.25rem;
-    border-radius: 5px;
-    background: #ffffff;
-  }
-
-  .home-logo-img img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-  }
-
-  .home-logo-text {
-    color: #46525a;
-    font-size: 0.82rem;
-    font-weight: 700;
-    line-height: 1.25;
-  }
-
-  .home-lead {
-    font-size: 1.02rem;
-    line-height: 1.72;
-  }
-
-  .home-note {
-    margin: 1.1rem 0 1.55rem;
-    padding: 0.8rem 1rem;
-    border-left: 4px solid #52adc8;
-    border-radius: 0 6px 6px 0;
-    background: #f4fbfd;
-    color: #3d4b53;
-    line-height: 1.62;
-  }
-
-  .home-news-list,
-  .home-award-list,
-  .home-personal-list {
-    padding-left: 1.15rem;
-    line-height: 1.68;
-  }
-
-  .home-news-list li,
-  .home-award-list li,
-  .home-personal-list li {
-    margin-bottom: 0.42rem;
-  }
-
-  .home-research-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-    gap: 0.75rem;
-    margin: 0.85rem 0 1.45rem;
-  }
-
-  .home-research-card {
-    position: relative;
-    min-height: 154px;
-    padding: 0.85rem 0.95rem 0.9rem;
-    border: 1px solid #dbe5ea;
-    border-radius: 8px;
-    background: #ffffff;
-    overflow: hidden;
-  }
-
-  .home-research-card::after {
-    content: "";
-    position: absolute;
-    right: -26px;
-    bottom: -30px;
-    width: 92px;
-    height: 92px;
-    border-radius: 50%;
-    opacity: 0.12;
-  }
-
-  .home-research-card--causal::after {
-    background: #355f86;
-  }
-
-  .home-research-card--rag::after {
-    background: #2f6f97;
-  }
-
-  .home-research-card--ai4db::after {
-    background: #9a5a12;
-  }
-
-  .home-research-card--graph::after {
-    background: #2f7a5b;
-  }
-
-  .home-research-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    min-width: 34px;
-    height: 28px;
-    margin-bottom: 0.5rem;
-    padding: 0 0.35rem;
-    border-radius: 6px;
-    background: #eef6fb;
-    color: #2f6f97;
-    font-size: 0.72rem;
-    font-weight: 800;
-  }
-
-  .home-research-card h3 {
-    margin-top: 0;
-    margin-bottom: 0.4rem;
-    color: #2f363d;
-    font-size: 1rem;
-  }
-
-  .home-research-card p {
-    margin-bottom: 0;
-    color: #4b5962;
-    font-size: 0.9rem;
-    line-height: 1.55;
-  }
-
-  .home-badge {
-    display: inline-block;
-    min-width: 62px;
-    margin-right: 0.5rem;
-    padding: 0.1rem 0.42rem;
-    border-radius: 5px;
-    color: #ffffff;
-    font-size: 0.72rem;
-    font-weight: 800;
-    text-align: center;
-  }
-
-  .home-badge--award {
-    background: #b04444;
-  }
-
-  .home-badge--sigmod {
-    background: #a34c8c;
-  }
-
-  .home-badge--vldb {
-    background: #2f6f97;
-  }
-
-  .home-badge--arxiv {
-    background: #6b7280;
-  }
-
-  .home-projects {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(245px, 1fr));
-    gap: 0.8rem;
-    margin: 0.8rem 0 1.5rem;
-  }
-
-  .home-project {
-    padding: 0.9rem 1rem;
-    border: 1px solid #dde7eb;
-    border-radius: 8px;
-    background: #ffffff;
-    box-shadow: 0 2px 8px rgba(38, 55, 70, 0.06);
-  }
-
-  .home-project-visual {
-    display: block;
-    aspect-ratio: 16 / 9;
-    margin: -0.2rem -0.2rem 0.75rem;
-    border: 1px solid #e3ebef;
-    border-radius: 6px;
-    background: #f8fafb;
-    overflow: hidden;
-  }
-
-  .home-project-visual img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    padding: 0.35rem;
-    background: #ffffff;
-  }
-
-  .home-project h3 {
-    margin-top: 0;
-    margin-bottom: 0.45rem;
-    color: #2f6f97;
-    font-size: 1.02rem;
-  }
-
-  .home-project p {
-    margin-bottom: 0.55rem;
-    font-size: 0.94rem;
-    line-height: 1.58;
-  }
-
-  .home-links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.45rem;
-    margin-top: 0.55rem;
-  }
-
-  .home-link {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.22rem 0.55rem;
-    border: 1px solid #cbdce5;
-    border-radius: 6px;
-    background: #f7fbfd;
-    font-size: 0.82rem;
-    font-weight: 700;
-    text-decoration: none;
-  }
-
-  .home-link:hover {
-    background: #edf7fb;
-    text-decoration: none;
-  }
+.home-projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(245px, 1fr));
+  gap: 0.8rem;
+  margin: 0.8rem 0 1.5rem;
 }
 
-.page__content .home-profile .home-link,
-.page__content .home-profile .home-logo-card {
+.home-project {
+  padding: 0.9rem 1rem;
+  border: 1px solid #dde7eb;
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(38, 55, 70, 0.06);
+}
+
+.home-project-visual {
+  display: block;
+  aspect-ratio: 16 / 9;
+  margin: -0.2rem -0.2rem 0.75rem;
+  border: 1px solid #e3ebef;
+  border-radius: 6px;
+  background: #f8fafb;
+  overflow: hidden;
+}
+
+.home-project-visual img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 0.35rem;
+  background: #ffffff;
+}
+
+.home-project h3 {
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+  color: #2f6f97;
+  font-size: 1.02rem;
+}
+
+.home-project p {
+  margin-bottom: 0.55rem;
+  font-size: 0.94rem;
+  line-height: 1.58;
+}
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.55rem;
+}
+
+.home-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.22rem 0.55rem;
+  border: 1px solid #cbdce5;
+  border-radius: 6px;
+  background: #f7fbfd;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.home-link:hover {
+  background: #edf7fb;
+  text-decoration: none;
+}
+
+.page__content .home-link {
   text-decoration: none;
 }
