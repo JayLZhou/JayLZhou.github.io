@@ -35,43 +35,43 @@ I am open to collaborations, invited talks, and visiting opportunities. Please r
 
 <div class="home-project-list">
   <div class="home-project-item">
-    <span class="home-project-logo home-project-logo--gr">GR</span>
-    <p>
-      <strong><a href="https://github.com/JayLZhou/GraphRAG">DIGIMON / GraphRAG</a>:</strong>
-      a graph-based RAG system for structured retrieval and reasoning over complex data.
-      <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20stars&style=social"></a>
-      <a href="/publications/">[papers]</a>
-    </p>
+    <strong><a href="https://github.com/JayLZhou/GraphRAG">DIGIMON / GraphRAG</a>:</strong>
+    the first unified graph-based RAG prototype system for structured retrieval and reasoning over complex data.
+    <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20stars&style=social"></a>
+    <a href="/publications/">[papers]</a>
+    <a class="home-project-logo-img" href="/images/graphllm.png">
+      <img src="/images/graphllm.png" alt="DIGIMON / GraphRAG logo">
+    </a>
   </div>
 
   <div class="home-project-item">
-    <span class="home-project-logo home-project-logo--era">ER</span>
-    <p>
-      <strong><a href="https://github.com/EverM0re/EraRAG-Official">EraRAG</a>:</strong>
-      a unified benchmark and analysis framework for graph-based retrieval-augmented generation.
-      <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20stars&style=social"></a>
-      <a href="https://arxiv.org/abs/2503.04338">[arXiv]</a>
-    </p>
+    <strong><a href="https://github.com/EverM0re/EraRAG-Official">EraRAG</a>:</strong>
+    a unified benchmark and analysis framework for graph-based retrieval-augmented generation.
+    <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20stars&style=social"></a>
+    <a href="https://arxiv.org/abs/2503.04338">[arXiv]</a>
+    <a class="home-project-logo-img" href="/images/DDG.png">
+      <img src="/images/DDG.png" alt="EraRAG logo">
+    </a>
   </div>
 
   <div class="home-project-item">
-    <span class="home-project-logo home-project-logo--book">BR</span>
-    <p>
-      <strong><a href="https://github.com/sam234990/BookRAG">BookRAG</a>:</strong>
-      a hierarchical structure-aware index-based approach for retrieval-augmented generation on complex documents.
-      <a href="https://github.com/sam234990/BookRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sam234990/BookRAG?label=GitHub%20stars&style=social"></a>
-      <a href="https://arxiv.org/abs/2512.03413">[arXiv]</a>
-    </p>
+    <strong><a href="https://github.com/sam234990/BookRAG">BookRAG</a>:</strong>
+    a hierarchical structure-aware index-based approach for retrieval-augmented generation on complex documents.
+    <a href="https://github.com/sam234990/BookRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sam234990/BookRAG?label=GitHub%20stars&style=social"></a>
+    <a href="https://arxiv.org/abs/2512.03413">[arXiv]</a>
+    <a class="home-project-logo-img" href="/images/project-bookrag.svg">
+      <img src="/images/project-bookrag.svg" alt="BookRAG logo">
+    </a>
   </div>
 
   <div class="home-project-item">
-    <span class="home-project-logo home-project-logo--world">MW</span>
-    <p>
-      <strong><a href="https://github.com/OpenDCAI/OpenWorldLib">MicroWorld / OpenWorldLib</a>:</strong>
-      a unified codebase for advanced world models, covering multimodal understanding, interaction, memory, and visual generation.
-      <a href="https://github.com/OpenDCAI/OpenWorldLib"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OpenDCAI/OpenWorldLib?label=GitHub%20stars&style=social"></a>
-      <a href="https://arxiv.org/abs/2604.04707">[arXiv]</a>
-    </p>
+    <strong><a href="https://github.com/D2I-CUHKSZ/MicroWorld">MicroWorld</a>:</strong>
+    a lightweight system for turning multi-modal event materials into structured graphs, agent populations, and inspectable social simulations.
+    <a href="https://github.com/D2I-CUHKSZ/MicroWorld"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/D2I-CUHKSZ/MicroWorld?label=GitHub%20stars&style=social"></a>
+    <a href="https://d2i-cuhksz.github.io/MicroWorld/">[site]</a>
+    <a class="home-project-logo-img" href="/images/project-microworld.svg">
+      <img src="/images/project-microworld.svg" alt="MicroWorld logo">
+    </a>
   </div>
 </div>
 
