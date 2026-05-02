@@ -33,40 +33,27 @@ I am open to collaborations, invited talks, and visiting opportunities. Please r
 
 ## Selected Open-source Projects
 
-<div class="home-projects">
-  <div class="home-project">
-    <a class="home-project-visual" href="/images/graphllm.png">
-      <img src="/images/graphllm.png" alt="Graph-based LLM systems visual">
-    </a>
-    <h3>DIGIMON / GraphRAG</h3>
-    <p>A graph-based RAG system for structured retrieval and reasoning over complex data.</p>
-    <div class="home-links">
-      <a class="home-link" href="https://github.com/JayLZhou/GraphRAG">GitHub</a>
-      <a class="home-link" href="/publications/">Related papers</a>
-    </div>
-  </div>
-  <div class="home-project">
-    <a class="home-project-visual" href="/images/DDG.png">
-      <img src="/images/DDG.png" alt="Graph RAG analysis visual">
-    </a>
-    <h3>EraRAG</h3>
-    <p>A unified benchmark and analysis framework for graph-based retrieval-augmented generation.</p>
-    <div class="home-links">
-      <a class="home-link" href="https://github.com/EverM0re/EraRAG-Official">GitHub</a>
-      <a class="home-link" href="https://arxiv.org/abs/2503.04338">arXiv</a>
-    </div>
-  </div>
-  <div class="home-project">
-    <a class="home-project-visual" href="/images/research-graph.png">
-      <img src="/images/research-graph.png" alt="Graph mining visual">
-    </a>
-    <h3>ICSH</h3>
-    <p>Code for influential community search over large heterogeneous information networks.</p>
-    <div class="home-links">
-      <a class="home-link" href="https://github.com/JayLZhou/ICSH">GitHub</a>
-      <a class="home-link" href="https://www.vldb.org/pvldb/vol16/p2047-zhou.pdf">Paper</a>
-    </div>
-  </div>
+<div class="home-project-list">
+  <p>
+    <strong><a href="https://github.com/JayLZhou/GraphRAG">DIGIMON / GraphRAG</a>:</strong>
+    a graph-based RAG system for structured retrieval and reasoning over complex data.
+    <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20stars&style=social"></a>
+    <a href="/publications/">[papers]</a>
+  </p>
+
+  <p>
+    <strong><a href="https://github.com/EverM0re/EraRAG-Official">EraRAG</a>:</strong>
+    a unified benchmark and analysis framework for graph-based retrieval-augmented generation.
+    <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20stars&style=social"></a>
+    <a href="https://arxiv.org/abs/2503.04338">[arXiv]</a>
+  </p>
+
+  <p>
+    <strong><a href="https://github.com/JayLZhou/ICSH">ICSH</a>:</strong>
+    code for influential community search over large heterogeneous information networks.
+    <a href="https://github.com/JayLZhou/ICSH"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/ICSH?label=GitHub%20stars&style=social"></a>
+    <a href="https://www.vldb.org/pvldb/vol16/p2047-zhou.pdf">[paper]</a>
+  </p>
 </div>
 
 

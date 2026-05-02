@@ -1,77 +1,29 @@
 /* ==========================================================================
-   Homepage project cards
+   Homepage project list
    ========================================================================== */
 
-.home-projects {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(245px, 1fr));
-  gap: 0.8rem;
+.home-project-list {
   margin: 0.8rem 0 1.5rem;
-}
-
-.home-project {
-  padding: 0.9rem 1rem;
-  border: 1px solid #dde7eb;
+  padding: 0.95rem 1.05rem;
+  border: 1px solid #e1e8ed;
   border-radius: 8px;
-  background: #ffffff;
-  box-shadow: 0 2px 8px rgba(38, 55, 70, 0.06);
+  background: #fbfdfe;
 }
 
-.home-project-visual {
-  display: block;
-  aspect-ratio: 16 / 9;
-  margin: -0.2rem -0.2rem 0.75rem;
-  border: 1px solid #e3ebef;
-  border-radius: 6px;
-  background: #f8fafb;
-  overflow: hidden;
+.home-project-list p {
+  margin: 0 0 0.8rem;
+  line-height: 1.62;
 }
 
-.home-project-visual img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  padding: 0.35rem;
-  background: #ffffff;
+.home-project-list p:last-child {
+  margin-bottom: 0;
 }
 
-.home-project h3 {
-  margin-top: 0;
-  margin-bottom: 0.45rem;
+.home-project-list strong a {
   color: #2f6f97;
-  font-size: 1.02rem;
 }
 
-.home-project p {
-  margin-bottom: 0.55rem;
-  font-size: 0.94rem;
-  line-height: 1.58;
-}
-
-.home-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
-  margin-top: 0.55rem;
-}
-
-.home-link {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.22rem 0.55rem;
-  border: 1px solid #cbdce5;
-  border-radius: 6px;
-  background: #f7fbfd;
-  font-size: 0.82rem;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.home-link:hover {
-  background: #edf7fb;
-  text-decoration: none;
-}
-
-.page__content .home-link {
-  text-decoration: none;
+.home-project-list img {
+  margin: 0 0.25rem;
+  vertical-align: text-bottom;
 }
