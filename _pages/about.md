@@ -34,26 +34,45 @@ I am open to collaborations, invited talks, and visiting opportunities. Please r
 ## Selected Open-source Projects
 
 <div class="home-project-list">
-  <p>
-    <strong><a href="https://github.com/JayLZhou/GraphRAG">DIGIMON / GraphRAG</a>:</strong>
-    a graph-based RAG system for structured retrieval and reasoning over complex data.
-    <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20stars&style=social"></a>
-    <a href="/publications/">[papers]</a>
-  </p>
+  <div class="home-project-item">
+    <span class="home-project-logo home-project-logo--gr">GR</span>
+    <p>
+      <strong><a href="https://github.com/JayLZhou/GraphRAG">DIGIMON / GraphRAG</a>:</strong>
+      a graph-based RAG system for structured retrieval and reasoning over complex data.
+      <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20stars&style=social"></a>
+      <a href="/publications/">[papers]</a>
+    </p>
+  </div>
 
-  <p>
-    <strong><a href="https://github.com/EverM0re/EraRAG-Official">EraRAG</a>:</strong>
-    a unified benchmark and analysis framework for graph-based retrieval-augmented generation.
-    <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20stars&style=social"></a>
-    <a href="https://arxiv.org/abs/2503.04338">[arXiv]</a>
-  </p>
+  <div class="home-project-item">
+    <span class="home-project-logo home-project-logo--era">ER</span>
+    <p>
+      <strong><a href="https://github.com/EverM0re/EraRAG-Official">EraRAG</a>:</strong>
+      a unified benchmark and analysis framework for graph-based retrieval-augmented generation.
+      <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20stars&style=social"></a>
+      <a href="https://arxiv.org/abs/2503.04338">[arXiv]</a>
+    </p>
+  </div>
 
-  <p>
-    <strong><a href="https://github.com/JayLZhou/ICSH">ICSH</a>:</strong>
-    code for influential community search over large heterogeneous information networks.
-    <a href="https://github.com/JayLZhou/ICSH"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/ICSH?label=GitHub%20stars&style=social"></a>
-    <a href="https://www.vldb.org/pvldb/vol16/p2047-zhou.pdf">[paper]</a>
-  </p>
+  <div class="home-project-item">
+    <span class="home-project-logo home-project-logo--book">BR</span>
+    <p>
+      <strong><a href="https://github.com/sam234990/BookRAG">BookRAG</a>:</strong>
+      a hierarchical structure-aware index-based approach for retrieval-augmented generation on complex documents.
+      <a href="https://github.com/sam234990/BookRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sam234990/BookRAG?label=GitHub%20stars&style=social"></a>
+      <a href="https://arxiv.org/abs/2512.03413">[arXiv]</a>
+    </p>
+  </div>
+
+  <div class="home-project-item">
+    <span class="home-project-logo home-project-logo--world">MW</span>
+    <p>
+      <strong><a href="https://github.com/OpenDCAI/OpenWorldLib">MicroWorld / OpenWorldLib</a>:</strong>
+      a unified codebase for advanced world models, covering multimodal understanding, interaction, memory, and visual generation.
+      <a href="https://github.com/OpenDCAI/OpenWorldLib"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OpenDCAI/OpenWorldLib?label=GitHub%20stars&style=social"></a>
+      <a href="https://arxiv.org/abs/2604.04707">[arXiv]</a>
+    </p>
+  </div>
 </div>
 
 
