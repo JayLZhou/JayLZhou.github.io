@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I will obtain my Ph.D. in late March 2026 from the School of Data Science at [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/).
-After that, i will join Université Claude Bernard Lyon 1 (Lyon, France) as a postdoctoral researcher, supported by the ERC Advanced Grant GO-Y project, affiliated with [CNRS LIRIS](https://liris.cnrs.fr/), where I will work with Prof. [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) (ACM Fellow, SIGMOD Chair).
+I received my Ph.D. in March 2026 from the School of Data Science at [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/).
+I am an ERC postdoctoral researcher at [LIRIS, CNRS](https://liris.cnrs.fr/) / Université Claude Bernard Lyon 1 (Lyon, France), working with Prof. [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) (ACM Fellow, SIGMOD Chair) on graph data management and reliable data infrastructure for AI.
 
 
 I received my M.Eng. and B.Eng. from Harbin Institute of Technology in 2022 and 2020 respectively, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). I was a visiting student at the [National University of Singapore](https://www.comp.nus.edu.sg/) in 2025, where I worked with Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/index.html).
@@ -19,12 +19,21 @@ I received my M.Eng. and B.Eng. from Harbin Institute of Technology in 2022 and 
 
 ## Research Interests
 
-My research focuses on algorithms and systems for Big Data Management and Data Science. Current interests include  Causality-aware Data+AI analytics algorithms and systems, covering topics such as causal provenance query, retrieval-augmented generation (RAG), LLM-based data analysis, graph analytics, and scalable data processing systems.
-I am open to collaborations, invited talks, and visiting opportunities. Please reach out via [email](mailto:yinglizhou@link.cuhk.edu.cn).
+My research agenda is to build **causality-aware graph data management** and **reliable graph data infrastructure for AI**. I study how graph structure, causal signals, and scalable data systems can make AI applications more trustworthy, explainable, and efficient.
+
+Current directions include:
+
+- **Causality-aware graph data management:** causal property graphs, causal provenance query, and scalable intervention analysis over graph data.
+- **Reliable graph data infrastructure for AI:** graph-based RAG, structured retrieval, graph memory, and evaluation pipelines for knowledge-intensive AI systems.
+- **Scalable graph analytics:** efficient algorithms for densest subgraph discovery, community search, clique counting/listing, and graph similarity.
+- **Large models for data systems:** LLM-powered and pretrained methods for data analysis, database optimization, and DBMS testing.
+
+I am open to collaborations, invited talks, and visiting opportunities in data management, database systems, and graph-based AI infrastructure. Please reach out via [email](mailto:yinglizhou@link.cuhk.edu.cn).
 
 
 ## Recent News
 
+- **March 2026:** I received my Ph.D. from CUHK-Shenzhen and will continue my research as an ERC postdoctoral researcher at LIRIS, CNRS / Université Lyon 1.
 - **February 2026:** Two papers were accepted to SIGMOD 2026.
 - **January 2026:** One paper was accepted to VLDB 2026.
 - **September 2025:** One paper was accepted to VLDB 2026.
@@ -43,7 +52,8 @@ I am open to collaborations, invited talks, and visiting opportunities. Please r
 
   <div class="home-project-item">
     <strong><a href="https://github.com/EverM0re/EraRAG-Official">EraRAG</a>:</strong>
-    the first graph-based RAG system to handle evoing documents.<a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20stars&style=social"></a>
+    the first graph-based RAG system to handle evolving documents.
+    <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20stars&style=social"></a>
     <a href="https://arxiv.org/abs/2503.04338">[arXiv]</a>
   </div>
 
