@@ -31,6 +31,60 @@ Current directions include:
 I am open to collaborations, invited talks, and visiting opportunities in data management, database systems, and graph-based AI infrastructure. Please reach out via [email](mailto:yinglizhou@link.cuhk.edu.cn).
 
 
+## Selected Publications
+
+<div class="home-pub-list">
+  <div class="home-pub-year">2026</div>
+
+  <div class="home-pub-card">
+    <h3>HAMMER: An Automatic RAG Tuning System via Hierarchical Memory-Guided Monte Carlo Tree Search</h3>
+    <p class="home-pub-authors"><strong>Yingli Zhou</strong>, Zixuan Wang, Yixiang Fang</p>
+    <p class="home-pub-venue">SIGMOD'26, Proceedings of the ACM on Management of Data</p>
+    <p>HAMMER studies how to automatically tune retrieval-augmented generation systems through hierarchical memory and search, connecting graph-based retrieval, system optimization, and reliable AI pipelines.</p>
+    <p class="home-pub-links">
+      <a href="/publications/">Paper</a>
+      <a href="/publications/">BibTex</a>
+    </p>
+  </div>
+
+  <div class="home-pub-card">
+    <h3>A Semantics-aware Approach for Graph Edit Distance Estimation over Knowledge Graphs</h3>
+    <p class="home-pub-authors"><strong>Yingli Zhou</strong>, HuiZhong Wang, Chenhao Ma, Yixiang Fang</p>
+    <p class="home-pub-venue">VLDB'26, Proceedings of the VLDB Endowment</p>
+    <p>This work develops semantics-aware graph similarity estimation for knowledge graphs, supporting robust graph data management when structure alone is insufficient.</p>
+    <p class="home-pub-links">
+      <a href="/publications/">Paper</a>
+      <a href="/publications/">BibTex</a>
+    </p>
+  </div>
+
+  <div class="home-pub-card">
+    <h3>Efficient Anchored Densest Subgraph Discovery: Improved Time Complexity and Practical Performance</h3>
+    <p class="home-pub-authors"><strong>Yingli Zhou</strong>, Youran Sun, Yixiang Fang</p>
+    <p class="home-pub-venue">SIGMOD'26, Proceedings of the ACM on Management of Data</p>
+    <p>This paper advances scalable graph analytics by improving the theory and practice of anchored densest subgraph discovery, a core primitive for graph data exploration.</p>
+    <p class="home-pub-links">
+      <a href="/publications/">Paper</a>
+      <a href="/publications/">BibTex</a>
+    </p>
+  </div>
+
+  <div class="home-pub-year">2025</div>
+
+  <div class="home-pub-card">
+    <h3>In-depth Analysis of Graph-based RAG in a Unified Framework</h3>
+    <p class="home-pub-authors"><strong>Yingli Zhou</strong>, Yaodong Su, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang</p>
+    <p class="home-pub-venue">VLDB'25, Proceedings of the VLDB Endowment</p>
+    <p>This work provides a unified framework for benchmarking and analyzing graph-based RAG, clarifying when graph structure improves retrieval and generation over noisy, evolving data.</p>
+    <p class="home-pub-links">
+      <a href="https://arxiv.org/abs/2503.04338">Arxiv</a>
+      <a href="https://github.com/EverM0re/EraRAG-Official">Project</a>
+      <a href="/publications/">BibTex</a>
+    </p>
+  </div>
+</div>
+
+
 ## Recent News
 
 - **March 2026:** I received my Ph.D. from CUHK-Shenzhen and will continue my research as an ERC postdoctoral researcher at LIRIS, CNRS / Université Lyon 1.

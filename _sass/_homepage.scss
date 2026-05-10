@@ -1,6 +1,76 @@
 /* ==========================================================================
-   Homepage project list
+   Homepage publication and project lists
    ========================================================================== */
+
+.home-pub-list {
+  margin: 0.8rem 0 1.6rem;
+}
+
+.home-pub-year {
+  margin: 1.1rem 0 0.55rem;
+  color: #687076;
+  font-size: 0.85rem;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.home-pub-card {
+  margin-bottom: 0.95rem;
+  padding: 0.95rem 1rem;
+  border: 1px solid #e1e8ed;
+  border-left: 4px solid #2f6f97;
+  border-radius: 0 8px 8px 0;
+  background: #fbfdfe;
+}
+
+.home-pub-card h3 {
+  margin: 0 0 0.45rem;
+  color: #2f363d;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.home-pub-card p {
+  margin: 0 0 0.5rem;
+  line-height: 1.58;
+}
+
+.home-pub-card p:last-child {
+  margin-bottom: 0;
+}
+
+.home-pub-authors {
+  color: #4b5962;
+  font-size: 0.92rem;
+}
+
+.home-pub-venue {
+  color: #2f6f97;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.home-pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.home-pub-links a {
+  display: inline-block;
+  padding: 0.12rem 0.5rem;
+  border: 1px solid #cbdce5;
+  border-radius: 6px;
+  background: #ffffff;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.home-pub-links a:hover {
+  background: #edf7fb;
+  text-decoration: none;
+}
 
 .home-project-list {
   margin: 0.8rem 0 1.5rem;
