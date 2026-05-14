@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a postdoctoral researcher at [LIRIS, CNRS](https://liris.cnrs.fr/) / Université Claude Bernard Lyon 1 (Lyon, France) supported by ERC-Advanced Go-Y Project, working with Prof. [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) 
 I received my Ph.D. in March 2026 from the School of Data Science at [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/).
-I am a postdoctoral researcher at [LIRIS, CNRS](https://liris.cnrs.fr/) / Université Claude Bernard Lyon 1 (Lyon, France) supported by ERC-Advanced Go-Y Project, working with Prof. [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) (ACM Fellow, SIGMOD Chair) on graph data management and reliable data infrastructure for AI.
 
 
 I received my M.Eng. and B.Eng. from Harbin Institute of Technology in 2022 and 2020 respectively, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). I was a visiting student at the [National University of Singapore](https://www.comp.nus.edu.sg/) in 2025, where I worked with Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/index.html).
