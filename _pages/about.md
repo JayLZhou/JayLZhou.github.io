@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [LIRIS, CNRS](https://liris.cnrs.fr/) / Université Claude Bernard Lyon 1 (Lyon, France) supported by ERC-Advanced Go-Y Project, working with Prof. [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) 
+I am a postdoctoral researcher at Centre national de la recherche scientifique (CNRS) Liris research lab & Université Claude Bernard Lyon 1 (Lyon, France) supported by ERC-Advanced Go-Y Project, working with Prof. [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) 
 I received my Ph.D. in March 2026 from the School of Data Science at [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/).
 
 
