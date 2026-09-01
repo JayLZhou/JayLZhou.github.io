@@ -25,7 +25,7 @@ author_profile: false
 
 
 ## Honors and Awards
-- 🏆 KDD Best Reviewers, 2026
+- 💎 KDD Best Reviewers, 2026
 - 🏆 Best Paper Award, ICSE 2026 Industry Challenge Track (CCF-­A), 2026
 - BYD Scholarship (1 recipient in the school), 2025
 - Guotai Junan Scholarship for Excellence and Better China (4 recipients university-wide), 2024
