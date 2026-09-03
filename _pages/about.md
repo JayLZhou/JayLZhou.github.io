@@ -38,13 +38,12 @@ My research agenda is to build **causality-aware graph data management** and **r
 .htree .rq4 { background: #f3effc; color: #553c9a; }
 .htree .nd-sub { background: #f8f9fb; border: 1px solid #e2e8f0; color: #555; font-weight: 600; font-size: 14px; padding: 3px 10px; }
 .htree .leaf-wrap { display: flex; align-items: center; }
-.htree .pills { display: flex; flex-wrap: wrap; gap: 4px; margin-left: 0.6em; max-width: 520px; }
+.htree .pills { display: flex; flex-wrap: nowrap; gap: 4px; margin-left: 0.6em; }
 .htree .pill { display: inline-block; padding: 2px 9px; border-radius: 12px; font-size: 14px; border: 1px solid #e8ecf1; background: #fff; color: #444; text-decoration: none; white-space: nowrap; }
 .htree .pill:hover { background: #f0f4ff; border-color: #a4c2f4; }
 .htree .pill .v { display: inline-block; padding-left: 6px; font-size: 14px; color: #888; }
 @media (max-width: 768px) {
   .htree ul { padding-left: 1.2em; }
-  .htree .pills { max-width: 60vw; }
   .htree .nd { padding: 3px 10px; }
   .htree .pill { padding: 4px 8px; }
 }
@@ -62,6 +61,7 @@ My research agenda is to build **causality-aware graph data management** and **r
             <span class="pill">🧬 Causal Property Graphs</span>
             <span class="pill">🔍 Causal Provenance Query</span>
             <span class="pill">⚗️ Intervention Analysis</span>
+            <span class="pill" style="color:#888;">🚧 ERC Go-Y, ongoing</span>
           </span>
         </div>
       </li>
@@ -72,9 +72,10 @@ My research agenda is to build **causality-aware graph data management** and **r
     <ul>
       <li>
         <div class="leaf-wrap">
-          <span class="nd nd-sub">Benchmark &amp; Analysis</span>
+          <span class="nd nd-sub">Analysis &amp; Tuning</span>
           <span class="pills">
             <a class="pill" href="https://arxiv.org/abs/2503.04338">📊 GraphRAG-Bench<span class="v">VLDB'25</span></a>
+            <a class="pill" href="/publications/">🔨 HAMMER<span class="v">SIGMOD'26</span></a>
             <a class="pill" href="/publications/">🧭 RAG → Agentic AI<span class="v">VLDB-W'25</span></a>
           </span>
         </div>
@@ -85,9 +86,9 @@ My research agenda is to build **causality-aware graph data management** and **r
           <span class="pills">
             <a class="pill" href="/publications/">🏛️ ArchRAG<span class="v">AAAI'26</span></a>
             <a class="pill" href="/publications/">🧩 Clue-RAG<span class="v">ICDE'26</span></a>
+            <a class="pill" href="/publications/">#️⃣ LSH-RAG<span class="v">VLDB-W'25</span></a>
             <a class="pill" href="https://github.com/EverM0re/EraRAG-Official">⏳ EraRAG<span class="v">arXiv</span></a>
             <a class="pill" href="https://github.com/sam234990/BookRAG">📚 BookRAG<span class="v">arXiv</span></a>
-            <a class="pill" href="/publications/">#️⃣ LSH-RAG<span class="v">VLDB-W'25</span></a>
           </span>
         </div>
       </li>
@@ -113,10 +114,10 @@ My research agenda is to build **causality-aware graph data management** and **r
         <div class="leaf-wrap">
           <span class="nd nd-sub">Community Search</span>
           <span class="pills">
-            <a class="pill" href="https://github.com/JayLZhou/ICSH">🌊 InfluentialCS<span class="v">VLDB'23</span></a>
-            <a class="pill" href="/publications/">⏱️ DurableCS<span class="v">VLDB'26</span></a>
             <a class="pill" href="/publications/">🔄 DynamicCS<span class="v">SIGMOD'26</span></a>
+            <a class="pill" href="/publications/">⏱️ DurableCS<span class="v">VLDB'26</span></a>
             <a class="pill" href="/publications/">🧠 UTCS<span class="v">SIGIR'25</span></a>
+            <a class="pill" href="https://github.com/JayLZhou/ICSH">🌊 InfluentialCS<span class="v">VLDB'23</span></a>
           </span>
         </div>
       </li>
@@ -124,9 +125,9 @@ My research agenda is to build **causality-aware graph data management** and **r
         <div class="leaf-wrap">
           <span class="nd nd-sub">Counting &amp; Similarity</span>
           <span class="pills">
+            <a class="pill" href="/publications/">📏 GED-KG<span class="v">VLDB'26</span></a>
             <a class="pill" href="/publications/">🦋 BicliqueCount<span class="v">VLDB'26</span></a>
             <a class="pill" href="/publications/">🎴 ButterflyCount<span class="v">VLDB'25</span></a>
-            <a class="pill" href="/publications/">📏 GED-KG<span class="v">VLDB'26</span></a>
             <a class="pill" href="/publications/">🔺 MotifClique<span class="v">VLDB'24</span></a>
             <a class="pill" href="/publications/">⚙️ D-core<span class="v">VLDB'24</span></a>
           </span>
