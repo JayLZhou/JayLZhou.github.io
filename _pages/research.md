@@ -30,16 +30,6 @@ author_profile: false
   .vc .n { color: #9aa3ad; padding-left: 3px; }
   .vc-x { border-color: #f0c9c9; color: #b30000; }
 
-  /* the causal topic has no figure yet, so its panel carries the pipeline */
-  .rt-pipe { width: 100%; border: 1px solid #edf0f3; border-radius: 6px; padding: 18px; background: #fbfcfe;
-              display: flex; flex-direction: column; justify-content: center; }
-  .rt-step { display: flex; align-items: flex-start; gap: 11px; padding: 9px 0; }
-  .rt-step + .rt-step { border-top: 1px dotted #dfe5ec; }
-  .rt-step .k { flex: none; width: 21px; height: 21px; border-radius: 50%; background: #e8f4fd; color: #2c5282;
-                font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; margin-top: 2px; }
-  .rt-step p { margin: 0; font-size: 0.93em; line-height: 1.55; color: #4a515b; }
-  .rt-step b { color: #2c5282; }
-
   .os { list-style: none; margin: 0; padding: 0; }
   .os li { padding: 11px 0; border-bottom: 1px dotted #e3e7ec; font-size: 0.97em; }
   .os li:last-child { border-bottom: none; }
@@ -60,11 +50,7 @@ author_profile: false
 
 <div class="rt">
   <div class="rt-fig">
-    <div class="rt-pipe">
-      <div class="rt-step"><span class="k">1</span><p><b>Build.</b> Property graph + temporal and domain constraints + statistical causal discovery.</p></div>
-      <div class="rt-step"><span class="k">2</span><p><b>Calibrate.</b> CDAG construction with edge confidence calibration.</p></div>
-      <div class="rt-step"><span class="k">3</span><p><b>Query.</b> Scalable intervention queries and causal effect estimation.</p></div>
-    </div>
+    <a href="/images/fig-causal.svg"><img src="/images/fig-causal.svg" alt="A property graph on the left; on the right the same nodes as a causal DAG with a do(A) intervention and a dashed low-confidence edge"></a>
   </div>
   <div class="rt-body">
     <span class="rt-chip" style="background:#e8f4fd; color:#2c5282;">Q1 · ERC Go-Y, ongoing</span>
@@ -80,7 +66,7 @@ author_profile: false
 
 <div class="rt">
   <div class="rt-fig">
-    <a href="/images/graphllm.png"><img src="/images/graphllm.png" alt="Graph-based LLM systems: retrieval-augmented generation, structured agent memory, and large-scale social simulation"></a>
+    <a href="/images/fig-graphrag.svg"><img src="/images/fig-graphrag.svg" alt="Documents feed a graph index, whose hierarchical communities are searched to retrieve a subgraph for the LLM"></a>
   </div>
   <div class="rt-body">
     <span class="rt-chip" style="background:#e0f2e9; color:#276749;">Q2</span>
@@ -97,7 +83,7 @@ author_profile: false
 
 <div class="rt">
   <div class="rt-fig">
-    <a href="/images/research-graph.png"><img src="/images/research-graph.png" alt="Graph mining and scalable algorithms: densest subgraph discovery, community search, clique counting, temporal graphs, graph similarity"></a>
+    <a href="/images/fig-graphmining.svg"><img src="/images/fig-graphmining.svg" alt="A graph with its densest subgraph circled, beside the three task families: densest subgraph, community search, clique and biclique counting"></a>
   </div>
   <div class="rt-body">
     <span class="rt-chip" style="background:#fef9ef; color:#744210;">Q3</span>
@@ -113,7 +99,7 @@ author_profile: false
 
 <div class="rt">
   <div class="rt-fig">
-    <a href="/images/research-ai4db.png"><img src="/images/research-ai4db.png" alt="Advancing data systems with LLMs and pretrained models: dataset search, latency prediction, cardinality estimation, DBMS testing"></a>
+    <a href="/images/fig-llm4data.svg"><img src="/images/fig-llm4data.svg" alt="A SQL workload feeding a pretrained model that predicts latency and cardinality for the query optimizer, plus an LLM and MCTS branch generating test cases for the DBMS"></a>
   </div>
   <div class="rt-body">
     <span class="rt-chip" style="background:#f3effc; color:#553c9a;">Q4</span>
