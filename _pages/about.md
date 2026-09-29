@@ -19,7 +19,11 @@ redirect_from:
 My research agenda is to build **causality-aware graph data management** and **reliable graph data infrastructure for AI**. I study how graph structure, causal signals, and scalable data systems can make AI applications more trustworthy, explainable, and efficient.
 
 <style>
-.htree { display: flex; align-items: flex-start; overflow-x: auto; }
+/* the tree needs more room than the text column, so it breaks out to the right */
+.htree-wrap { position: relative; margin: 4px 0 8px; }
+@media (min-width: 1200px) { .htree-wrap { width: calc(100% + 220px); } }
+@media (min-width: 992px) and (max-width: 1199px) { .htree-wrap { width: calc(100% + 180px); } }
+.htree { display: flex; align-items: flex-start; overflow-x: auto; padding-bottom: 4px; }
 .htree ul { display: flex; flex-direction: column; padding-left: 1.5em; position: relative; list-style: none; margin: 0; }
 .htree > ul { padding-left: 0; }
 .htree li { display: flex; align-items: center; position: relative; padding: 0.18em 0; }
@@ -30,29 +34,31 @@ My research agenda is to build **causality-aware graph data management** and **r
 .htree ul ul > li:only-child::before { display: none; }
 .htree ul ul > li::after { content: ''; position: absolute; left: -1em; top: 50%; width: 1em; border-top: 1.5px solid #c5d5e0; }
 .htree ul ul > li:only-child::after { display: none; }
-.htree .nd { display: inline-flex; align-items: center; padding: 5px 14px; border-radius: 20px; font-size: 14px; line-height: 1.4; white-space: nowrap; flex-shrink: 0; }
-.htree .nd-rq { font-weight: 600; padding: 5px 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); border: 1px solid #d8e4ed; }
+.htree .nd { display: inline-flex; align-items: center; padding: 5px 14px; border-radius: 20px; font-size: 14px; line-height: 1.35; flex-shrink: 0; }
+.htree .nd-rq { font-weight: 600; padding: 7px 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); border: 1px solid #d8e4ed; white-space: normal; max-width: 200px; }
 .htree .rq1 { background: #e8f4fd; color: #2c5282; }
 .htree .rq2 { background: #e0f2e9; color: #276749; }
 .htree .rq3 { background: #fef9ef; color: #744210; }
 .htree .rq4 { background: #f3effc; color: #553c9a; }
-.htree .nd-sub { background: #f8f9fb; border: 1px solid #e2e8f0; color: #555; font-weight: 600; font-size: 14px; padding: 3px 10px; }
+.htree .nd-sub { background: #f8f9fb; border: 1px solid #e2e8f0; color: #555; font-weight: 600; font-size: 14px; padding: 3px 10px; white-space: nowrap; }
 .htree .leaf-wrap { display: flex; align-items: center; }
-.htree .pills { display: flex; flex-wrap: nowrap; gap: 4px; margin-left: 0.6em; }
+.htree .pills { display: flex; flex-wrap: wrap; gap: 4px; margin-left: 0.6em; }
 .htree .pill { display: inline-block; padding: 2px 9px; border-radius: 12px; font-size: 14px; border: 1px solid #e8ecf1; background: #fff; color: #444; text-decoration: none; white-space: nowrap; }
 .htree .pill:hover { background: #f0f4ff; border-color: #a4c2f4; }
 .htree .pill .v { display: inline-block; padding-left: 6px; font-size: 14px; color: #888; }
-@media (max-width: 768px) {
+.htree-hint { display: none; font-size: 12px; color: #9aa3ad; margin: 2px 0 0; }
+@media (max-width: 900px) {
   .htree ul { padding-left: 1.2em; }
   .htree .nd { padding: 3px 10px; }
-  .htree .pill { padding: 4px 8px; }
+  .htree .nd-rq { max-width: 160px; }
 }
 </style>
 
+<div class="htree-wrap">
 <div class="htree">
 <ul>
   <li>
-    <span class="nd nd-rq rq1">Q1: How to Make Graph Data Causally Explainable?</span>
+    <span class="nd nd-rq rq1">Q1: Causally Explainable Graph Data?</span>
     <ul>
       <li>
         <div class="leaf-wrap">
@@ -68,7 +74,7 @@ My research agenda is to build **causality-aware graph data management** and **r
     </ul>
   </li>
   <li>
-    <span class="nd nd-rq rq2">Q2: How to Build Reliable Graph Data Infrastructure for AI?</span>
+    <span class="nd nd-rq rq2">Q2: Reliable Graph Infrastructure for AI?</span>
     <ul>
       <li>
         <div class="leaf-wrap">
@@ -96,7 +102,7 @@ My research agenda is to build **causality-aware graph data management** and **r
     </ul>
   </li>
   <li>
-    <span class="nd nd-rq rq3">Q3: How to Compute Dense Structure in Massive Graphs?</span>
+    <span class="nd nd-rq rq3">Q3: Dense Structure at Massive Scale?</span>
     <ul>
       <li>
         <div class="leaf-wrap">
@@ -137,7 +143,7 @@ My research agenda is to build **causality-aware graph data management** and **r
     </ul>
   </li>
   <li>
-    <span class="nd nd-rq rq4">Q4: How to Use Large Models for Data Systems?</span>
+    <span class="nd nd-rq rq4">Q4: Large Models for Data Systems?</span>
     <ul>
       <li>
         <div class="leaf-wrap">
@@ -161,6 +167,18 @@ My research agenda is to build **causality-aware graph data management** and **r
   </li>
 </ul>
 </div>
+<p class="htree-hint">← scroll sideways for the full branches</p>
+</div>
+<script>
+  // show the scroll hint only when the tree is actually wider than its box
+  (function () {
+    var t = document.querySelector('.htree'), h = document.querySelector('.htree-hint');
+    if (!t || !h) return;
+    function upd() { h.style.display = t.scrollWidth > t.clientWidth + 1 ? 'block' : 'none'; }
+    upd();
+    window.addEventListener('resize', upd);
+  })();
+</script>
 
 <h1 id="-news"><span class="anchor" id="news"></span>🔥 News</h1>
 
