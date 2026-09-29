@@ -5,105 +5,145 @@ permalink: /research/
 author_profile: false
 ---
 
-<div style="background: linear-gradient(135deg, #f7fbff 0%, #f4f8f3 100%); border: 1px solid #d9e7df; border-radius: 14px; padding: 20px 22px; margin-bottom: 28px;">
-  <p style="margin: 0 0 12px 0; font-size: 1.05em;"><strong>Overview.</strong> My research focuses on data management, graph mining, and large language models for big data. My current research topics, aligned with my <a href="/publications/">publications</a> and ongoing projects, include:</p>
-  <p style="margin: 0 0 8px 0; color: #2f6f97;"><strong>🧭 Graph-based LLM Systems.</strong> <span style="color: #2f2f2f;">Cost-efficient graph-based RAG systems, graph memory, and agentic retrieval for knowledge-intensive tasks.</span></p>
-  <p style="margin: 0 0 8px 0; color: #355f86;"><strong>🧠 Causal Property Graphs & Causal Analysis.</strong> <span style="color: #2f2f2f;">Causal Property Graph data models, CDAG construction, and scalable intervention analysis over large graph data.</span></p>
-  <p style="margin: 0 0 8px 0; color: #9a5a12;"><strong>🔨 Large (Language) Models for Data.</strong> <span style="color: #2f2f2f;">LLM-powered and pretrained methods for data systems, including dataset search, latency prediction, cardinality estimation, and automated DBMS testing.</span></p>
-  <p style="margin: 0; color: #2f7a5b;"><strong>⚡️ Graph Mining & Algorithms.</strong> <span style="color: #2f2f2f;">Scalable algorithms for densest subgraph discovery, community search, clique counting/listing, temporal graph analytics, and graph edit distance estimation.</span></p>
+<style>
+  .rv { border: 1px solid #e3e7ec; border-radius: 10px; padding: 18px 20px; margin-bottom: 30px; background: #fbfcfd; }
+  .rv > p { margin: 0 0 10px 0; }
+  .rv > p:last-child { margin-bottom: 0; }
+  .rv-dir { font-weight: 700; }
+
+  /* topic cards - flat, hairline, same restraint as the homepage */
+  .rt { display: flex; flex-wrap: wrap; gap: 20px; align-items: stretch;
+        border: 1px solid #e3e7ec; border-radius: 10px; padding: 18px; margin-bottom: 18px; }
+  .rt-fig { flex: 1 1 400px; min-width: 300px; display: flex; align-items: stretch; justify-content: center; }
+  .rt-fig img { width: 100%; height: auto; align-self: center; border-radius: 6px; border: 1px solid #edf0f3; display: block; }
+  .rt-body { flex: 1 1 340px; min-width: 280px; }
+  .rt-chip { display: inline-block; padding: 3px 11px; border-radius: 999px;
+             font-size: 12px; font-weight: 700; letter-spacing: .03em; margin-bottom: 9px; }
+  .rt-body h3 { margin: 0 0 9px 0; font-size: 1.32em; line-height: 1.3; }
+  .rt-body > p { margin: 0 0 13px 0; font-size: 0.97em; line-height: 1.65; color: #4a515b; }
+  .rt-lines { list-style: none; margin: 0; padding: 0; }
+  .rt-lines li { padding: 7px 0; border-bottom: 1px dotted #e3e7ec; font-size: 0.94em; }
+  .rt-lines li:last-child { border-bottom: none; }
+  .rt-lines b { font-weight: 600; color: #333; }
+  .vc { display: inline-block; padding: 1px 8px; margin: 2px 3px 2px 0; border-radius: 12px;
+        border: 1px solid #e8ecf1; background: #fff; font-size: 12.5px; color: #555; white-space: nowrap; }
+  .vc .n { color: #9aa3ad; padding-left: 3px; }
+  .vc-x { border-color: #f0c9c9; color: #b30000; }
+
+  /* the causal topic has no figure yet, so its panel carries the pipeline */
+  .rt-pipe { width: 100%; border: 1px solid #edf0f3; border-radius: 6px; padding: 18px; background: #fbfcfe;
+              display: flex; flex-direction: column; justify-content: center; }
+  .rt-step { display: flex; align-items: flex-start; gap: 11px; padding: 9px 0; }
+  .rt-step + .rt-step { border-top: 1px dotted #dfe5ec; }
+  .rt-step .k { flex: none; width: 21px; height: 21px; border-radius: 50%; background: #e8f4fd; color: #2c5282;
+                font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; margin-top: 2px; }
+  .rt-step p { margin: 0; font-size: 0.93em; line-height: 1.55; color: #4a515b; }
+  .rt-step b { color: #2c5282; }
+
+  .os { list-style: none; margin: 0; padding: 0; }
+  .os li { padding: 11px 0; border-bottom: 1px dotted #e3e7ec; font-size: 0.97em; }
+  .os li:last-child { border-bottom: none; }
+  .os img { vertical-align: -3px; }
+</style>
+
+<h1 id="-research-overview"><span class="anchor" id="research-overview"></span>🔭 Research Overview</h1>
+
+<div class="rv">
+  <p>My research agenda is to build <strong>causality-aware graph data management</strong> and <strong>reliable graph data infrastructure for AI</strong>. I study how graph structure, causal signals, and scalable data systems can make AI applications more trustworthy, explainable, and efficient. The four directions below line up with my <a href="/publications/">publications</a> and ongoing projects.</p>
+  <p><span class="rt-chip" style="background:#e8f4fd; color:#2c5282;">Q1</span> <span class="rv-dir" style="color:#2c5282;">Causally Explainable Graph Data.</span> Causal property graph data models, CDAG construction, and scalable intervention analysis over large graph data.</p>
+  <p><span class="rt-chip" style="background:#e0f2e9; color:#276749;">Q2</span> <span class="rv-dir" style="color:#276749;">Reliable Graph Infrastructure for AI.</span> Cost-efficient graph-based RAG, structured retrieval, graph memory, and agentic retrieval for knowledge-intensive tasks.</p>
+  <p><span class="rt-chip" style="background:#fef9ef; color:#744210;">Q3</span> <span class="rv-dir" style="color:#744210;">Dense Structure at Massive Scale.</span> Scalable algorithms for densest subgraph discovery, community search, clique and biclique counting, and graph similarity.</p>
+  <p><span class="rt-chip" style="background:#f3effc; color:#553c9a;">Q4</span> <span class="rv-dir" style="color:#553c9a;">Large Models for Data Systems.</span> LLM-powered and pretrained methods for data systems: latency prediction, cardinality estimation, and automated DBMS testing.</p>
 </div>
 
-## Representative Research Topics
+<h1 id="-research-topics"><span class="anchor" id="research-topics"></span>🧩 Research Topics</h1>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: stretch; margin-bottom: 8px; background: linear-gradient(135deg, #eef6fb 0%, #f7fbfe 100%); border: 1px solid #c7ddeb; border-radius: 18px; padding: 12px;">
-  <div style="flex: 0 1 480px; min-width: 360px; display: flex; align-self: stretch;">
-    <div style="width: 100%; min-height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #b7d1e4; box-shadow: 0 10px 24px rgba(47, 111, 151, 0.10); padding: 2px 6px; display: flex; align-items: stretch; justify-content: center;">
-      <a href="/images/graphllm.png" style="display: flex; width: 100%; min-height: 100%; align-items: center; justify-content: center;">
-        <img src="/images/graphllm.png" alt="Graph-based LLM systems" style="width: 95%; height: 95%; object-fit: contain; object-position: center; border-radius: 12px; background: #ffffff;">
-      </a>
+<div class="rt">
+  <div class="rt-fig">
+    <div class="rt-pipe">
+      <div class="rt-step"><span class="k">1</span><p><b>Build.</b> Property graph + temporal and domain constraints + statistical causal discovery.</p></div>
+      <div class="rt-step"><span class="k">2</span><p><b>Calibrate.</b> CDAG construction with edge confidence calibration.</p></div>
+      <div class="rt-step"><span class="k">3</span><p><b>Query.</b> Scalable intervention queries and causal effect estimation.</p></div>
     </div>
   </div>
-  <div style="flex: 1 1 420px; min-width: 320px; background: rgba(255,255,255,0.82); border: 1px solid rgba(183,209,228,0.85); border-radius: 14px; padding: 18px 22px;">
-    <div style="display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; background: #dcecf7; color: #2f6f97; font-size: 0.82em; font-weight: 700; letter-spacing: 0.02em;">Topic 1</div>
-    <h3 style="margin: 0 0 10px 0; color: #2f6f97; font-size: 1.45em; line-height: 1.25;">Graph-based LLM Systems</h3>
-    <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I study graph-based retrieval, memory, and reasoning for large language model systems, with a focus on efficient RAG frameworks, indexing, and tuning.</p>
-    <ul style="margin: 0; padding-left: 1.15em; color: #3f4650; line-height: 1.7;">
-      <li>Graph-based RAG prototype systems: VLDB 2025.</li>
-      <li>Automatic RAG optimization systems: SIGMOD 2026.</li>
-      <li>Graph-based RAG methods: ICDE 2026, AAAI 2026.</li>
+  <div class="rt-body">
+    <span class="rt-chip" style="background:#e8f4fd; color:#2c5282;">Q1 · ERC Go-Y, ongoing</span>
+    <h3 style="color:#2c5282;">Causal Property Graphs and Scalable Causal Analysis</h3>
+    <p>I study causal data management over property graphs, unifying graph structure priors with statistical learning for robust causal graph construction and fast inference. This is the direction I started at CNRS LIRIS and it does not have published results yet.</p>
+    <ul class="rt-lines">
+      <li><b>CDAG construction</b> from temporal constraints, graph topology, and domain priors.</li>
+      <li><b>Hybrid structure learning</b> with conditional-independence tests and score-based optimization.</li>
+      <li><b>Large-scale causal analysis</b> via subgraph pruning, parallel discovery, and incremental updates.</li>
     </ul>
   </div>
 </div>
 
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: stretch; margin-bottom: 8px; background: linear-gradient(135deg, #fff7ec 0%, #fffaf3 100%); border: 1px solid #efd2a3; border-radius: 18px; padding: 12px;">
-  <div style="flex: 0 1 480px; min-width: 360px; display: flex; align-self: stretch;">
-    <div style="width: 100%; min-height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #e6c58f; box-shadow: 0 10px 24px rgba(154, 90, 18, 0.10); padding: 2px 6px; display: flex; align-items: stretch; justify-content: center;">
-      <a href="/images/research-ai4db.png" style="display: flex; width: 100%; min-height: 100%; align-items: center; justify-content: center;">
-        <img src="/images/research-ai4db.png" alt="AI for data systems" style="width: 95%; height: 95%; object-fit: contain; object-position: center; border-radius: 12px; background: #ffffff;">
-      </a>
-    </div>
+<div class="rt">
+  <div class="rt-fig">
+    <a href="/images/graphllm.png"><img src="/images/graphllm.png" alt="Graph-based LLM systems: retrieval-augmented generation, structured agent memory, and large-scale social simulation"></a>
   </div>
-  <div style="flex: 1 1 420px; min-width: 320px; background: rgba(255,255,255,0.82); border: 1px solid rgba(230,197,143,0.9); border-radius: 14px; padding: 18px 22px;">
-    <div style="display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; background: #f8e7ca; color: #9a5a12; font-size: 0.82em; font-weight: 700; letter-spacing: 0.02em;">Topic 2</div>
-    <h3 style="margin: 0 0 10px 0; color: #9a5a12; font-size: 1.45em; line-height: 1.25;"> Large (Language) Models for Data</h3>
-    <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I build LLM-powered and pretrained methods for data systems, covering dataset search, latency prediction, cardinality estimation, and DBMS testing.</p>
-    <ul style="margin: 0; padding-left: 1.15em; color: #3f4650; line-height: 1.7;">
-      <li>Pretrained models for database optimization: VLDB 2025, VLDB Journal 2026.</li>
-      <li>LLM-based test-case generation for DBMS: ICSE 2026.</li>
+  <div class="rt-body">
+    <span class="rt-chip" style="background:#e0f2e9; color:#276749;">Q2</span>
+    <h3 style="color:#276749;">Graph-based LLM Systems</h3>
+    <p>I study graph-based retrieval, memory, and reasoning for large language model systems, with a focus on efficient RAG frameworks, indexing, and tuning.</p>
+    <ul class="rt-lines">
+      <li><b>Benchmark and analysis</b> of graph-based RAG in a unified framework <span class="vc">VLDB<span class="n">'25</span></span></li>
+      <li><b>Automatic RAG tuning</b> via hierarchical memory-guided search <span class="vc">SIGMOD<span class="n">'26</span></span></li>
+      <li><b>Index and retrieval methods</b> <span class="vc">AAAI<span class="n">'26</span></span><span class="vc">ICDE<span class="n">'26</span></span><span class="vc">VLDB-W<span class="n">'25</span></span></li>
+      <li><b>Evolving and long documents</b> <span class="vc">arXiv</span> EraRAG, BookRAG</li>
     </ul>
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: stretch; margin-bottom: 8px; background: linear-gradient(135deg, #eef8f2 0%, #f7fbf8 100%); border: 1px solid #bddfc9; border-radius: 18px; padding: 12px;">
-  <div style="flex: 0 1 480px; min-width: 360px; display: flex; align-self: stretch;">
-    <div style="width: 100%; min-height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #afd6be; box-shadow: 0 10px 24px rgba(47, 122, 91, 0.10); padding: 2px 6px; display: flex; align-items: stretch; justify-content: center;">
-      <a href="/images/research-graph.png" style="display: flex; width: 100%; min-height: 100%; align-items: center; justify-content: center;">
-        <img src="/images/research-graph.png" alt="Graph mining and algorithms" style="width: 95%; height: 95%; object-fit: contain; object-position: center; border-radius: 12px; background: #ffffff;">
-      </a>
-    </div>
+<div class="rt">
+  <div class="rt-fig">
+    <a href="/images/research-graph.png"><img src="/images/research-graph.png" alt="Graph mining and scalable algorithms: densest subgraph discovery, community search, clique counting, temporal graphs, graph similarity"></a>
   </div>
-  <div style="flex: 1 1 420px; min-width: 320px; background: rgba(255,255,255,0.82); border: 1px solid rgba(175,214,190,0.9); border-radius: 14px; padding: 18px 22px;">
-    <div style="display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; background: #dff1e6; color: #2f7a5b; font-size: 0.82em; font-weight: 700; letter-spacing: 0.02em;">Topic 3</div>
-    <h3 style="margin: 0 0 10px 0; color: #2f7a5b; font-size: 1.45em; line-height: 1.25;">Graph Mining and Graph Algorithms</h3>
-    <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I design scalable graph mining algorithms for densest subgraph discovery, community search, clique counting/listing, and graph similarity tasks.</p>
-    <ul style="margin: 0; padding-left: 1.15em; color: #3f4650; line-height: 1.7;">
-      <li>Densest subgraph discovery: SIGMOD 2024, 2 * VLDB 2025, 2 * SIGMOD 2026.</li>
-      <li>Community search: VLDB 2023, VLDB 2026, SIGMOD 2026.</li>
-      <li>Clique counting/listing: VLDB 2024, VLDB 2025, VLDB 2026.</li>
+  <div class="rt-body">
+    <span class="rt-chip" style="background:#fef9ef; color:#744210;">Q3</span>
+    <h3 style="color:#744210;">Graph Mining and Graph Algorithms</h3>
+    <p>I design scalable graph mining algorithms for densest subgraph discovery, community search, clique and biclique counting, and graph similarity tasks.</p>
+    <ul class="rt-lines">
+      <li><b>Densest subgraph discovery</b> <span class="vc">SIGMOD<span class="n">'24</span></span><span class="vc">VLDB<span class="n">'25 ×2</span></span><span class="vc">SIGMOD<span class="n">'26 ×2</span></span><span class="vc">KDD<span class="n">'26</span></span></li>
+      <li><b>Community search</b> <span class="vc">VLDB<span class="n">'23</span></span><span class="vc">SIGIR<span class="n">'25</span></span><span class="vc">VLDB<span class="n">'26</span></span><span class="vc">SIGMOD<span class="n">'26</span></span></li>
+      <li><b>Counting and similarity</b> <span class="vc">VLDB<span class="n">'24 ×2</span></span><span class="vc">VLDB<span class="n">'25</span></span><span class="vc">VLDB<span class="n">'26 ×2</span></span></li>
     </ul>
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: stretch; margin-bottom: 8px; background: linear-gradient(135deg, #edf4fb 0%, #f7fafe 100%); border: 1px solid #c9d9ec; border-radius: 18px; padding: 12px;">
-  <div style="flex: 0 1 480px; min-width: 360px; display: flex; align-self: stretch;">
-    <div style="width: 100%; min-height: 100%; background: #ffffff; border-radius: 18px; border: 1px solid #b8cae1; box-shadow: 0 10px 24px rgba(53, 95, 134, 0.10); padding: 14px 18px; display: flex; align-items: center; justify-content: center;">
-      <div style="width: 100%; color: #355f86; line-height: 1.75;">
-        <h3 style="margin: 0 0 8px 0; color: #355f86; font-size: 1.30em;">Causal Property Graph Pipeline</h3>
-        <p style="margin: 0 0 8px 0; color: #3f4650; font-size: 0.96em;">Property Graph + Temporal/Domain Constraints + Statistical Causal Discovery</p>
-        <p style="margin: 0 0 8px 0; color: #3f4650; font-size: 0.96em;">→ CDAG Construction + Edge Confidence Calibration</p>
-        <p style="margin: 0; color: #3f4650; font-size: 0.96em;">→ Scalable Intervention Queries and Effect Estimation</p>
-      </div>
-    </div>
+<div class="rt">
+  <div class="rt-fig">
+    <a href="/images/research-ai4db.png"><img src="/images/research-ai4db.png" alt="Advancing data systems with LLMs and pretrained models: dataset search, latency prediction, cardinality estimation, DBMS testing"></a>
   </div>
-  <div style="flex: 1 1 420px; min-width: 320px; background: rgba(255,255,255,0.82); border: 1px solid rgba(184,202,225,0.90); border-radius: 14px; padding: 18px 22px;">
-    <div style="display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; background: #dfeaf7; color: #355f86; font-size: 0.82em; font-weight: 700; letter-spacing: 0.02em;">Topic 4</div>
-    <h3 style="margin: 0 0 10px 0; color: #355f86; font-size: 1.45em; line-height: 1.25;">Causal Property Graphs and Scalable Causal Analysis</h3>
-    <p style="margin: 0 0 14px 0; font-size: 0.98em; line-height: 1.65; color: #3f4650;">I study causal data management over property graphs by unifying graph structure priors and statistical learning for robust causal graph construction and fast inference.</p>
-    <ul style="margin: 0; padding-left: 1.15em; color: #3f4650; line-height: 1.7;">
-      <li>CDAG construction from temporal constraints, graph topology, and domain priors.</li>
-      <li>Hybrid structure learning with CI tests and score-based optimization.</li>
-      <li>Large-scale causal analysis via subgraph pruning, parallel discovery, and incremental updates.</li>
+  <div class="rt-body">
+    <span class="rt-chip" style="background:#f3effc; color:#553c9a;">Q4</span>
+    <h3 style="color:#553c9a;">Large (Language) Models for Data</h3>
+    <p>I build LLM-powered and pretrained methods for data systems, covering latency prediction, cardinality estimation, DBMS testing, and real-time data warehouse engines.</p>
+    <ul class="rt-lines">
+      <li><b>Pretrained models for database optimization</b> <span class="vc">VLDB<span class="n">'25</span></span><span class="vc">VLDBJ<span class="n">'26</span></span></li>
+      <li><b>LLM-based test-case generation for DBMS</b> <span class="vc vc-x">ICSE<span class="n">'26 · Best Paper</span></span></li>
+      <li><b>Real-time data warehouse engines</b> <span class="vc">VLDB<span class="n">'25</span></span> with Alibaba Cloud</li>
     </ul>
   </div>
 </div>
 
+<h1 id="-open-source-projects"><span class="anchor" id="open-source-projects"></span>💻 Open-source Projects</h1>
 
-
-## Selected Open-Source Projects
-
-### <span style="color: #2f6f97;">🧭 Graph-based LLM Systems</span>
-
-- [DIGIMON / GraphRAG](https://github.com/JayLZhou/GraphRAG): a graph-based RAG system for structured retrieval and reasoning. <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20Repo%20stars&style=social"></a>
-- [EraRAG](https://github.com/EverM0re/EraRAG-Official): a unified benchmark and analysis framework for graph-based RAG. <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20Repo%20stars&style=social"></a>
+<ul class="os">
+  <li>
+    🔮 <strong><a href="https://github.com/JayLZhou/GraphRAG">DIGIMON / GraphRAG</a></strong> — the first unified graph-based RAG prototype system for structured retrieval and reasoning over complex data.
+    <a href="https://github.com/JayLZhou/GraphRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JayLZhou/GraphRAG?label=GitHub%20stars&style=social"></a>
+  </li>
+  <li>
+    ⏳ <strong><a href="https://github.com/EverM0re/EraRAG-Official">EraRAG</a></strong> — the first graph-based RAG system to handle evolving documents.
+    <a href="https://github.com/EverM0re/EraRAG-Official"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EverM0re/EraRAG-Official?label=GitHub%20stars&style=social"></a>
+  </li>
+  <li>
+    📚 <strong><a href="https://github.com/sam234990/BookRAG">BookRAG</a></strong> — a hierarchical structure-aware index for retrieval-augmented generation over complex documents.
+    <a href="https://github.com/sam234990/BookRAG"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sam234990/BookRAG?label=GitHub%20stars&style=social"></a>
+  </li>
+  <li>
+    🌍 <strong><a href="https://github.com/D2I-CUHKSZ/MicroWorld">MicroWorld</a></strong> — turns multi-modal event material into structured graphs, agent populations, and inspectable social simulations.
+    <a href="https://github.com/D2I-CUHKSZ/MicroWorld"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/D2I-CUHKSZ/MicroWorld?label=GitHub%20stars&style=social"></a>
+  </li>
+</ul>
