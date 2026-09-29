@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yingli Zhou"
   avatar           : "me.jpg"
-  bio              : "ERC postdoc at LIRIS, CNRS / Université Lyon 1. Graph data management for AI."
+  bio              : "ERC postdoc at LIRIS, CNRS. Graph data management for AI."
   location         : "Lyon, France"
-  employer         : "LIRIS, CNRS / Université Lyon 1"
+  employer         : "LIRIS, CNRS"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Klkl1AkAAAAJ&hl=en&authuser=1"
   email            : "zhouyingli.hit@gmail.com"
