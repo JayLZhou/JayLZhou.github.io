@@ -73,7 +73,7 @@ author_profile: false
     <h3 style="color:#276749;">Graph-based LLM Systems</h3>
     <p>I study graph-based retrieval, memory, and reasoning for large language model systems, with a focus on efficient RAG frameworks, indexing, and tuning.</p>
     <ul class="rt-lines">
-      <li><b>Benchmark and analysis</b> of graph-based RAG in a unified framework <span class="vc">VLDB<span class="n">'25</span></span></li>
+      <li><b>In-depth analysis</b> of graph-based RAG in a unified framework <span class="vc">VLDB<span class="n">'25</span></span></li>
       <li><b>Automatic RAG tuning</b> via hierarchical memory-guided search <span class="vc">SIGMOD<span class="n">'26</span></span></li>
       <li><b>Index and retrieval methods</b> <span class="vc">AAAI<span class="n">'26</span></span><span class="vc">ICDE<span class="n">'26</span></span><span class="vc">VLDB-W<span class="n">'25</span></span></li>
       <li><b>Evolving and long documents</b> <span class="vc">arXiv</span> EraRAG, BookRAG</li>

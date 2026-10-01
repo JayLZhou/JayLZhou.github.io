@@ -80,7 +80,7 @@ My research agenda is to build **causality-aware graph data management** and **r
         <div class="leaf-wrap">
           <span class="nd nd-sub">Analysis &amp; Tuning</span>
           <span class="pills">
-            <a class="pill" href="https://arxiv.org/abs/2503.04338">📊 GraphRAG-Bench<span class="v">VLDB'25</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2503.04338">📊 GraphRAG Analysis<span class="v">VLDB'25</span></a>
             <a class="pill" href="/publications/">🔨 HAMMER<span class="v">SIGMOD'26</span></a>
             <a class="pill" href="/publications/">🧭 RAG → Agentic AI<span class="v">VLDB-W'25</span></a>
             <a class="pill" href="https://arxiv.org/abs/2605.07358">📖 Agent Skills Survey<span class="v">Under Review</span></a>
@@ -188,7 +188,7 @@ My research agenda is to build **causality-aware graph data management** and **r
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers were accepted by <strong>SIGMOD'26</strong>!</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> One paper was accepted by <strong>VLDB'26</strong>!</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2025.09]</span> One paper was accepted by <strong>VLDB'26</strong>!</li>
-  <li><span style="color: #4f6d8c; font-weight: 600;">[2025.03]</span> Our systematic benchmark and analysis of <a href="https://arxiv.org/abs/2503.04338"><strong>graph-based RAG</strong></a> is available on arXiv!</li>
+  <li><span style="color: #4f6d8c; font-weight: 600;">[2025.03]</span> Our in-depth analysis of <a href="https://arxiv.org/abs/2503.04338"><strong>graph-based RAG</strong></a> in a unified framework is available on arXiv!</li>
 </ul>
 
 <h1 id="-selected-publications"><span class="anchor" id="selected-publications"></span>📝 Selected Publications <span style="white-space:nowrap; margin-left:8px;"><span class="badge" style="font-size:14px; background-color:#c00000; color:white; border-radius:999px; font-weight:600; margin-left:4px; padding:2px 10px;">CCF A</span><span class="badge" style="font-size:14px; background-color:#f4bc42; color:white; border-radius:999px; font-weight:600; margin-left:4px; padding:2px 10px;">Workshop</span></span></h1>
