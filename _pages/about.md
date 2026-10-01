@@ -80,7 +80,7 @@ My research agenda is to build **causality-aware graph data management** and **r
         <div class="leaf-wrap">
           <span class="nd nd-sub">Analysis &amp; Tuning</span>
           <span class="pills">
-            <a class="pill" href="https://arxiv.org/abs/2503.04338">📊 GraphRAG Analysis<span class="v">VLDB'25</span></a>
+            <a class="pill" href="https://github.com/JayLZhou/GraphRAG">🔮 DIGIMON<span class="v">VLDB'25</span></a>
             <a class="pill" href="/publications/">🔨 HAMMER<span class="v">SIGMOD'26</span></a>
             <a class="pill" href="/publications/">🧭 RAG → Agentic AI<span class="v">VLDB-W'25</span></a>
             <a class="pill" href="https://arxiv.org/abs/2605.07358">📖 Agent Skills Survey<span class="v">Under Review</span></a>
