@@ -68,7 +68,7 @@ author_profile: false
 <h1 id="-honors-and-awards"><span class="anchor" id="honors-and-awards"></span>🏆 Honors and Awards</h1>
 
 <ul class="aw">
-  <li><span class="y">[2026]</span><span>🎓 <span class="top">ACM SIGMOD China Doctoral Dissertation Award</span> <span class="n">3 recipients; nominated for the ACM China Doctoral Dissertation Award</span></span></li>
+  <li><span class="y">[2026]</span><span>🎓 <span class="top">ACM SIGMOD China Doctoral Dissertation Award</span> <span class="n">3 recipients across China, Hong Kong, Macau and Taiwan</span></span></li>
   <li><span class="y">[2026]</span><span>💎 <span class="top">KDD Best Reviewers</span></span></li>
   <li><span class="y">[2026]</span><span>🏆 <span class="top">Best Paper Award</span>, ICSE Industry Challenge Track <span class="n">CCF-A</span></span></li>
   <li><span class="y">[2025]</span><span>🥇 <span class="top">BYD Scholarship</span> <span class="n">1 recipient in the school</span></span></li>

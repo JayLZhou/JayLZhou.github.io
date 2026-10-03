@@ -278,7 +278,7 @@ My research agenda is to build **causality-aware graph data management** and **r
 <h1 id="-honors-and-awards"><span class="anchor" id="honors-and-awards"></span>🏆 Honors and Awards</h1>
 
 <ul>
-  <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🎓 <strong>ACM SIGMOD China Doctoral Dissertation Award</strong> (3 recipients; nominated for the ACM China Doctoral Dissertation Award)</li>
+  <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🎓 <strong>ACM SIGMOD China Doctoral Dissertation Award</strong> (3 recipients across China, Hong Kong, Macau and Taiwan)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 💎 <strong>KDD Best Reviewers</strong></li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🏆 <strong>Best Paper Award</strong>, ICSE Industry Challenge Track (CCF-A)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2025]</span> 🥇 <strong>BYD Scholarship</strong> (1 recipient in the school)</li>
