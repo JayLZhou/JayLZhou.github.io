@@ -281,9 +281,10 @@ My research agenda is to build **causality-aware graph data management** and **r
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🎓 <strong>ACM SIGMOD China Doctoral Dissertation Award</strong> (3 recipients in China)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 💎 <strong>KDD Best Reviewers</strong></li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🏆 <strong>Best Paper Award</strong>, ICSE Industry Challenge Track (CCF-A)</li>
-  <li><span style="color: #4f6d8c; font-weight: 600;">[2025]</span> 🥇 <strong>BYD Scholarship</strong> (1 recipient in the school)</li>
-  <li><span style="color: #4f6d8c; font-weight: 600;">[2024]</span> 🎖️ <strong>Guotai Junan Scholarship</strong> for Excellence and Better China (4 recipients university-wide)</li>
+  <li><span style="color: #4f6d8c; font-weight: 600;">[2024, 2025]</span> 🥇 <strong>BYD Scholarship</strong> &amp; <strong>Guotai Junan Scholarship</strong> for Excellence and Better China</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2024]</span> 🌟 <strong>ByteDance Scholarship Nominee</strong> (40 nominees worldwide)</li>
+  <li><span style="color: #4f6d8c; font-weight: 600;">[2021]</span> 🐬 Selected for the <strong>PingCAP Talent Plan</strong> (TiDB track)</li>
+  <li><span style="color: #4f6d8c; font-weight: 600;">[2021]</span> 🐦 <strong>Tencent Rhino-bird Open-source Training Program</strong> (<a href="https://github.com/TarsCloud/Tars">Tars</a>)</li>
 </ul>
 
 <h1 id="-beyond-research"><span class="anchor" id="beyond-research"></span>🎧 Beyond Research</h1>
