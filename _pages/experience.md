@@ -75,6 +75,8 @@ author_profile: false
   <li><span class="y">[2024]</span><span>🎖️ <span class="top">Guotai Junan Scholarship</span> for Excellence and Better China <span class="n">4 recipients university-wide</span></span></li>
   <li><span class="y">[2024]</span><span>🌟 <span class="top">ByteDance Scholarship Nominee</span> <span class="n">40 nominees worldwide</span></span></li>
   <li><span class="y">[2023, 2025]</span><span>🍎 <span class="top">Best Teaching Assistant</span>, CUHK-Shenzhen</span></li>
+  <li><span class="y">[2021]</span><span>🐬 Selected for the <span class="top">PingCAP Talent Plan</span> <span class="n">TiDB track</span></span></li>
+  <li><span class="y">[2021]</span><span>🐦 <span class="top">Tencent Rhino-bird Open-source Training Program</span> <span class="n">(<a href="https://github.com/TarsCloud/Tars">Tars</a>)</span></span></li>
   <li><span class="y">[2020]</span><span>🎓 <span class="top">Outstanding Graduate</span>, Harbin Institute of Technology</span></li>
 </ul>
 
@@ -82,15 +84,11 @@ author_profile: false
 
 <ul class="cm">
   <li>
-    Selected for the <span class="top">PingCAP Talent Plan</span> (TiDB track), and contributed
-    <span class="num">7,000+</span> lines of code to <a href="https://github.com/pingcap/tidb">TiDB</a>.
+    Contributed <span class="num">7,000+</span> lines of code to
+    <a href="https://github.com/pingcap/tidb">TiDB</a>, PingCAP&#39;s distributed SQL database.
   </li>
   <li>
     My posts on databases, operating systems and distributed systems have been read
     <span class="num">1,000,000+</span> times on <span class="top">Zhihu</span>.
-  </li>
-  <li>
-    <span class="top">Tencent Rhino-bird Open-source Training Program</span>
-    <span class="n">(<a href="https://github.com/TarsCloud/Tars">Tars</a>), 2021</span>
   </li>
 </ul>
