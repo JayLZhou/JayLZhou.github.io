@@ -183,6 +183,7 @@ My research agenda is to build **causality-aware graph data management** and **r
 <h1 id="-news"><span class="anchor" id="news"></span>🔥 News</h1>
 
 <ul>
+  <li><span style="color: #4f6d8c; font-weight: 600;">[2026.10]</span> I received the <strong>ACM SIGMOD China Doctoral Dissertation Award</strong>!</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026.08]</span> I received the <a href="https://kdd2026.kdd.org/kdd-best-reviewers/"><strong>KDD 2026 Best Reviewer</strong></a> award!</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> We released a comprehensive survey on <a href="https://arxiv.org/abs/2605.07358"><strong>Agent Skills</strong></a>!</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers were accepted by <strong>SIGMOD'26</strong>!</li>
@@ -277,13 +278,13 @@ My research agenda is to build **causality-aware graph data management** and **r
 <h1 id="-honors-and-awards"><span class="anchor" id="honors-and-awards"></span>🏆 Honors and Awards</h1>
 
 <ul>
+  <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🎓 <strong>ACM SIGMOD China Doctoral Dissertation Award</strong> (3 recipients; nominated for the ACM China Doctoral Dissertation Award)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 💎 <strong>KDD Best Reviewers</strong></li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🏆 <strong>Best Paper Award</strong>, ICSE Industry Challenge Track (CCF-A)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2025]</span> 🥇 <strong>BYD Scholarship</strong> (1 recipient in the school)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2024]</span> 🎖️ <strong>Guotai Junan Scholarship</strong> for Excellence and Better China (4 recipients university-wide)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2024]</span> 🌟 <strong>ByteDance Scholarship Nominee</strong> (40 nominees worldwide)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2023, 2025]</span> 🍎 <strong>Best Teaching Assistant</strong>, CUHK-Shenzhen</li>
-  <li><span style="color: #4f6d8c; font-weight: 600;">[2021]</span> 🥈 <strong>Alibaba OceanBase Competition</strong>, Second Place</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2020]</span> 🎓 <strong>Outstanding Graduate</strong>, Harbin Institute of Technology</li>
 </ul>
 
