@@ -284,8 +284,6 @@ My research agenda is to build **causality-aware graph data management** and **r
   <li><span style="color: #4f6d8c; font-weight: 600;">[2025]</span> 🥇 <strong>BYD Scholarship</strong> (1 recipient in the school)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2024]</span> 🎖️ <strong>Guotai Junan Scholarship</strong> for Excellence and Better China (4 recipients university-wide)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2024]</span> 🌟 <strong>ByteDance Scholarship Nominee</strong> (40 nominees worldwide)</li>
-  <li><span style="color: #4f6d8c; font-weight: 600;">[2023, 2025]</span> 🍎 <strong>Best Teaching Assistant</strong>, CUHK-Shenzhen</li>
-  <li><span style="color: #4f6d8c; font-weight: 600;">[2020]</span> 🎓 <strong>Outstanding Graduate</strong>, Harbin Institute of Technology</li>
 </ul>
 
 <h1 id="-beyond-research"><span class="anchor" id="beyond-research"></span>🎧 Beyond Research</h1>
