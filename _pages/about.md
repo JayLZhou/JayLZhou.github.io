@@ -292,5 +292,5 @@ My research agenda is to build **causality-aware graph data management** and **r
 <ul>
   <li>🎵 I have been a big fan of <strong>Jay Chou</strong> for around 18 years. I also grew up listening to Avril Lavigne and Coldplay, and their music has been a big part of my life.</li>
   <li>⚽ I love watching football, Dota2 and LOL. My favorite national teams are <strong>Portugal</strong> and <strong>France</strong>. As for clubs, I support Manchester City and used to support Real Madrid when Cristiano Ronaldo played there.</li>
-  <li>🏃 I enjoy running in my free time, and my current goal is to complete a <strong>marathon</strong>.</li>
+  <li>🏋️ I recently started lifting. My current goal is to bench press my own <strong>body weight (72 kg)</strong>.</li>
 </ul>
