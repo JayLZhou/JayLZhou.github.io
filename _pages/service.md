@@ -6,25 +6,28 @@ author_profile: false
 ---
 
 <style>
+  /* this page is a dense list, so it runs a notch smaller than the others */
+  h1.sh { font-size: 1.42em; margin: 1.5em 0 .5em; }
+
   .sv { list-style: none; margin: 0 0 8px 0; padding: 0; }
-  .sv li { padding: 10px 0; border-bottom: 1px dotted #e3e7ec; }
+  .sv li { padding: 8px 0; border-bottom: 1px dotted #e3e7ec; font-size: 14.5px; line-height: 1.5; }
   .sv li:last-child { border-bottom: none; }
   .sv .ab { font-weight: 700; color: #2f6f97; }
-  .sv .full { color: #6b7280; font-size: 0.93em; }
-  .yr { display: inline-block; padding: 1px 8px; margin: 2px 3px 2px 0; border-radius: 12px;
-        border: 1px solid #e8ecf1; background: #fff; font-size: 12.5px; color: #555;
+  .sv .full { color: #6b7280; font-size: 13.5px; }
+  .yr { display: inline-block; padding: 1px 7px; margin: 3px 3px 0 0; border-radius: 12px;
+        border: 1px solid #e8ecf1; background: #fff; font-size: 11.5px; color: #555;
         font-variant-numeric: tabular-nums; white-space: nowrap; }
   .yr-n { border-color: #dbe6f2; color: #2f6f97; }
-  .jr { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 0 0; padding: 0; list-style: none; }
-  .jr li { border: 1px solid #e8ecf1; border-radius: 12px; padding: 3px 11px; font-size: 13.5px; color: #4a515b; }
+  .jr { display: flex; flex-wrap: wrap; gap: 5px; margin: 4px 0 0 0; padding: 0; list-style: none; }
+  .jr li { border: 1px solid #e8ecf1; border-radius: 12px; padding: 2px 10px; font-size: 12.5px; color: #4a515b; }
   .tk { list-style: none; margin: 0; padding: 0; }
-  .tk li { padding: 11px 0; border-bottom: 1px dotted #e3e7ec; }
+  .tk li { padding: 9px 0; border-bottom: 1px dotted #e3e7ec; font-size: 14px; line-height: 1.55; }
   .tk li:last-child { border-bottom: none; }
   .tk .d { color: #4f6d8c; font-weight: 600; font-variant-numeric: tabular-nums; }
   .tk .host { font-weight: 700; }
 </style>
 
-<h1 id="-program-committee"><span class="anchor" id="program-committee"></span>🧑‍⚖️ Program Committee &amp; Conference Reviewing</h1>
+<h1 class="sh" id="-program-committee"><span class="anchor" id="program-committee"></span>🧑‍⚖️ Program Committee &amp; Conference Reviewing</h1>
 
 <ul class="sv">
   <li><span class="ab">SIGMOD</span> <span class="full">ACM International Conference on Management of Data</span><br><span class="yr yr-n">2028</span></li>
@@ -40,7 +43,7 @@ author_profile: false
   <li><span class="ab">ADC</span> <span class="full">Australasian Database Conference</span><br><span class="yr yr-n">2025</span></li>
 </ul>
 
-<h1 id="-journal-reviewing"><span class="anchor" id="journal-reviewing"></span>📰 Journal Reviewing</h1>
+<h1 class="sh" id="-journal-reviewing"><span class="anchor" id="journal-reviewing"></span>📰 Journal Reviewing</h1>
 
 <ul class="jr">
   <li>ACM TKDD</li>
@@ -54,7 +57,7 @@ author_profile: false
   <li>International Journal of Data Science and Analytics</li>
 </ul>
 
-<h1 id="-invited-talks"><span class="anchor" id="invited-talks"></span>🎤 Invited Talks</h1>
+<h1 class="sh" id="-invited-talks"><span class="anchor" id="invited-talks"></span>🎤 Invited Talks</h1>
 
 <ul class="tk">
   <li><span class="d">[2025.05]</span> Graph-based RAG: in-depth analysis via a unified framework — <span class="host">Institute of Computing Technology, Chinese Academy of Sciences</span></li>
@@ -62,7 +65,7 @@ author_profile: false
   <li><span class="d">[2024.12]</span> Exploring graph-based RAG for software development — <span class="host">Huawei Cloud</span></li>
 </ul>
 
-<h1 id="-other-service"><span class="anchor" id="other-service"></span>🤝 Other Service</h1>
+<h1 class="sh" id="-other-service"><span class="anchor" id="other-service"></span>🤝 Other Service</h1>
 
 <ul class="tk">
   <li><span class="d">[2024]</span> Volunteer, <span class="host">VLDB 2024</span>, Guangzhou, China</li>
