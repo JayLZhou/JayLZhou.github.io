@@ -27,7 +27,8 @@ author_profile: false
 <h1 id="-program-committee"><span class="anchor" id="program-committee"></span>🧑‍⚖️ Program Committee &amp; Conference Reviewing</h1>
 
 <ul class="sv">
-  <li><span class="ab">SIGMOD</span> <span class="full">ACM International Conference on Management of Data</span><br><span class="yr yr-n">2024</span><span class="yr yr-n">2025</span> <span class="full">Availability and Reproducibility Committee</span></li>
+  <li><span class="ab">SIGMOD</span> <span class="full">ACM International Conference on Management of Data</span><br><span class="yr yr-n">2028</span></li>
+  <li><span class="ab">SIGMOD</span> <span class="full">Availability and Reproducibility Committee</span><br><span class="yr yr-n">2024</span><span class="yr yr-n">2025</span></li>
   <li><span class="ab">KDD</span> <span class="full">ACM SIGKDD Conference on Knowledge Discovery and Data Mining</span><br><span class="yr yr-n">2025</span><span class="yr yr-n">2026</span></li>
   <li><span class="ab">WWW</span> <span class="full">The Web Conference &amp; WWW Companion</span><br><span class="yr yr-n">2025</span><span class="yr yr-n">2026</span></li>
   <li><span class="ab">CIKM</span> <span class="full">ACM International Conference on Information &amp; Knowledge Management</span><br><span class="yr yr-n">2024</span><span class="yr yr-n">2025</span><span class="yr yr-n">2026</span></li>
