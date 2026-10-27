@@ -6,64 +6,44 @@ author_profile: false
 ---
 
 <style>
-  .sv { list-style: none; margin: 0 0 8px 0; padding: 0; }
-  .sv li { padding: 8px 0; border-bottom: 1px dotted #e3e7ec; font-size: 14.5px; line-height: 1.5; }
-  .sv li:last-child { border-bottom: none; }
-  .sv .ab { font-weight: 700; color: #2f6f97; }
-  .sv .full { color: #6b7280; font-size: 13.5px; }
-  .yr { display: inline-block; padding: 1px 7px; margin: 3px 3px 0 0; border-radius: 12px;
-        border: 1px solid #e8ecf1; background: #fff; font-size: 11.5px; color: #555;
-        font-variant-numeric: tabular-nums; white-space: nowrap; }
-  .yr-n { border-color: #dbe6f2; color: #2f6f97; }
-  .jr { display: flex; flex-wrap: wrap; gap: 5px; margin: 4px 0 0 0; padding: 0; list-style: none; }
-  .jr li { border: 1px solid #e8ecf1; border-radius: 12px; padding: 2px 10px; font-size: 12.5px; color: #4a515b; }
-  .tk { list-style: none; margin: 0; padding: 0; }
-  .tk li { padding: 9px 0; border-bottom: 1px dotted #e3e7ec; font-size: 14px; line-height: 1.55; }
-  .tk li:last-child { border-bottom: none; }
-  .tk .d { color: #4f6d8c; font-weight: 600; font-variant-numeric: tabular-nums; }
-  .tk .host { font-weight: 700; }
+  .sub { font-weight: 700; font-size: 1.05em; margin: 1.1em 0 .3em; }
+  .svc { margin: 0 0 .2em 0; padding-left: 1.25em; }
+  .svc li { margin: 0 0 .3em 0; line-height: 1.5; }
+  .svc .y { color: #4f6d8c; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .svc .note { color: #6b7280; }
+  .svc .host { font-weight: 600; }
 </style>
 
-<h1 class="sh" id="-program-committee"><span class="anchor" id="program-committee"></span>🧑‍⚖️ Program Committee &amp; Conference Reviewing</h1>
+<h1 id="-reviewing-and-committees"><span class="anchor" id="reviewing-and-committees"></span>🧑‍⚖️ Reviewing &amp; Committees</h1>
 
-<ul class="sv">
-  <li><span class="ab">SIGMOD</span> <span class="full">ACM International Conference on Management of Data</span><br><span class="yr yr-n">2028</span></li>
-  <li><span class="ab">SIGMOD</span> <span class="full">Availability and Reproducibility Committee</span><br><span class="yr yr-n">2024</span><span class="yr yr-n">2025</span></li>
-  <li><span class="ab">KDD</span> <span class="full">ACM SIGKDD Conference on Knowledge Discovery and Data Mining</span><br><span class="yr yr-n">2025</span><span class="yr yr-n">2026</span></li>
-  <li><span class="ab">WWW</span> <span class="full">The Web Conference &amp; WWW Companion</span><br><span class="yr yr-n">2025</span><span class="yr yr-n">2026</span></li>
-  <li><span class="ab">CIKM</span> <span class="full">ACM International Conference on Information &amp; Knowledge Management</span><br><span class="yr yr-n">2024</span><span class="yr yr-n">2025</span><span class="yr yr-n">2026</span></li>
-  <li><span class="ab">IJCAI</span> <span class="full">International Joint Conference on Artificial Intelligence</span><br><span class="yr yr-n">2025</span><span class="yr yr-n">2026</span></li>
-  <li><span class="ab">AAAI</span> <span class="full">Association for the Advancement of Artificial Intelligence</span><br><span class="yr yr-n">2026</span></li>
-  <li><span class="ab">EuroSys</span> <span class="full">European Conference on Computer Systems</span><br><span class="yr yr-n">2026</span> <span class="full">Shadow PC</span></li>
-  <li><span class="ab">PAKDD</span> <span class="full">Pacific-Asia Conference on Knowledge Discovery and Data Mining</span><br><span class="yr yr-n">2026</span></li>
-  <li><span class="ab">ECAI</span> <span class="full">European Conference on Artificial Intelligence</span><br><span class="yr yr-n">2025</span></li>
-  <li><span class="ab">ADC</span> <span class="full">Australasian Database Conference</span><br><span class="yr yr-n">2025</span></li>
+<p class="sub">Conference Program Committee</p>
+<ul class="svc">
+  <li><span class="y">2028</span> — SIGMOD</li>
+  <li><span class="y">2026</span> — AAAI, CIKM, EuroSys <span class="note">(Shadow PC)</span>, IJCAI, KDD, PAKDD, WWW</li>
+  <li><span class="y">2025</span> — ADC, CIKM, ECAI, IJCAI, KDD, WWW</li>
+  <li><span class="y">2024</span> — CIKM</li>
 </ul>
 
-<h1 class="sh" id="-journal-reviewing"><span class="anchor" id="journal-reviewing"></span>📰 Journal Reviewing</h1>
-
-<ul class="jr">
-  <li>ACM TKDD</li>
-  <li>ACM TOSEM</li>
-  <li>IEEE TKDE</li>
-  <li>IEEE TNNLS</li>
-  <li>IEEE Transactions on Fuzzy Systems</li>
-  <li>Information Fusion</li>
-  <li>Information Sciences</li>
-  <li>Social Network Analysis and Mining</li>
-  <li>International Journal of Data Science and Analytics</li>
+<p class="sub">Artifact &amp; Reproducibility</p>
+<ul class="svc">
+  <li><span class="y">2024, 2025</span> — SIGMOD <span class="note">Availability and Reproducibility Committee</span></li>
 </ul>
 
-<h1 class="sh" id="-invited-talks"><span class="anchor" id="invited-talks"></span>🎤 Invited Talks</h1>
-
-<ul class="tk">
-  <li><span class="d">[2025.05]</span> Graph-based RAG: in-depth analysis via a unified framework — <span class="host">Institute of Computing Technology, Chinese Academy of Sciences</span></li>
-  <li><span class="d">[2025.02]</span> Graph-based RAG: in-depth analysis via a unified framework — <span class="host">ByteDance</span></li>
-  <li><span class="d">[2024.12]</span> Exploring graph-based RAG for software development — <span class="host">Huawei Cloud</span></li>
+<p class="sub">Journal Reviewer</p>
+<ul class="svc">
+  <li>ACM TKDD, ACM TOSEM, IEEE TKDE, IEEE TNNLS, IEEE Transactions on Fuzzy Systems, Information Fusion, Information Sciences, Social Network Analysis and Mining, International Journal of Data Science and Analytics</li>
 </ul>
 
-<h1 class="sh" id="-other-service"><span class="anchor" id="other-service"></span>🤝 Other Service</h1>
+<h1 id="-invited-talks"><span class="anchor" id="invited-talks"></span>🎤 Invited Talks</h1>
 
-<ul class="tk">
-  <li><span class="d">[2024]</span> Volunteer, <span class="host">VLDB 2024</span>, Guangzhou, China</li>
+<ul class="svc">
+  <li><span class="y">05/2025</span> — Graph-based RAG: in-depth analysis via a unified framework, invited by <span class="host">Institute of Computing Technology, Chinese Academy of Sciences</span></li>
+  <li><span class="y">02/2025</span> — Graph-based RAG: in-depth analysis via a unified framework, invited by <span class="host">ByteDance</span></li>
+  <li><span class="y">12/2024</span> — Exploring graph-based RAG for software development, invited by <span class="host">Huawei Cloud</span></li>
+</ul>
+
+<h1 id="-other-service"><span class="anchor" id="other-service"></span>🤝 Other Service</h1>
+
+<ul class="svc">
+  <li><span class="y">2024</span> — Volunteer, <span class="host">VLDB 2024</span>, Guangzhou, China</li>
 </ul>
