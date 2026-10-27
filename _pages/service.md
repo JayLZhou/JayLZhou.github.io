@@ -6,9 +6,6 @@ author_profile: false
 ---
 
 <style>
-  /* this page is a dense list, so it runs a notch smaller than the others */
-  h1.sh { font-size: 1.42em; margin: 1.5em 0 .5em; }
-
   .sv { list-style: none; margin: 0 0 8px 0; padding: 0; }
   .sv li { padding: 8px 0; border-bottom: 1px dotted #e3e7ec; font-size: 14.5px; line-height: 1.5; }
   .sv li:last-child { border-bottom: none; }
