@@ -19,6 +19,7 @@ author_profile: false
 <p class="sub">Conference Program Committee</p>
 <ul class="svc">
   <li><span class="y">2028</span> — SIGMOD</li>
+  <li><span class="y">2027</span> — AAAI, KDD, WWW</li>
   <li><span class="y">2026</span> — AAAI, CIKM, EuroSys <span class="note">(Shadow PC)</span>, IJCAI, KDD, PAKDD, WWW</li>
   <li><span class="y">2025</span> — ADC, CIKM, ECAI, IJCAI, KDD, WWW</li>
   <li><span class="y">2024</span> — CIKM</li>
