@@ -19,7 +19,7 @@ author_profile: false
 <p class="sub">Conference Program Committee</p>
 <ul class="svc">
   <li><span class="y">2028</span> — SIGMOD</li>
-  <li><span class="y">2027</span> — AAAI, KDD, WWW</li>
+  <li><span class="y">2027</span> — AAAI, KDD, VLDB <span class="note">(Shadow PC)</span>, WWW</li>
   <li><span class="y">2026</span> — AAAI, CIKM, EuroSys <span class="note">(Shadow PC)</span>, IJCAI, KDD, PAKDD, WWW</li>
   <li><span class="y">2025</span> — ADC, CIKM, ECAI, IJCAI, KDD, WWW</li>
   <li><span class="y">2024</span> — CIKM</li>
@@ -38,7 +38,7 @@ author_profile: false
 <h1 id="-invited-talks"><span class="anchor" id="invited-talks"></span>🎤 Invited Talks</h1>
 
 <ul class="svc">
-  <li><span class="y">07/2026</span> — Knowledge-empowered agents: from retrieval-generation to memory-reasoning, invited by <span class="host">Shenzhen Computer Society</span> and the <span class="host">Guangdong Provincial Key Laboratory of Novel Security Intelligence Technologies</span></li>
+  <li><span class="y">07/2026</span> — Knowledge-empowered agents: from retrieval-generation to memory-reasoning, invited by <span class="host">Harbin Institute of Technology, Shenzhen</span></li>
   <li><span class="y">05/2025</span> — Graph-based RAG: in-depth analysis via a unified framework, invited by <span class="host">Institute of Computing Technology, Chinese Academy of Sciences</span></li>
   <li><span class="y">02/2025</span> — Graph-based RAG: in-depth analysis via a unified framework, invited by <span class="host">ByteDance</span></li>
   <li><span class="y">12/2024</span> — Exploring graph-based RAG for software development, invited by <span class="host">Huawei Cloud</span></li>
