@@ -10,7 +10,7 @@ locale                   : "CN"
 title                    : "Yingli Zhou"
 title_separator          : "-"
 name                     : &name "Yingli Zhou"
-description              : &description "ERC postdoc at LIRIS, CNRS working on graph data management for AI."
+description              : &description "ERC postdoc at LIRIS, CNRS working on reliable and scalable knowledge-enhanced LLM systems."
 url                      : https://jaylzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JayLZhou/JayLZhou.github.io" # TODO
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yingli Zhou"
   avatar           : "me.jpg"
-  bio              : "ERC postdoc at LIRIS, CNRS. Graph data management for AI."
+  bio              : "ERC postdoc at LIRIS, CNRS. Reliable and scalable knowledge-enhanced LLM systems."
   location         : "Lyon, France"
   employer         : "LIRIS, CNRS"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

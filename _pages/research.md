@@ -39,11 +39,10 @@ author_profile: false
 <h1 id="-research-overview"><span class="anchor" id="research-overview"></span>🔭 Research Overview</h1>
 
 <div class="rv">
-  <p>My research agenda is to build <strong>causality-aware graph data management</strong> and <strong>reliable graph data infrastructure for AI</strong>. I study how graph structure, causal signals, and scalable data systems can make AI applications more trustworthy, explainable, and efficient. The four directions below line up with my <a href="/publications/">publications</a> and ongoing projects.</p>
-  <p><span class="rt-chip" style="background:#e8f4fd; color:#2c5282;">Q1</span> <span class="rv-dir" style="color:#2c5282;">Causally Explainable Graph Data.</span> Causal property graph data models, CDAG construction, and scalable intervention analysis over large graph data.</p>
-  <p><span class="rt-chip" style="background:#e0f2e9; color:#276749;">Q2</span> <span class="rv-dir" style="color:#276749;">Reliable Graph Infrastructure for AI.</span> Cost-efficient graph-based RAG, structured retrieval, graph memory, and agentic retrieval for knowledge-intensive tasks.</p>
-  <p><span class="rt-chip" style="background:#fef9ef; color:#744210;">Q3</span> <span class="rv-dir" style="color:#744210;">Dense Structure at Massive Scale.</span> Scalable algorithms for densest subgraph discovery, community search, clique and biclique counting, and graph similarity.</p>
-  <p><span class="rt-chip" style="background:#f3effc; color:#553c9a;">Q4</span> <span class="rv-dir" style="color:#553c9a;">Large Models for Data Systems.</span> LLM-powered and pretrained methods for data systems: latency prediction, cardinality estimation, and automated DBMS testing.</p>
+  <p>My research agenda is <strong>reliable and scalable knowledge-enhanced LLM systems</strong>. Knowledge passes through three stages before a model can use it — it is <strong>acquired</strong>, <strong>retrieved</strong>, and then <strong>augments</strong> generation and reasoning. <em>Reliable</em> here means explainable: the system should be able to account for what it used and why. <em>Scalable</em> means those properties still hold at real data sizes.</p>
+  <p><span class="rt-chip" style="background:#e8f4fd; color:#2c5282;">Q1</span> <span class="rv-dir" style="color:#2c5282;">Knowledge Acquisition.</span> Counterfactual data construction, and the learned data systems that make the underlying data fast and trustworthy to serve.</p>
+  <p><span class="rt-chip" style="background:#e0f2e9; color:#276749;">Q2</span> <span class="rv-dir" style="color:#276749;">Knowledge Retrieval.</span> RAG indexing and tuning, built on scalable graph primitives: densest subgraph discovery, community search, clique and biclique counting, graph similarity.</p>
+  <p><span class="rt-chip" style="background:#fef9ef; color:#744210;">Q3</span> <span class="rv-dir" style="color:#744210;">Knowledge Augmentation.</span> Graph-based RAG, structured memory, and agentic retrieval for knowledge-intensive tasks.</p>
 </div>
 
 <h1 id="-research-topics"><span class="anchor" id="research-topics"></span>🧩 Research Topics</h1>
@@ -53,30 +52,14 @@ author_profile: false
     <a href="/images/fig-causal.svg"><img src="/images/fig-causal.svg" alt="A property graph on the left; on the right the same nodes as a causal DAG with a do(A) intervention and a dashed low-confidence edge"></a>
   </div>
   <div class="rt-body">
-    <span class="rt-chip" style="background:#e8f4fd; color:#2c5282;">Q1 · ERC Go-Y, ongoing</span>
-    <h3 style="color:#2c5282;">Causal Property Graphs and Scalable Causal Analysis</h3>
-    <p>I study causal data management over property graphs, unifying graph structure priors with statistical learning for robust causal graph construction and fast inference. This is the direction I started at CNRS LIRIS and it does not have published results yet.</p>
+    <span class="rt-chip" style="background:#e8f4fd; color:#2c5282;">Q1</span>
+    <h3 style="color:#2c5282;">Knowledge Acquisition</h3>
+    <p>Before a model can use knowledge, something has to construct it. I work on counterfactual construction, so that what a system later retrieves can be traced back to an intervention rather than a correlation, and on the data systems that have to serve it at speed.</p>
     <ul class="rt-lines">
-      <li><b>CDAG construction</b> from temporal constraints, graph topology, and domain priors.</li>
-      <li><b>Hybrid structure learning</b> with conditional-independence tests and score-based optimization.</li>
-      <li><b>Large-scale causal analysis</b> via subgraph pruning, parallel discovery, and incremental updates.</li>
-    </ul>
-  </div>
-</div>
-
-<div class="rt">
-  <div class="rt-fig">
-    <a href="/images/fig-graphrag.svg"><img src="/images/fig-graphrag.svg" alt="Documents feed a graph index, whose hierarchical communities are searched to retrieve a subgraph for the LLM"></a>
-  </div>
-  <div class="rt-body">
-    <span class="rt-chip" style="background:#e0f2e9; color:#276749;">Q2</span>
-    <h3 style="color:#276749;">Graph-based LLM Systems</h3>
-    <p>I study graph-based retrieval, memory, and reasoning for large language model systems, with a focus on efficient RAG frameworks, indexing, and tuning.</p>
-    <ul class="rt-lines">
-      <li><b>In-depth analysis</b> of graph-based RAG in a unified framework <span class="vc">VLDB<span class="n">'25</span></span></li>
-      <li><b>Automatic RAG tuning</b> via hierarchical memory-guided search <span class="vc">SIGMOD<span class="n">'26</span></span></li>
-      <li><b>Index and retrieval methods</b> <span class="vc">AAAI<span class="n">'26</span></span><span class="vc">ICDE<span class="n">'26</span></span><span class="vc">VLDB-W<span class="n">'25</span></span></li>
-      <li><b>Evolving and long documents</b> <span class="vc">arXiv</span> EraRAG, BookRAG</li>
+      <li><b>Counterfactual data construction</b> <span class="vc">ERC Go-Y, ongoing</span></li>
+      <li><b>Pretrained models for database optimization</b> <span class="vc">VLDB<span class="n">'25</span></span><span class="vc">VLDBJ<span class="n">'26</span></span></li>
+      <li><b>LLM-based test-case generation for DBMS</b> <span class="vc vc-x">ICSE<span class="n">'26 · Best Paper</span></span></li>
+      <li><b>Real-time data warehouse engines</b> <span class="vc">VLDB<span class="n">'25</span></span> with Alibaba Cloud</li>
     </ul>
   </div>
 </div>
@@ -86,10 +69,11 @@ author_profile: false
     <a href="/images/fig-graphmining.svg"><img src="/images/fig-graphmining.svg" alt="A graph with its densest subgraph circled, beside the three task families: densest subgraph, community search, clique and biclique counting"></a>
   </div>
   <div class="rt-body">
-    <span class="rt-chip" style="background:#fef9ef; color:#744210;">Q3</span>
-    <h3 style="color:#744210;">Graph Mining and Graph Algorithms</h3>
-    <p>I design scalable graph mining algorithms for densest subgraph discovery, community search, clique and biclique counting, and graph similarity tasks.</p>
+    <span class="rt-chip" style="background:#e0f2e9; color:#276749;">Q2</span>
+    <h3 style="color:#276749;">Knowledge Retrieval</h3>
+    <p>Retrieval is only as good as the index underneath it, and on graph data that index is a dense-structure problem. The algorithms below are what let graph-based retrieval stay tractable on billion-edge graphs.</p>
     <ul class="rt-lines">
+      <li><b>RAG indexing and tuning</b> <span class="vc">SIGMOD<span class="n">'26</span></span><span class="vc">ICDE<span class="n">'26</span></span><span class="vc">VLDB-W<span class="n">'25</span></span></li>
       <li><b>Densest subgraph discovery</b> <span class="vc">SIGMOD<span class="n">'24</span></span><span class="vc">VLDB<span class="n">'25 ×2</span></span><span class="vc">SIGMOD<span class="n">'26 ×2</span></span><span class="vc">KDD<span class="n">'26</span></span></li>
       <li><b>Community search</b> <span class="vc">VLDB<span class="n">'23</span></span><span class="vc">SIGIR<span class="n">'25</span></span><span class="vc">VLDB<span class="n">'26</span></span><span class="vc">SIGMOD<span class="n">'26</span></span></li>
       <li><b>Counting and similarity</b> <span class="vc">VLDB<span class="n">'24 ×2</span></span><span class="vc">VLDB<span class="n">'25</span></span><span class="vc">VLDB<span class="n">'26 ×2</span></span></li>
@@ -99,16 +83,17 @@ author_profile: false
 
 <div class="rt">
   <div class="rt-fig">
-    <a href="/images/fig-llm4data.svg"><img src="/images/fig-llm4data.svg" alt="A SQL workload feeding a pretrained model that predicts latency and cardinality for the query optimizer, plus an LLM and MCTS branch generating test cases for the DBMS"></a>
+    <a href="/images/fig-graphrag.svg"><img src="/images/fig-graphrag.svg" alt="Documents feed a graph index, whose hierarchical communities are searched to retrieve a subgraph for the LLM"></a>
   </div>
   <div class="rt-body">
-    <span class="rt-chip" style="background:#f3effc; color:#553c9a;">Q4</span>
-    <h3 style="color:#553c9a;">Large (Language) Models for Data</h3>
-    <p>I build LLM-powered and pretrained methods for data systems, covering latency prediction, cardinality estimation, DBMS testing, and real-time data warehouse engines.</p>
+    <span class="rt-chip" style="background:#fef9ef; color:#744210;">Q3</span>
+    <h3 style="color:#744210;">Knowledge Augmentation</h3>
+    <p>Once the knowledge is retrieved, how should it reach the model? I study graph-based RAG, structured memory, and the point where retrieval stops being a pipeline stage and becomes something the agent plans for itself.</p>
     <ul class="rt-lines">
-      <li><b>Pretrained models for database optimization</b> <span class="vc">VLDB<span class="n">'25</span></span><span class="vc">VLDBJ<span class="n">'26</span></span></li>
-      <li><b>LLM-based test-case generation for DBMS</b> <span class="vc vc-x">ICSE<span class="n">'26 · Best Paper</span></span></li>
-      <li><b>Real-time data warehouse engines</b> <span class="vc">VLDB<span class="n">'25</span></span> with Alibaba Cloud</li>
+      <li><b>Unified analysis of graph-based RAG</b> <span class="vc">VLDB<span class="n">'25</span></span> DIGIMON</li>
+      <li><b>Hierarchical community retrieval</b> <span class="vc">AAAI<span class="n">'26</span></span> ArchRAG</li>
+      <li><b>Evolving and long documents</b> <span class="vc">arXiv</span> EraRAG, BookRAG</li>
+      <li><b>Memory and agentic retrieval</b> <span class="vc">VLDB-W<span class="n">'25</span></span><span class="vc">Under Review</span></li>
     </ul>
   </div>
 </div>

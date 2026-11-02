@@ -16,7 +16,7 @@ redirect_from:
 
 <h1 id="-research-overview"><span class="anchor" id="research-overview"></span>🔬 Research Overview</h1>
 
-My research agenda is to build **causality-aware graph data management** and **reliable graph data infrastructure for AI**. I study how graph structure, causal signals, and scalable data systems can make AI applications more trustworthy, explainable, and efficient.
+My research agenda is **reliable and scalable knowledge-enhanced LLM systems**. Knowledge passes through three stages before a model can use it — it is **acquired**, **retrieved**, and then **augments** generation and reasoning — and I work on all three. *Reliable* here means explainable: the system should be able to account for what it used and why, which is what counterfactual data construction and explicit graph structure are for. *Scalable* means those properties still hold at real data sizes, which is where the indexing and data-systems work comes in.
 
 <style>
 /* the tree needs more room than the text column, so it breaks out to the right */
@@ -58,55 +58,52 @@ My research agenda is to build **causality-aware graph data management** and **r
 <div class="htree">
 <ul>
   <li>
-    <span class="nd nd-rq rq1">Q1: Causally Explainable Graph Data?</span>
+    <span class="nd nd-rq rq1">Q1: How is the knowledge acquired?</span>
     <ul>
       <li>
         <div class="leaf-wrap">
-          <span class="nd nd-sub">Causal Graph Data Management</span>
+          <span class="nd nd-sub">Data Construction</span>
           <span class="pills">
-            <span class="pill">🧬 Causal Property Graphs</span>
-            <span class="pill">🔍 Causal Provenance Query</span>
-            <span class="pill">⚗️ Intervention Analysis</span>
-            <span class="pill" style="color:#888;">🚧 ERC Go-Y, ongoing</span>
+            <span class="pill">🔀 Counterfactual construction<span class="v">ERC Go-Y, ongoing</span></span>
+          </span>
+        </div>
+      </li>
+      <li>
+        <div class="leaf-wrap">
+          <span class="nd nd-sub">Learned Data Systems</span>
+          <span class="pills">
+            <a class="pill" href="/publications/">⏲️ Lamba<span class="v">VLDBJ'26</span></a>
+            <a class="pill" href="/publications/">💰 PRICE<span class="v">VLDB'25</span></a>
+          </span>
+        </div>
+      </li>
+      <li>
+        <div class="leaf-wrap">
+          <span class="nd nd-sub">Reliability &amp; Testing</span>
+          <span class="pills">
+            <a class="pill" href="/publications/">🧪 MCTS-DBMS<span class="v">ICSE'26</span></a>
+            <a class="pill" href="/publications/">🌀 StreamingView<span class="v">VLDB'25</span></a>
           </span>
         </div>
       </li>
     </ul>
   </li>
   <li>
-    <span class="nd nd-rq rq2">Q2: Reliable Graph Infrastructure for AI?</span>
+    <span class="nd nd-rq rq2">Q2: How is the right knowledge retrieved?</span>
     <ul>
       <li>
         <div class="leaf-wrap">
-          <span class="nd nd-sub">Analysis &amp; Tuning</span>
+          <span class="nd nd-sub">RAG Indexing &amp; Tuning</span>
           <span class="pills">
-            <a class="pill" href="https://github.com/JayLZhou/GraphRAG">🔮 DIGIMON<span class="v">VLDB'25</span></a>
             <a class="pill" href="/publications/">🔨 HAMMER<span class="v">SIGMOD'26</span></a>
-            <a class="pill" href="/publications/">🧭 RAG → Agentic AI<span class="v">VLDB-W'25</span></a>
-            <a class="pill" href="https://arxiv.org/abs/2605.07358">📖 Agent Skills Survey<span class="v">Under Review</span></a>
-          </span>
-        </div>
-      </li>
-      <li>
-        <div class="leaf-wrap">
-          <span class="nd nd-sub">Index &amp; Retrieval</span>
-          <span class="pills">
-            <a class="pill" href="/publications/">🏛️ ArchRAG<span class="v">AAAI'26</span></a>
             <a class="pill" href="/publications/">🧩 Clue-RAG<span class="v">ICDE'26</span></a>
             <a class="pill" href="/publications/">#️⃣ LSH-RAG<span class="v">VLDB-W'25</span></a>
-            <a class="pill" href="https://github.com/EverM0re/EraRAG-Official">⏳ EraRAG<span class="v">arXiv</span></a>
-            <a class="pill" href="https://github.com/sam234990/BookRAG">📚 BookRAG<span class="v">arXiv</span></a>
           </span>
         </div>
       </li>
-    </ul>
-  </li>
-  <li>
-    <span class="nd nd-rq rq3">Q3: Dense Structure at Massive Scale?</span>
-    <ul>
       <li>
         <div class="leaf-wrap">
-          <span class="nd nd-sub">Densest Subgraph</span>
+          <span class="nd nd-sub">Dense Structure</span>
           <span class="pills">
             <a class="pill" href="/publications/">⚓ AnchoredDS<span class="v">SIGMOD'26</span></a>
             <a class="pill" href="/publications/">➡️ DirectedDS<span class="v">SIGMOD'26</span></a>
@@ -143,23 +140,25 @@ My research agenda is to build **causality-aware graph data management** and **r
     </ul>
   </li>
   <li>
-    <span class="nd nd-rq rq4">Q4: Large Models for Data Systems?</span>
+    <span class="nd nd-rq rq3">Q3: How does knowledge augment the model?</span>
     <ul>
       <li>
         <div class="leaf-wrap">
-          <span class="nd nd-sub">Learned Models</span>
+          <span class="nd nd-sub">Graph-based RAG</span>
           <span class="pills">
-            <a class="pill" href="/publications/">⏲️ Lamba<span class="v">VLDBJ'26</span></a>
-            <a class="pill" href="/publications/">💰 PRICE<span class="v">VLDB'25</span></a>
+            <a class="pill" href="https://github.com/JayLZhou/GraphRAG">🔮 DIGIMON<span class="v">VLDB'25</span></a>
+            <a class="pill" href="/publications/">🏛️ ArchRAG<span class="v">AAAI'26</span></a>
+            <a class="pill" href="https://github.com/EverM0re/EraRAG-Official">⏳ EraRAG<span class="v">arXiv</span></a>
+            <a class="pill" href="https://github.com/sam234990/BookRAG">📚 BookRAG<span class="v">arXiv</span></a>
           </span>
         </div>
       </li>
       <li>
         <div class="leaf-wrap">
-          <span class="nd nd-sub">Testing &amp; Systems</span>
+          <span class="nd nd-sub">Memory &amp; Agents</span>
           <span class="pills">
-            <a class="pill" href="/publications/">🧪 MCTS-DBMS<span class="v">ICSE'26</span></a>
-            <a class="pill" href="/publications/">🌀 StreamingView<span class="v">VLDB'25</span></a>
+            <a class="pill" href="/publications/">🧭 RAG → Agentic AI<span class="v">VLDB-W'25</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2605.07358">📖 Agent Skills Survey<span class="v">Under Review</span></a>
           </span>
         </div>
       </li>
