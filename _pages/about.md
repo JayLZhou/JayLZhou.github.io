@@ -16,7 +16,7 @@ redirect_from:
 
 <h1 id="-research-overview"><span class="anchor" id="research-overview"></span>🔬 Research Overview</h1>
 
-My research agenda is **reliable and scalable knowledge-enhanced LLM systems**. Knowledge passes through three stages before a model can use it — it is **acquired**, **retrieved**, and then **augments** generation and reasoning — and I work on all three. *Reliable* here means explainable: the system should be able to account for what it used and why, which is what counterfactual data construction and explicit graph structure are for. *Scalable* means those properties still hold at real data sizes, which is where the indexing and data-systems work comes in.
+My research agenda is **reliable and scalable knowledge-enhanced LLM systems**. Knowledge passes through three stages before a model can use it — it is **acquired**, **retrieved**, and then **augments** generation and reasoning — and I work on all three. *Reliable* here means explainable: the system should be able to account for what it used and why. That is the thread I follow in the ERC **GO-Y** project, *Unifying Graph Databases and Causal Models* — giving property graphs causal structure and query languages causal operators, so that a counterfactual question can be put to the data directly. *Scalable* means those properties still hold at real data sizes, which is where the indexing and data-systems work comes in.
 
 <style>
 /* the tree needs more room than the text column, so it breaks out to the right */
@@ -64,7 +64,9 @@ My research agenda is **reliable and scalable knowledge-enhanced LLM systems**. 
         <div class="leaf-wrap">
           <span class="nd nd-sub">Data Construction</span>
           <span class="pills">
-            <span class="pill">🔀 Counterfactual construction<span class="v">ERC Go-Y, ongoing</span></span>
+            <span class="pill">🧬 Causal property graphs<span class="v">ERC GO-Y</span></span>
+            <span class="pill">⚗️ Causal query operators<span class="v">ERC GO-Y</span></span>
+            <span class="pill">🔀 Counterfactual construction<span class="v">ongoing</span></span>
           </span>
         </div>
       </li>

@@ -39,8 +39,8 @@ author_profile: false
 <h1 id="-research-overview"><span class="anchor" id="research-overview"></span>🔭 Research Overview</h1>
 
 <div class="rv">
-  <p>My research agenda is <strong>reliable and scalable knowledge-enhanced LLM systems</strong>. Knowledge passes through three stages before a model can use it — it is <strong>acquired</strong>, <strong>retrieved</strong>, and then <strong>augments</strong> generation and reasoning. <em>Reliable</em> here means explainable: the system should be able to account for what it used and why. <em>Scalable</em> means those properties still hold at real data sizes.</p>
-  <p><span class="rt-chip" style="background:#e8f4fd; color:#2c5282;">Q1</span> <span class="rv-dir" style="color:#2c5282;">Knowledge Acquisition.</span> Counterfactual data construction, and the learned data systems that make the underlying data fast and trustworthy to serve.</p>
+  <p>My research agenda is <strong>reliable and scalable knowledge-enhanced LLM systems</strong>. Knowledge passes through three stages before a model can use it — it is <strong>acquired</strong>, <strong>retrieved</strong>, and then <strong>augments</strong> generation and reasoning. <em>Reliable</em> here means explainable: the system should be able to account for what it used and why. That is the thread I follow in the ERC <strong>GO-Y</strong> project, <em>Unifying Graph Databases and Causal Models</em> — giving property graphs causal structure and query languages causal operators, so that a counterfactual question can be put to the data directly. <em>Scalable</em> means those properties still hold at real data sizes.</p>
+  <p><span class="rt-chip" style="background:#e8f4fd; color:#2c5282;">Q1</span> <span class="rv-dir" style="color:#2c5282;">Knowledge Acquisition.</span> Causal property graphs and counterfactual construction under ERC GO-Y, and the learned data systems that make the underlying data fast and trustworthy to serve.</p>
   <p><span class="rt-chip" style="background:#e0f2e9; color:#276749;">Q2</span> <span class="rv-dir" style="color:#276749;">Knowledge Retrieval.</span> RAG indexing and tuning, built on scalable graph primitives: densest subgraph discovery, community search, clique and biclique counting, graph similarity.</p>
   <p><span class="rt-chip" style="background:#fef9ef; color:#744210;">Q3</span> <span class="rv-dir" style="color:#744210;">Knowledge Augmentation.</span> Graph-based RAG, structured memory, and agentic retrieval for knowledge-intensive tasks.</p>
 </div>
@@ -54,9 +54,10 @@ author_profile: false
   <div class="rt-body">
     <span class="rt-chip" style="background:#e8f4fd; color:#2c5282;">Q1</span>
     <h3 style="color:#2c5282;">Knowledge Acquisition</h3>
-    <p>Before a model can use knowledge, something has to construct it. I work on counterfactual construction, so that what a system later retrieves can be traced back to an intervention rather than a correlation, and on the data systems that have to serve it at speed.</p>
+    <p>Before a model can use knowledge, something has to construct it. Under the ERC <strong>GO-Y</strong> project — <em>Unifying Graph Databases and Causal Models</em> — I work on giving property graphs causal structure and query languages causal operators, so that what a system later retrieves traces back to an intervention rather than a correlation. Alongside that sit the data systems that have to serve it at speed.</p>
     <ul class="rt-lines">
-      <li><b>Counterfactual data construction</b> <span class="vc">ERC Go-Y, ongoing</span></li>
+      <li><b>Causal property graphs and causal query operators</b> <span class="vc">ERC GO-Y</span></li>
+      <li><b>Counterfactual data construction</b> <span class="vc">ongoing</span></li>
       <li><b>Pretrained models for database optimization</b> <span class="vc">VLDB<span class="n">'25</span></span><span class="vc">VLDBJ<span class="n">'26</span></span></li>
       <li><b>LLM-based test-case generation for DBMS</b> <span class="vc vc-x">ICSE<span class="n">'26 · Best Paper</span></span></li>
       <li><b>Real-time data warehouse engines</b> <span class="vc">VLDB<span class="n">'25</span></span> with Alibaba Cloud</li>
