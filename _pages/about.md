@@ -184,6 +184,7 @@ My research agenda is **reliable and scalable knowledge-enhanced LLM systems**. 
 <h1 id="-news"><span class="anchor" id="news"></span>🔥 News</h1>
 
 <ul>
+  <li><span style="color: #4f6d8c; font-weight: 600;">[2026.11]</span> Our team <strong>Grouph</strong> won <strong>2nd Prize</strong> in Track C of the <a href="https://socioverse.fudan-disc.com/challenge/#leaderboard">SocioVerse Challenge 2026</a>, announced at LASS 2026 @ CIKM 2026!</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026.10]</span> I received the <strong>ACM SIGMOD China Doctoral Dissertation Award</strong>!</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026.08]</span> I received the <a href="https://kdd2026.kdd.org/kdd-best-reviewers/"><strong>KDD 2026 Best Reviewer</strong></a> award!</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> We released a comprehensive survey on <a href="https://arxiv.org/abs/2605.07358"><strong>Agent Skills</strong></a>!</li>
@@ -282,6 +283,7 @@ My research agenda is **reliable and scalable knowledge-enhanced LLM systems**. 
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🎓 <strong>ACM SIGMOD China Doctoral Dissertation Award</strong> (3 recipients in China)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 💎 <strong>KDD Best Reviewers</strong></li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🏆 <strong>Best Paper Award</strong>, ICSE Industry Challenge Track (CCF-A)</li>
+  <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🥈 <strong>2nd Prize</strong>, <a href="https://socioverse.fudan-disc.com/challenge/#leaderboard">SocioVerse Challenge 2026</a>, Track C — team <strong>Grouph</strong>, project leader</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2024, 2025]</span> 🥇 <strong>BYD Scholarship</strong> &amp; <strong>Guotai Junan Scholarship</strong> for Excellence and Better China</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2024]</span> 🌟 <strong>ByteDance Scholarship Nominee</strong> (40 nominees worldwide)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2021]</span> 🐬 Selected for the <strong>PingCAP Talent Plan</strong> (TiDB track)</li>

@@ -71,6 +71,7 @@ author_profile: false
   <li><span class="y">[2026]</span><span>🎓 <span class="top">ACM SIGMOD China Doctoral Dissertation Award</span> <span class="n">3 recipients in China</span></span></li>
   <li><span class="y">[2026]</span><span>💎 <span class="top">KDD Best Reviewers</span></span></li>
   <li><span class="y">[2026]</span><span>🏆 <span class="top">Best Paper Award</span>, ICSE Industry Challenge Track <span class="n">CCF-A</span></span></li>
+  <li><span class="y">[2026]</span><span>🥈 <span class="top">2nd Prize</span>, <a href="https://socioverse.fudan-disc.com/challenge/#leaderboard">SocioVerse Challenge 2026</a>, Track C: Methodological and Systems Innovation <span class="n">team Grouph, project leader; built on <a href="https://github.com/D2I-CUHKSZ/MicroWorld">MicroWorld</a>; announced at LASS 2026 @ CIKM 2026</span></span></li>
   <li><span class="y">[2025]</span><span>🥇 <span class="top">BYD Scholarship</span> <span class="n">1 recipient in the school</span></span></li>
   <li><span class="y">[2024]</span><span>🎖️ <span class="top">Guotai Junan Scholarship</span> for Excellence and Better China <span class="n">4 recipients university-wide</span></span></li>
   <li><span class="y">[2024]</span><span>🌟 <span class="top">ByteDance Scholarship Nominee</span> <span class="n">40 nominees worldwide</span></span></li>
