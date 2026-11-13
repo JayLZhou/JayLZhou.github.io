@@ -283,7 +283,7 @@ My research agenda is **reliable and scalable knowledge-enhanced LLM systems**. 
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🎓 <strong>ACM SIGMOD China Doctoral Dissertation Award</strong> (3 recipients in China)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 💎 <strong>KDD Best Reviewers</strong></li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🏆 <strong>Best Paper Award</strong>, ICSE Industry Challenge Track (CCF-A)</li>
-  <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🥈 <strong>Runner-up</strong>, <a href="https://socioverse.fudan-disc.com/challenge/#leaderboard">SocioVerse Challenge 2026</a>, Track C — team <strong>Grouph</strong>, project leader</li>
+  <li><span style="color: #4f6d8c; font-weight: 600;">[2026]</span> 🥈 <strong>Runner-up</strong>, <a href="https://socioverse.fudan-disc.com/challenge/#leaderboard">SocioVerse Challenge 2026</a>, Track C — team <strong>Grouph</strong>, advisor</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2024, 2025]</span> 🥇 <strong>BYD Scholarship</strong> &amp; <strong>Guotai Junan Scholarship</strong> for Excellence and Better China</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2024]</span> 🌟 <strong>ByteDance Scholarship Nominee</strong> (40 nominees worldwide)</li>
   <li><span style="color: #4f6d8c; font-weight: 600;">[2021]</span> 🐬 Selected for the <strong>PingCAP Talent Plan</strong> (TiDB track)</li>
