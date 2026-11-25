@@ -20,14 +20,14 @@ author_profile: false
 <ul class="svc">
   <li><span class="y">2028</span> — SIGMOD</li>
   <li><span class="y">2027</span> — AAAI, IJCAI, KDD, VLDB <span class="note">(Shadow PC)</span>, WWW</li>
-  <li><span class="y">2026</span> — AAAI, CIKM, EuroSys <span class="note">(Shadow PC)</span>, IJCAI, KDD, PAKDD, WWW</li>
+  <li><span class="y">2026</span> — AAAI, CIKM, DASFAA, EuroSys <span class="note">(Shadow PC)</span>, IJCAI, KDD, PAKDD, WWW</li>
   <li><span class="y">2025</span> — ADC, CIKM, ECAI, IJCAI, KDD, WWW</li>
   <li><span class="y">2024</span> — CIKM</li>
 </ul>
 
 <p class="sub">Artifact &amp; Reproducibility</p>
 <ul class="svc">
-  <li><span class="y">2024, 2025</span> — SIGMOD <span class="note">Availability and Reproducibility Committee</span></li>
+  <li><span class="y">2024, 2025, 2026</span> — SIGMOD <span class="note">Availability, Integrity and Reproducibility (AIR) Committee</span></li>
 </ul>
 
 <p class="sub">Journal Reviewer</p>
